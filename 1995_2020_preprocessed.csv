@@ -1,0 +1,4264 @@
+,Country,Year,Score,Category
+0,Albania,1995,49.7,Repressed
+1,Algeria,1995,55.7,Mostly Unfree
+2,Angola,1995,27.4,Repressed
+3,Argentina,1995,68.0,Moderately Free
+4,Australia,1995,74.1,Mostly Free
+5,Austria,1995,70.0,Mostly Free
+6,Bahrain,1995,76.2,Mostly Free
+7,Bangladesh ,1995,40.9,Repressed
+8,Belarus,1995,40.4,Repressed
+9,Belize,1995,62.9,Moderately Unfree
+10,Bolivia,1995,56.8,Mostly Unfree
+11,Botswana,1995,56.8,Mostly Unfree
+12,Brazil,1995,51.4,Mostly Unfree
+13,Bulgaria,1995,50.0,Mostly Unfree
+14,Cameroon,1995,51.3,Mostly Unfree
+15,Canada,1995,69.4,Moderately Free
+16,Chile,1995,71.2,Mostly Free
+17,China,1995,52.0,Mostly Unfree
+18,Colombia,1995,64.5,Moderately Unfree
+19,Costa Rica ,1995,68.0,Moderately Free
+20,Côte d'Ivoire ,1995,53.4,Mostly Unfree
+21,Cuba,1995,27.8,Repressed
+22,Czech Republic,1995,67.8,Moderately Free
+23,Democratic Republic of Congo,1995,41.4,Repressed
+24,Dominican Republic,1995,55.8,Mostly Unfree
+25,Ecuador,1995,57.7,Mostly Unfree
+26,Egypt,1995,45.7,Repressed
+27,El Salvador ,1995,69.1,Moderately Free
+28,Estonia,1995,65.2,Moderately Free
+29,Eswatini,1995,63.3,Moderately Unfree
+30,Ethiopia,1995,42.6,Repressed
+31,Fiji,1995,54.7,Mostly Unfree
+32,France,1995,64.4,Moderately Unfree
+33,Gabon,1995,57.5,Mostly Unfree
+34,Germany,1995,69.8,Moderately Free
+35,Ghana,1995,55.6,Mostly Unfree
+36,Greece,1995,61.2,Moderately Unfree
+37,Guatemala ,1995,62.0,Moderately Unfree
+38,Guinea,1995,59.4,Mostly Unfree
+39,Guyana,1995,45.7,Repressed
+40,Haiti,1995,43.0,Repressed
+41,Honduras ,1995,57.0,Mostly Unfree
+42,Hong Kong,1995,88.6,Free
+43,Hungary ,1995,55.2,Mostly Unfree
+44,India,1995,45.1,Repressed
+45,Indonesia,1995,54.9,Mostly Unfree
+46,Ireland,1995,68.5,Moderately Free
+47,Israel,1995,61.5,Moderately Unfree
+48,Italy,1995,61.2,Moderately Unfree
+49,Jamaica ,1995,64.4,Moderately Unfree
+50,Japan,1995,75.0,Mostly Free
+51,Jordan,1995,62.7,Moderately Unfree
+52,Kenya,1995,54.5,Mostly Unfree
+53,Madagascar,1995,51.6,Mostly Unfree
+54,Malawi,1995,54.7,Mostly Unfree
+55,Malaysia ,1995,71.9,Mostly Free
+56,Mali,1995,52.4,Mostly Unfree
+57,Malta,1995,56.3,Mostly Unfree
+58,Mexico,1995,63.1,Moderately Unfree
+59,Moldova,1995,33.0,Repressed
+60,Mongolia,1995,47.8,Repressed
+61,Morocco,1995,62.8,Moderately Unfree
+62,Mozambique ,1995,45.5,Repressed
+63,Nicaragua ,1995,42.5,Repressed
+64,Nigeria,1995,47.3,Repressed
+65,North Korea,1995,8.9,Repressed
+66,Oman,1995,70.2,Mostly Free
+67,Pakistan ,1995,57.6,Mostly Unfree
+68,Panama ,1995,71.6,Mostly Free
+69,Paraguay ,1995,65.9,Moderately Free
+70,Peru,1995,56.9,Mostly Unfree
+71,Philippines,1995,55.0,Mostly Unfree
+72,Poland,1995,50.7,Mostly Unfree
+73,Portugal,1995,62.4,Moderately Unfree
+74,Romania,1995,42.9,Repressed
+75,Russia,1995,51.1,Mostly Unfree
+76,Sierra Leone,1995,49.8,Repressed
+77,Singapore,1995,86.3,Free
+78,Slovakia,1995,60.4,Moderately Unfree
+79,South Africa,1995,60.7,Moderately Unfree
+80,South Korea,1995,72.0,Mostly Free
+81,Spain,1995,62.8,Moderately Unfree
+82,Sri Lanka,1995,60.6,Moderately Unfree
+83,Sudan,1995,39.4,Repressed
+84,Sweden,1995,61.4,Moderately Unfree
+85,Taiwan,1995,74.2,Mostly Free
+86,Tanzania,1995,57.3,Mostly Unfree
+87,Thailand ,1995,71.3,Mostly Free
+88,The Bahamas,1995,71.8,Mostly Free
+89,Tunisia,1995,63.4,Moderately Unfree
+90,Turkey,1995,58.4,Mostly Unfree
+91,Uganda,1995,62.9,Moderately Unfree
+92,Ukraine,1995,39.9,Repressed
+93,United Kingdom,1995,77.9,Mostly Free
+94,United States,1995,76.7,Mostly Free
+95,Uruguay ,1995,62.5,Moderately Unfree
+96,Venezuela ,1995,59.8,Mostly Unfree
+97,Vietnam,1995,41.7,Repressed
+98,Yemen,1995,49.8,Repressed
+99,Zambia,1995,55.1,Mostly Unfree
+100,Zimbabwe,1995,48.5,Repressed
+101,Albania,1996,53.8,Mostly Unfree
+102,Algeria,1996,54.5,Mostly Unfree
+103,Angola,1996,24.4,Repressed
+104,Argentina,1996,74.7,Mostly Free
+105,Armenia,1996,42.2,Repressed
+106,Australia,1996,74.0,Mostly Free
+107,Austria,1996,68.9,Moderately Free
+108,Azerbaijan,1996,30.0,Repressed
+109,Bahrain,1996,76.4,Mostly Free
+110,Bangladesh ,1996,51.1,Mostly Unfree
+111,Barbados,1996,62.3,Moderately Unfree
+112,Belarus,1996,38.7,Repressed
+113,Belgium,1996,66.0,Moderately Free
+114,Belize,1996,61.6,Moderately Unfree
+115,Benin,1996,54.5,Mostly Unfree
+116,Bolivia,1996,65.2,Moderately Free
+117,Botswana,1996,61.6,Moderately Unfree
+118,Brazil,1996,48.1,Repressed
+119,Bulgaria,1996,48.6,Repressed
+120,Burkina Faso,1996,49.4,Repressed
+121,Burma,1996,45.1,Repressed
+122,Cabo Verde,1996,49.7,Repressed
+123,Cameroon,1996,45.7,Repressed
+124,Canada,1996,70.3,Mostly Free
+125,Chile,1996,72.6,Mostly Free
+126,China,1996,51.3,Mostly Unfree
+127,Colombia,1996,64.3,Moderately Unfree
+128,Costa Rica ,1996,66.4,Moderately Free
+129,Côte d'Ivoire ,1996,49.9,Repressed
+130,Croatia,1996,48.0,Repressed
+131,Cuba,1996,27.8,Repressed
+132,Cyprus,1996,67.7,Moderately Free
+133,Czech Republic,1996,68.1,Moderately Free
+134,Democratic Republic of Congo,1996,39.5,Repressed
+135,Denmark,1996,67.3,Moderately Free
+136,Dominican Republic,1996,58.1,Mostly Unfree
+137,Ecuador,1996,60.1,Moderately Unfree
+138,Egypt,1996,52.0,Mostly Unfree
+139,El Salvador ,1996,70.1,Mostly Free
+140,Estonia,1996,65.4,Moderately Free
+141,Eswatini,1996,58.6,Mostly Unfree
+142,Ethiopia,1996,45.9,Repressed
+143,Fiji,1996,57.4,Mostly Unfree
+144,Finland,1996,63.7,Moderately Unfree
+145,France,1996,63.7,Moderately Unfree
+146,Gabon,1996,55.7,Mostly Unfree
+147,Georgia,1996,44.1,Repressed
+148,Germany,1996,69.1,Moderately Free
+149,Ghana,1996,57.7,Mostly Unfree
+150,Greece,1996,60.5,Moderately Unfree
+151,Guatemala ,1996,63.7,Moderately Unfree
+152,Guinea,1996,58.5,Mostly Unfree
+153,Guyana,1996,50.1,Mostly Unfree
+154,Haiti,1996,41.0,Repressed
+155,Honduras ,1996,56.6,Mostly Unfree
+156,Hong Kong,1996,90.5,Free
+157,Hungary ,1996,56.8,Mostly Unfree
+158,India,1996,47.4,Repressed
+159,Indonesia,1996,61.0,Moderately Unfree
+160,Iran,1996,36.1,Repressed
+161,Iraq,1996,17.2,Repressed
+162,Ireland,1996,68.5,Moderately Free
+163,Israel,1996,62.0,Moderately Unfree
+164,Italy,1996,60.8,Moderately Unfree
+165,Jamaica ,1996,66.7,Moderately Free
+166,Japan,1996,72.6,Mostly Free
+167,Jordan,1996,60.8,Moderately Unfree
+168,Kenya,1996,56.4,Mostly Unfree
+169,Kuwait,1996,66.1,Moderately Free
+170,Laos,1996,38.5,Repressed
+171,Latvia,1996,55.0,Mostly Unfree
+172,Lebanon,1996,63.2,Moderately Unfree
+173,Lesotho,1996,47.0,Repressed
+174,Libya,1996,31.7,Repressed
+175,Lithuania,1996,49.7,Repressed
+176,Luxembourg,1996,72.5,Mostly Free
+177,Madagascar,1996,52.2,Mostly Unfree
+178,Malawi,1996,56.2,Mostly Unfree
+179,Malaysia ,1996,69.9,Moderately Free
+180,Mali,1996,57.0,Mostly Unfree
+181,Malta,1996,55.8,Mostly Unfree
+182,Mauritania,1996,45.5,Repressed
+183,Mexico,1996,61.2,Moderately Unfree
+184,Moldova,1996,52.5,Mostly Unfree
+185,Mongolia,1996,47.4,Repressed
+186,Morocco,1996,64.3,Moderately Unfree
+187,Mozambique ,1996,48.4,Repressed
+188,Nepal,1996,50.3,Mostly Unfree
+189,Netherlands,1996,69.7,Moderately Free
+190,New Zealand,1996,78.1,Mostly Free
+191,Nicaragua ,1996,54.1,Mostly Unfree
+192,Niger,1996,45.8,Repressed
+193,Nigeria,1996,47.4,Repressed
+194,North Korea,1996,8.9,Repressed
+195,Norway,1996,65.4,Moderately Free
+196,Oman,1996,65.4,Moderately Free
+197,Pakistan ,1996,58.4,Mostly Unfree
+198,Panama ,1996,71.8,Mostly Free
+199,Papua New Guinea,1996,58.6,Mostly Unfree
+200,Paraguay ,1996,67.1,Moderately Free
+201,Peru,1996,62.5,Moderately Unfree
+202,Philippines,1996,60.2,Moderately Unfree
+203,Poland,1996,57.8,Mostly Unfree
+204,Portugal,1996,64.5,Moderately Unfree
+205,Republic of Congo ,1996,40.3,Repressed
+206,Romania,1996,46.2,Repressed
+207,Russia,1996,51.6,Mostly Unfree
+208,Samoa,1996,47.6,Repressed
+209,Saudi Arabia,1996,68.3,Moderately Free
+210,Senegal,1996,58.2,Mostly Unfree
+211,Sierra Leone,1996,52.3,Mostly Unfree
+212,Singapore,1996,86.5,Free
+213,Slovakia,1996,57.6,Mostly Unfree
+214,Slovenia,1996,50.4,Mostly Unfree
+215,South Africa,1996,62.5,Moderately Unfree
+216,South Korea,1996,73.0,Mostly Free
+217,Spain,1996,59.6,Mostly Unfree
+218,Sri Lanka,1996,62.5,Moderately Unfree
+219,Sudan,1996,39.2,Repressed
+220,Suriname,1996,36.7,Repressed
+221,Sweden,1996,61.8,Moderately Unfree
+222,Switzerland,1996,76.8,Mostly Free
+223,Syria,1996,42.3,Repressed
+224,Taiwan,1996,74.1,Mostly Free
+225,Tanzania,1996,57.5,Mostly Unfree
+226,Thailand ,1996,71.0,Mostly Free
+227,The Bahamas,1996,74.0,Mostly Free
+228,Trinidad and Tobago,1996,69.2,Moderately Free
+229,Tunisia,1996,63.9,Moderately Unfree
+230,Turkey,1996,56.7,Mostly Unfree
+231,Uganda,1996,66.2,Moderately Free
+232,Ukraine,1996,40.6,Repressed
+233,United Arab Emirates,1996,71.6,Mostly Free
+234,United Kingdom,1996,76.4,Mostly Free
+235,United States,1996,76.7,Mostly Free
+236,Uruguay ,1996,63.7,Moderately Unfree
+237,Venezuela ,1996,54.5,Mostly Unfree
+238,Vietnam,1996,40.2,Repressed
+239,Yemen,1996,49.6,Repressed
+240,Zambia,1996,59.6,Mostly Unfree
+241,Zimbabwe,1996,46.7,Repressed
+242,Albania,1997,54.8,Mostly Unfree
+243,Algeria,1997,54.9,Mostly Unfree
+244,Angola,1997,24.2,Repressed
+245,Argentina,1997,73.3,Mostly Free
+246,Armenia,1997,46.7,Repressed
+247,Australia,1997,75.5,Mostly Free
+248,Austria,1997,65.2,Moderately Free
+249,Azerbaijan,1997,34.0,Repressed
+250,Bahrain,1997,76.1,Mostly Free
+251,Bangladesh ,1997,49.9,Repressed
+252,Barbados,1997,64.5,Moderately Unfree
+253,Belarus,1997,39.8,Repressed
+254,Belgium,1997,64.6,Moderately Unfree
+255,Belize,1997,64.3,Moderately Unfree
+256,Benin,1997,61.3,Moderately Unfree
+257,Bolivia,1997,65.1,Moderately Free
+258,Botswana,1997,59.1,Mostly Unfree
+259,Brazil,1997,52.6,Mostly Unfree
+260,Bulgaria,1997,47.6,Repressed
+261,Burkina Faso,1997,54.0,Mostly Unfree
+262,Burma,1997,45.4,Repressed
+263,Burundi,1997,45.4,Repressed
+264,Cabo Verde,1997,47.7,Repressed
+265,Cambodia,1997,52.8,Mostly Unfree
+266,Cameroon,1997,44.6,Repressed
+267,Canada,1997,67.9,Moderately Free
+268,Chad,1997,45.1,Repressed
+269,Chile,1997,75.9,Mostly Free
+270,China,1997,51.7,Mostly Unfree
+271,Colombia,1997,66.4,Moderately Free
+272,Costa Rica ,1997,65.6,Moderately Free
+273,Côte d'Ivoire ,1997,50.5,Mostly Unfree
+274,Croatia,1997,46.7,Repressed
+275,Cuba,1997,27.8,Repressed
+276,Cyprus,1997,67.9,Moderately Free
+277,Czech Republic,1997,68.8,Moderately Free
+278,Democratic Republic of Congo,1997,39.5,Repressed
+279,Denmark,1997,67.5,Moderately Free
+280,Djibouti,1997,54.5,Mostly Unfree
+281,Dominican Republic,1997,53.5,Mostly Unfree
+282,Ecuador,1997,61.0,Moderately Unfree
+283,Egypt,1997,54.5,Mostly Unfree
+284,El Salvador ,1997,70.5,Mostly Free
+285,Estonia,1997,69.1,Moderately Free
+286,Eswatini,1997,59.4,Mostly Unfree
+287,Ethiopia,1997,48.1,Repressed
+288,Fiji,1997,58.0,Mostly Unfree
+289,Finland,1997,65.2,Moderately Free
+290,France,1997,59.1,Mostly Unfree
+291,Gabon,1997,58.8,Mostly Unfree
+292,Georgia,1997,46.5,Repressed
+293,Germany,1997,67.5,Moderately Free
+294,Ghana,1997,56.7,Mostly Unfree
+295,Greece,1997,59.6,Mostly Unfree
+296,Guatemala ,1997,65.7,Moderately Free
+297,Guinea,1997,52.9,Mostly Unfree
+298,Guyana,1997,53.2,Mostly Unfree
+299,Haiti,1997,45.8,Repressed
+300,Honduras ,1997,56.0,Mostly Unfree
+301,Hong Kong,1997,88.6,Free
+302,Hungary ,1997,55.3,Mostly Unfree
+303,Iceland,1997,70.5,Mostly Free
+304,India,1997,49.7,Repressed
+305,Indonesia,1997,62.0,Moderately Unfree
+306,Iran,1997,34.5,Repressed
+307,Iraq,1997,17.2,Repressed
+308,Ireland,1997,72.6,Mostly Free
+309,Israel,1997,62.7,Moderately Unfree
+310,Italy,1997,58.1,Mostly Unfree
+311,Jamaica ,1997,67.7,Moderately Free
+312,Japan,1997,70.3,Mostly Free
+313,Jordan,1997,63.6,Moderately Unfree
+314,Kenya,1997,60.1,Moderately Unfree
+315,Kuwait,1997,64.8,Moderately Unfree
+316,Laos,1997,35.1,Repressed
+317,Latvia,1997,62.4,Moderately Unfree
+318,Lebanon,1997,63.9,Moderately Unfree
+319,Lesotho,1997,47.2,Repressed
+320,Libya,1997,28.9,Repressed
+321,Lithuania,1997,57.3,Mostly Unfree
+322,Luxembourg,1997,72.8,Mostly Free
+323,Madagascar,1997,53.8,Mostly Unfree
+324,Malawi,1997,53.4,Mostly Unfree
+325,Malaysia ,1997,66.8,Moderately Free
+326,Mali,1997,56.4,Mostly Unfree
+327,Malta,1997,57.9,Mostly Unfree
+328,Mauritania,1997,47.0,Repressed
+329,Mexico,1997,57.1,Mostly Unfree
+330,Moldova,1997,48.9,Repressed
+331,Mongolia,1997,52.9,Mostly Unfree
+332,Morocco,1997,64.7,Moderately Unfree
+333,Mozambique ,1997,44.0,Repressed
+334,Namibia,1997,61.6,Moderately Unfree
+335,Nepal,1997,53.6,Mostly Unfree
+336,Netherlands,1997,70.4,Mostly Free
+337,New Zealand,1997,79.0,Mostly Free
+338,Nicaragua ,1997,53.3,Mostly Unfree
+339,Niger,1997,46.6,Repressed
+340,Nigeria,1997,52.8,Mostly Unfree
+341,North Korea,1997,8.9,Repressed
+342,Norway,1997,65.1,Moderately Free
+343,Oman,1997,64.5,Moderately Unfree
+344,Pakistan ,1997,56.0,Mostly Unfree
+345,Panama ,1997,72.4,Mostly Free
+346,Papua New Guinea,1997,56.7,Mostly Unfree
+347,Paraguay ,1997,67.3,Moderately Free
+348,Peru,1997,63.8,Moderately Unfree
+349,Philippines,1997,62.2,Moderately Unfree
+350,Poland,1997,56.8,Mostly Unfree
+351,Portugal,1997,63.6,Moderately Unfree
+352,Republic of Congo ,1997,42.2,Repressed
+353,Romania,1997,50.8,Mostly Unfree
+354,Russia,1997,48.6,Repressed
+355,Rwanda,1997,38.3,Repressed
+356,Samoa,1997,51.5,Mostly Unfree
+357,Saudi Arabia,1997,68.7,Moderately Free
+358,Senegal,1997,58.1,Mostly Unfree
+359,Sierra Leone,1997,45.0,Repressed
+360,Singapore,1997,87.3,Free
+361,Slovakia,1997,55.5,Mostly Unfree
+362,Slovenia,1997,55.6,Mostly Unfree
+363,South Africa,1997,63.2,Moderately Unfree
+364,South Korea,1997,69.8,Moderately Free
+365,Spain,1997,59.6,Mostly Unfree
+366,Sri Lanka,1997,65.5,Moderately Free
+367,Sudan,1997,39.9,Repressed
+368,Suriname,1997,35.9,Repressed
+369,Sweden,1997,63.3,Moderately Unfree
+370,Switzerland,1997,78.6,Mostly Free
+371,Syria,1997,43.0,Repressed
+372,Taiwan,1997,70.0,Mostly Free
+373,Tanzania,1997,59.3,Mostly Unfree
+374,Thailand ,1997,66.1,Moderately Free
+375,The Bahamas,1997,74.5,Mostly Free
+376,The Gambia,1997,52.9,Mostly Unfree
+377,Trinidad and Tobago,1997,71.3,Mostly Free
+378,Tunisia,1997,63.8,Moderately Unfree
+379,Turkey,1997,60.8,Moderately Unfree
+380,Uganda,1997,66.6,Moderately Free
+381,Ukraine,1997,43.5,Repressed
+382,United Arab Emirates,1997,71.9,Mostly Free
+383,United Kingdom,1997,76.4,Mostly Free
+384,United States,1997,75.6,Mostly Free
+385,Uruguay ,1997,67.5,Moderately Free
+386,Venezuela ,1997,52.8,Mostly Unfree
+387,Vietnam,1997,38.6,Repressed
+388,Yemen,1997,48.4,Repressed
+389,Zambia,1997,62.1,Moderately Unfree
+390,Zimbabwe,1997,48.0,Repressed
+391,Albania,1998,53.9,Mostly Unfree
+392,Algeria,1998,55.8,Mostly Unfree
+393,Angola,1998,24.9,Repressed
+394,Argentina,1998,70.9,Mostly Free
+395,Armenia,1998,49.6,Repressed
+396,Australia,1998,75.6,Mostly Free
+397,Austria,1998,65.4,Moderately Free
+398,Azerbaijan,1998,43.1,Repressed
+399,Bahrain,1998,75.6,Mostly Free
+400,Bangladesh ,1998,52.0,Mostly Unfree
+401,Barbados,1998,67.9,Moderately Free
+402,Belarus,1998,38.0,Repressed
+403,Belgium,1998,64.7,Moderately Unfree
+404,Belize,1998,59.1,Mostly Unfree
+405,Benin,1998,61.7,Moderately Unfree
+406,Bolivia,1998,68.8,Moderately Free
+407,Bosnia and Herzegovina,1998,29.4,Repressed
+408,Botswana,1998,62.8,Moderately Unfree
+409,Brazil,1998,52.3,Mostly Unfree
+410,Bulgaria,1998,45.7,Repressed
+411,Burkina Faso,1998,54.5,Mostly Unfree
+412,Burma,1998,45.7,Repressed
+413,Burundi,1998,44.7,Repressed
+414,Cabo Verde,1998,48.0,Repressed
+415,Cambodia,1998,59.8,Mostly Unfree
+416,Cameroon,1998,48.0,Repressed
+417,Canada,1998,68.5,Moderately Free
+418,Chad,1998,46.6,Repressed
+419,Chile,1998,74.9,Mostly Free
+420,China,1998,53.1,Mostly Unfree
+421,Colombia,1998,65.5,Moderately Free
+422,Costa Rica ,1998,65.6,Moderately Free
+423,Côte d'Ivoire ,1998,51.3,Mostly Unfree
+424,Croatia,1998,51.7,Mostly Unfree
+425,Cuba,1998,28.2,Repressed
+426,Cyprus,1998,68.2,Moderately Free
+427,Czech Republic,1998,68.4,Moderately Free
+428,Democratic Republic of Congo,1998,40.6,Repressed
+429,Denmark,1998,67.5,Moderately Free
+430,Djibouti,1998,55.9,Mostly Unfree
+431,Dominican Republic,1998,58.1,Mostly Unfree
+432,Ecuador,1998,62.8,Moderately Unfree
+433,Egypt,1998,55.8,Mostly Unfree
+434,El Salvador ,1998,70.2,Mostly Free
+435,Estonia,1998,72.5,Mostly Free
+436,Eswatini,1998,62.0,Moderately Unfree
+437,Ethiopia,1998,49.2,Repressed
+438,Fiji,1998,58.2,Mostly Unfree
+439,Finland,1998,63.5,Moderately Unfree
+440,France,1998,58.9,Mostly Unfree
+441,Gabon,1998,59.2,Mostly Unfree
+442,Georgia,1998,47.9,Repressed
+443,Germany,1998,64.3,Moderately Unfree
+444,Ghana,1998,57.0,Mostly Unfree
+445,Greece,1998,60.6,Moderately Unfree
+446,Guatemala ,1998,65.8,Moderately Free
+447,Guinea,1998,61.0,Moderately Unfree
+448,Guyana,1998,52.7,Mostly Unfree
+449,Haiti,1998,45.7,Repressed
+450,Honduras ,1998,56.2,Mostly Unfree
+451,Hong Kong,1998,88.0,Free
+452,Hungary ,1998,56.9,Mostly Unfree
+453,Iceland,1998,71.2,Mostly Free
+454,India,1998,49.7,Repressed
+455,Indonesia,1998,63.4,Moderately Unfree
+456,Iran,1998,36.0,Repressed
+457,Iraq,1998,17.2,Repressed
+458,Ireland,1998,73.7,Mostly Free
+459,Israel,1998,68.0,Moderately Free
+460,Italy,1998,59.1,Mostly Unfree
+461,Jamaica ,1998,67.1,Moderately Free
+462,Japan,1998,70.2,Mostly Free
+463,Jordan,1998,66.8,Moderately Free
+464,Kazakhstan,1998,41.7,Repressed
+465,Kenya,1998,58.4,Mostly Unfree
+466,Kuwait,1998,66.3,Moderately Free
+467,Kyrgyz Republic ,1998,51.8,Mostly Unfree
+468,Laos,1998,35.2,Repressed
+469,Latvia,1998,63.4,Moderately Unfree
+470,Lebanon,1998,59.0,Mostly Unfree
+471,Lesotho,1998,48.4,Repressed
+472,Libya,1998,32.0,Repressed
+473,Lithuania,1998,59.4,Mostly Unfree
+474,Luxembourg,1998,72.7,Mostly Free
+475,Madagascar,1998,51.8,Mostly Unfree
+476,Malawi,1998,54.1,Mostly Unfree
+477,Malaysia ,1998,68.2,Moderately Free
+478,Mali,1998,57.3,Mostly Unfree
+479,Malta,1998,61.2,Moderately Unfree
+480,Mauritania,1998,43.7,Repressed
+481,Mexico,1998,57.9,Mostly Unfree
+482,Moldova,1998,53.5,Mostly Unfree
+483,Mongolia,1998,57.3,Mostly Unfree
+484,Morocco,1998,61.1,Moderately Unfree
+485,Mozambique ,1998,43.0,Repressed
+486,Namibia,1998,66.1,Moderately Free
+487,Nepal,1998,53.5,Mostly Unfree
+488,Netherlands,1998,69.2,Moderately Free
+489,New Zealand,1998,79.2,Mostly Free
+490,Nicaragua ,1998,53.8,Mostly Unfree
+491,Niger,1998,47.5,Repressed
+492,Nigeria,1998,52.3,Mostly Unfree
+493,North Korea,1998,8.9,Repressed
+494,Norway,1998,68.0,Moderately Free
+495,Oman,1998,64.9,Moderately Unfree
+496,Pakistan ,1998,53.2,Mostly Unfree
+497,Panama ,1998,72.6,Mostly Free
+498,Papua New Guinea,1998,55.2,Mostly Unfree
+499,Paraguay ,1998,65.2,Moderately Free
+500,Peru,1998,65.0,Moderately Free
+501,Philippines,1998,62.8,Moderately Unfree
+502,Poland,1998,59.2,Mostly Unfree
+503,Portugal,1998,65.0,Moderately Free
+504,Republic of Congo ,1998,33.8,Repressed
+505,Romania,1998,54.4,Mostly Unfree
+506,Russia,1998,52.8,Mostly Unfree
+507,Rwanda,1998,39.1,Repressed
+508,Samoa,1998,49.9,Repressed
+509,Saudi Arabia,1998,69.3,Moderately Free
+510,Senegal,1998,59.7,Mostly Unfree
+511,Sierra Leone,1998,47.7,Repressed
+512,Singapore,1998,87.0,Free
+513,Slovakia,1998,57.5,Mostly Unfree
+514,Slovenia,1998,60.7,Moderately Unfree
+515,South Africa,1998,64.3,Moderately Unfree
+516,South Korea,1998,73.3,Mostly Free
+517,Spain,1998,62.6,Moderately Unfree
+518,Sri Lanka,1998,64.6,Moderately Unfree
+519,Sudan,1998,38.3,Repressed
+520,Suriname,1998,39.9,Repressed
+521,Sweden,1998,64.0,Moderately Unfree
+522,Switzerland,1998,79.0,Mostly Free
+523,Syria,1998,42.2,Repressed
+524,Taiwan,1998,70.4,Mostly Free
+525,Tajikistan,1998,41.1,Repressed
+526,Tanzania,1998,59.6,Mostly Unfree
+527,Thailand ,1998,67.3,Moderately Free
+528,The Bahamas,1998,74.5,Mostly Free
+529,The Gambia,1998,53.4,Mostly Unfree
+530,Trinidad and Tobago,1998,72.0,Mostly Free
+531,Tunisia,1998,63.9,Moderately Unfree
+532,Turkey,1998,60.9,Moderately Unfree
+533,Turkmenistan,1998,35.0,Repressed
+534,Uganda,1998,64.7,Moderately Unfree
+535,Ukraine,1998,40.4,Repressed
+536,United Arab Emirates,1998,72.2,Mostly Free
+537,United Kingdom,1998,76.5,Mostly Free
+538,United States,1998,75.4,Mostly Free
+539,Uruguay ,1998,68.6,Moderately Free
+540,Uzbekistan,1998,31.5,Repressed
+541,Venezuela ,1998,54.0,Mostly Unfree
+542,Vietnam,1998,40.4,Repressed
+543,Yemen,1998,46.1,Repressed
+544,Zambia,1998,62.7,Moderately Unfree
+545,Zimbabwe,1998,44.6,Repressed
+546,Albania,1999,53.4,Mostly Unfree
+547,Algeria,1999,57.2,Mostly Unfree
+548,Angola,1999,23.7,Repressed
+549,Argentina,1999,70.6,Mostly Free
+550,Armenia,1999,56.4,Mostly Unfree
+551,Australia,1999,76.4,Mostly Free
+552,Austria,1999,64.0,Moderately Unfree
+553,Azerbaijan,1999,47.4,Repressed
+554,Bahrain,1999,75.2,Mostly Free
+555,Bangladesh ,1999,50.0,Mostly Unfree
+556,Barbados,1999,66.7,Moderately Free
+557,Belarus,1999,35.4,Repressed
+558,Belgium,1999,62.9,Moderately Unfree
+559,Belize,1999,60.7,Moderately Unfree
+560,Benin,1999,60.6,Moderately Unfree
+561,Bolivia,1999,65.6,Moderately Free
+562,Bosnia and Herzegovina,1999,29.4,Repressed
+563,Botswana,1999,62.9,Moderately Unfree
+564,Brazil,1999,61.3,Moderately Unfree
+565,Bulgaria,1999,46.2,Repressed
+566,Burkina Faso,1999,55.0,Mostly Unfree
+567,Burma,1999,46.4,Repressed
+568,Burundi,1999,41.1,Repressed
+569,Cabo Verde,1999,50.7,Mostly Unfree
+570,Cambodia,1999,59.9,Mostly Unfree
+571,Cameroon,1999,50.3,Mostly Unfree
+572,Canada,1999,69.3,Moderately Free
+573,Chad,1999,47.2,Repressed
+574,Chile,1999,74.1,Mostly Free
+575,China,1999,54.8,Mostly Unfree
+576,Colombia,1999,65.3,Moderately Free
+577,Costa Rica ,1999,67.4,Moderately Free
+578,Côte d'Ivoire ,1999,51.7,Mostly Unfree
+579,Croatia,1999,53.1,Mostly Unfree
+580,Cuba,1999,29.7,Repressed
+581,Cyprus,1999,67.8,Moderately Free
+582,Czech Republic,1999,69.7,Moderately Free
+583,Democratic Republic of Congo,1999,34.0,Repressed
+584,Denmark,1999,68.1,Moderately Free
+585,Djibouti,1999,57.1,Mostly Unfree
+586,Dominican Republic,1999,58.1,Mostly Unfree
+587,Ecuador,1999,62.9,Moderately Unfree
+588,Egypt,1999,58.0,Mostly Unfree
+589,El Salvador ,1999,75.1,Mostly Free
+590,Equatorial Guinea,1999,45.1,Repressed
+591,Estonia,1999,73.8,Mostly Free
+592,Eswatini,1999,62.1,Moderately Unfree
+593,Ethiopia,1999,46.7,Repressed
+594,Fiji,1999,58.4,Mostly Unfree
+595,Finland,1999,63.9,Moderately Unfree
+596,France,1999,59.1,Mostly Unfree
+597,Gabon,1999,60.5,Moderately Unfree
+598,Georgia,1999,52.5,Mostly Unfree
+599,Germany,1999,65.6,Moderately Free
+600,Ghana,1999,57.9,Mostly Unfree
+601,Greece,1999,61.0,Moderately Unfree
+602,Guatemala ,1999,66.2,Moderately Free
+603,Guinea,1999,59.4,Mostly Unfree
+604,Guinea-Bissau,1999,33.5,Repressed
+605,Guyana,1999,53.3,Mostly Unfree
+606,Haiti,1999,45.9,Repressed
+607,Honduras ,1999,56.7,Mostly Unfree
+608,Hong Kong,1999,88.5,Free
+609,Hungary ,1999,59.6,Mostly Unfree
+610,Iceland,1999,71.4,Mostly Free
+611,India,1999,50.2,Mostly Unfree
+612,Indonesia,1999,61.5,Moderately Unfree
+613,Iran,1999,36.8,Repressed
+614,Iraq,1999,17.2,Repressed
+615,Ireland,1999,74.6,Mostly Free
+616,Israel,1999,68.3,Moderately Free
+617,Italy,1999,61.6,Moderately Unfree
+618,Jamaica ,1999,64.7,Moderately Unfree
+619,Japan,1999,69.1,Moderately Free
+620,Jordan,1999,67.4,Moderately Free
+621,Kazakhstan,1999,47.3,Repressed
+622,Kenya,1999,58.2,Mostly Unfree
+623,Kuwait,1999,69.5,Moderately Free
+624,Kyrgyz Republic ,1999,54.8,Mostly Unfree
+625,Laos,1999,35.2,Repressed
+626,Latvia,1999,64.2,Moderately Unfree
+627,Lebanon,1999,59.1,Mostly Unfree
+628,Lesotho,1999,48.2,Repressed
+629,Libya,1999,32.3,Repressed
+630,Lithuania,1999,61.5,Moderately Unfree
+631,Luxembourg,1999,72.4,Mostly Free
+632,Madagascar,1999,52.8,Mostly Unfree
+633,Malawi,1999,54.0,Mostly Unfree
+634,Malaysia ,1999,68.9,Moderately Free
+635,Mali,1999,58.4,Mostly Unfree
+636,Malta,1999,59.3,Mostly Unfree
+637,Mauritania,1999,42.8,Repressed
+638,Mauritius,1999,68.5,Moderately Free
+639,Mexico,1999,58.5,Mostly Unfree
+640,Moldova,1999,56.1,Mostly Unfree
+641,Mongolia,1999,58.6,Mostly Unfree
+642,Morocco,1999,63.8,Moderately Unfree
+643,Mozambique ,1999,48.9,Repressed
+644,Namibia,1999,66.1,Moderately Free
+645,Nepal,1999,53.1,Mostly Unfree
+646,Netherlands,1999,70.2,Mostly Free
+647,New Zealand,1999,81.7,Free
+648,Nicaragua ,1999,54.0,Mostly Unfree
+649,Niger,1999,48.6,Repressed
+650,Nigeria,1999,55.7,Mostly Unfree
+651,North Korea,1999,8.9,Repressed
+652,Norway,1999,68.6,Moderately Free
+653,Oman,1999,64.9,Moderately Unfree
+654,Pakistan ,1999,53.0,Mostly Unfree
+655,Panama ,1999,72.6,Mostly Free
+656,Papua New Guinea,1999,56.3,Mostly Unfree
+657,Paraguay ,1999,63.7,Moderately Unfree
+658,Peru,1999,69.2,Moderately Free
+659,Philippines,1999,61.9,Moderately Unfree
+660,Poland,1999,59.6,Mostly Unfree
+661,Portugal,1999,65.6,Moderately Free
+662,Qatar,1999,62.0,Moderately Unfree
+663,Republic of Congo ,1999,41.6,Repressed
+664,Romania,1999,50.1,Mostly Unfree
+665,Russia,1999,54.5,Mostly Unfree
+666,Rwanda,1999,39.8,Repressed
+667,Samoa,1999,58.7,Mostly Unfree
+668,Saudi Arabia,1999,65.5,Moderately Free
+669,Senegal,1999,60.6,Moderately Unfree
+670,Sierra Leone,1999,47.2,Repressed
+671,Singapore,1999,86.9,Free
+672,Slovakia,1999,54.2,Mostly Unfree
+673,Slovenia,1999,61.3,Moderately Unfree
+674,South Africa,1999,63.3,Moderately Unfree
+675,South Korea,1999,69.7,Moderately Free
+676,Spain,1999,65.1,Moderately Free
+677,Sri Lanka,1999,64.0,Moderately Unfree
+678,Sudan,1999,39.6,Repressed
+679,Suriname,1999,40.1,Repressed
+680,Sweden,1999,64.2,Moderately Unfree
+681,Switzerland,1999,79.1,Mostly Free
+682,Syria,1999,39.0,Repressed
+683,Taiwan,1999,71.5,Mostly Free
+684,Tajikistan,1999,41.2,Repressed
+685,Tanzania,1999,60.0,Moderately Unfree
+686,Thailand ,1999,66.9,Moderately Free
+687,The Bahamas,1999,74.7,Mostly Free
+688,The Gambia,1999,52.1,Mostly Unfree
+689,Togo,1999,48.2,Repressed
+690,Trinidad and Tobago,1999,72.4,Mostly Free
+691,Tunisia,1999,61.1,Moderately Unfree
+692,Turkey,1999,59.2,Mostly Unfree
+693,Turkmenistan,1999,36.1,Repressed
+694,Uganda,1999,64.8,Moderately Unfree
+695,Ukraine,1999,43.7,Repressed
+696,United Arab Emirates,1999,71.5,Mostly Free
+697,United Kingdom,1999,76.2,Mostly Free
+698,United States,1999,75.5,Mostly Free
+699,Uruguay ,1999,68.5,Moderately Free
+700,Uzbekistan,1999,33.8,Repressed
+701,Venezuela ,1999,56.1,Mostly Unfree
+702,Vietnam,1999,42.7,Repressed
+703,Yemen,1999,43.3,Repressed
+704,Zambia,1999,64.2,Moderately Unfree
+705,Zimbabwe,1999,47.2,Repressed
+706,Albania,2000,53.6,Mostly Unfree
+707,Algeria,2000,56.8,Mostly Unfree
+708,Angola,2000,24.3,Repressed
+709,Argentina,2000,70.0,Mostly Free
+710,Armenia,2000,63.0,Moderately Unfree
+711,Australia,2000,77.1,Mostly Free
+712,Austria,2000,68.4,Moderately Free
+713,Azerbaijan,2000,49.8,Repressed
+714,Bahrain,2000,75.7,Mostly Free
+715,Bangladesh ,2000,48.9,Repressed
+716,Barbados,2000,69.5,Moderately Free
+717,Belarus,2000,41.3,Repressed
+718,Belgium,2000,63.5,Moderately Unfree
+719,Belize,2000,63.3,Moderately Unfree
+720,Benin,2000,61.5,Moderately Unfree
+721,Bolivia,2000,65.0,Moderately Free
+722,Bosnia and Herzegovina,2000,45.1,Repressed
+723,Botswana,2000,65.8,Moderately Free
+724,Brazil,2000,61.1,Moderately Unfree
+725,Bulgaria,2000,47.3,Repressed
+726,Burkina Faso,2000,55.7,Mostly Unfree
+727,Burma,2000,47.9,Repressed
+728,Burundi,2000,42.6,Repressed
+729,Cabo Verde,2000,51.9,Mostly Unfree
+730,Cambodia,2000,59.3,Mostly Unfree
+731,Cameroon,2000,49.9,Repressed
+732,Canada,2000,70.5,Mostly Free
+733,Chad,2000,46.8,Repressed
+734,Chile,2000,74.7,Mostly Free
+735,China,2000,56.4,Mostly Unfree
+736,Colombia,2000,63.3,Moderately Unfree
+737,Costa Rica ,2000,68.4,Moderately Free
+738,Côte d'Ivoire ,2000,50.2,Mostly Unfree
+739,Croatia,2000,53.6,Mostly Unfree
+740,Cuba,2000,31.3,Repressed
+741,Cyprus,2000,67.2,Moderately Free
+742,Czech Republic,2000,68.6,Moderately Free
+743,Democratic Republic of Congo,2000,34.8,Repressed
+744,Denmark,2000,68.3,Moderately Free
+745,Djibouti,2000,55.1,Mostly Unfree
+746,Dominican Republic,2000,59.0,Mostly Unfree
+747,Ecuador,2000,59.8,Mostly Unfree
+748,Egypt,2000,51.7,Mostly Unfree
+749,El Salvador ,2000,76.3,Mostly Free
+750,Equatorial Guinea,2000,45.6,Repressed
+751,Estonia,2000,69.9,Moderately Free
+752,Eswatini,2000,62.6,Moderately Unfree
+753,Ethiopia,2000,50.2,Mostly Unfree
+754,Fiji,2000,57.8,Mostly Unfree
+755,Finland,2000,64.3,Moderately Unfree
+756,France,2000,57.4,Mostly Unfree
+757,Gabon,2000,58.2,Mostly Unfree
+758,Georgia,2000,54.3,Mostly Unfree
+759,Germany,2000,65.7,Moderately Free
+760,Ghana,2000,58.1,Mostly Unfree
+761,Greece,2000,61.0,Moderately Unfree
+762,Guatemala ,2000,64.3,Moderately Unfree
+763,Guinea,2000,58.2,Mostly Unfree
+764,Guinea-Bissau,2000,34.7,Repressed
+765,Guyana,2000,52.4,Mostly Unfree
+766,Haiti,2000,45.7,Repressed
+767,Honduras ,2000,57.6,Mostly Unfree
+768,Hong Kong,2000,89.5,Free
+769,Hungary ,2000,64.4,Moderately Unfree
+770,Iceland,2000,74.0,Mostly Free
+771,India,2000,47.4,Repressed
+772,Indonesia,2000,55.2,Mostly Unfree
+773,Iran,2000,36.1,Repressed
+774,Iraq,2000,17.2,Repressed
+775,Ireland,2000,76.1,Mostly Free
+776,Israel,2000,65.5,Moderately Free
+777,Italy,2000,61.9,Moderately Unfree
+778,Jamaica ,2000,65.5,Moderately Free
+779,Japan,2000,70.7,Mostly Free
+780,Jordan,2000,67.5,Moderately Free
+781,Kazakhstan,2000,50.4,Mostly Unfree
+782,Kenya,2000,59.7,Mostly Unfree
+783,Kuwait,2000,69.7,Moderately Free
+784,Kyrgyz Republic ,2000,55.7,Mostly Unfree
+785,Laos,2000,36.8,Repressed
+786,Latvia,2000,63.4,Moderately Unfree
+787,Lebanon,2000,56.1,Mostly Unfree
+788,Lesotho,2000,48.4,Repressed
+789,Libya,2000,34.7,Repressed
+790,Lithuania,2000,61.9,Moderately Unfree
+791,Luxembourg,2000,76.4,Mostly Free
+792,Madagascar,2000,54.4,Mostly Unfree
+793,Malawi,2000,57.4,Mostly Unfree
+794,Malaysia ,2000,66.0,Moderately Free
+795,Mali,2000,60.3,Moderately Unfree
+796,Malta,2000,58.3,Mostly Unfree
+797,Mauritania,2000,46.0,Repressed
+798,Mauritius,2000,67.2,Moderately Free
+799,Mexico,2000,59.3,Mostly Unfree
+800,Moldova,2000,59.6,Mostly Unfree
+801,Mongolia,2000,58.5,Mostly Unfree
+802,Morocco,2000,63.2,Moderately Unfree
+803,Mozambique ,2000,52.2,Mostly Unfree
+804,Namibia,2000,66.7,Moderately Free
+805,Nepal,2000,51.3,Mostly Unfree
+806,Netherlands,2000,70.4,Mostly Free
+807,New Zealand,2000,80.9,Free
+808,Nicaragua ,2000,56.9,Mostly Unfree
+809,Niger,2000,45.9,Repressed
+810,Nigeria,2000,53.1,Mostly Unfree
+811,North Korea,2000,8.9,Repressed
+812,Norway,2000,70.1,Mostly Free
+813,Oman,2000,64.1,Moderately Unfree
+814,Pakistan ,2000,56.4,Mostly Unfree
+815,Panama ,2000,71.6,Mostly Free
+816,Papua New Guinea,2000,55.8,Mostly Unfree
+817,Paraguay ,2000,64.0,Moderately Unfree
+818,Peru,2000,68.7,Moderately Free
+819,Philippines,2000,62.5,Moderately Unfree
+820,Poland,2000,60.0,Moderately Unfree
+821,Portugal,2000,65.5,Moderately Free
+822,Qatar,2000,62.0,Moderately Unfree
+823,Republic of Congo ,2000,40.6,Repressed
+824,Romania,2000,52.1,Mostly Unfree
+825,Russia,2000,51.8,Mostly Unfree
+826,Rwanda,2000,42.3,Repressed
+827,Samoa,2000,60.8,Moderately Unfree
+828,Saudi Arabia,2000,66.5,Moderately Free
+829,Senegal,2000,58.9,Mostly Unfree
+830,Sierra Leone,2000,44.2,Repressed
+831,Singapore,2000,87.7,Free
+832,Slovakia,2000,53.8,Mostly Unfree
+833,Slovenia,2000,58.3,Mostly Unfree
+834,South Africa,2000,63.7,Moderately Unfree
+835,South Korea,2000,69.7,Moderately Free
+836,Spain,2000,65.9,Moderately Free
+837,Sri Lanka,2000,63.2,Moderately Unfree
+838,Sudan,2000,47.2,Repressed
+839,Suriname,2000,45.8,Repressed
+840,Sweden,2000,65.1,Moderately Free
+841,Switzerland,2000,76.8,Mostly Free
+842,Syria,2000,37.2,Repressed
+843,Taiwan,2000,72.5,Mostly Free
+844,Tajikistan,2000,44.8,Repressed
+845,Tanzania,2000,56.0,Mostly Unfree
+846,Thailand ,2000,66.6,Moderately Free
+847,The Bahamas,2000,73.9,Mostly Free
+848,The Gambia,2000,52.7,Mostly Unfree
+849,Togo,2000,46.4,Repressed
+850,Trinidad and Tobago,2000,74.5,Mostly Free
+851,Tunisia,2000,61.3,Moderately Unfree
+852,Turkey,2000,63.4,Moderately Unfree
+853,Turkmenistan,2000,37.6,Repressed
+854,Uganda,2000,58.2,Mostly Unfree
+855,Ukraine,2000,47.8,Repressed
+856,United Arab Emirates,2000,74.2,Mostly Free
+857,United Kingdom,2000,77.3,Mostly Free
+858,United States,2000,76.4,Mostly Free
+859,Uruguay ,2000,69.3,Moderately Free
+860,Uzbekistan,2000,38.1,Repressed
+861,Venezuela ,2000,57.4,Mostly Unfree
+862,Vietnam,2000,43.7,Repressed
+863,Yemen,2000,44.5,Repressed
+864,Zambia,2000,62.8,Moderately Unfree
+865,Zimbabwe,2000,48.7,Repressed
+866,Albania,2001,56.6,Mostly Unfree
+867,Algeria,2001,57.3,Mostly Unfree
+868,Argentina,2001,68.6,Moderately Free
+869,Armenia,2001,66.4,Moderately Free
+870,Australia,2001,77.4,Mostly Free
+871,Austria,2001,68.1,Moderately Free
+872,Azerbaijan,2001,50.3,Mostly Unfree
+873,Bahrain,2001,75.9,Mostly Free
+874,Bangladesh ,2001,51.2,Mostly Unfree
+875,Barbados,2001,71.5,Mostly Free
+876,Belarus,2001,38.0,Repressed
+877,Belgium,2001,63.8,Moderately Unfree
+878,Belize,2001,65.9,Moderately Free
+879,Benin,2001,60.1,Moderately Unfree
+880,Bolivia,2001,68.0,Moderately Free
+881,Bosnia and Herzegovina,2001,36.6,Repressed
+882,Botswana,2001,66.8,Moderately Free
+883,Brazil,2001,61.9,Moderately Unfree
+884,Bulgaria,2001,51.9,Mostly Unfree
+885,Burkina Faso,2001,56.7,Mostly Unfree
+886,Burma,2001,46.1,Repressed
+887,Cabo Verde,2001,56.3,Mostly Unfree
+888,Cambodia,2001,59.6,Mostly Unfree
+889,Cameroon,2001,53.3,Mostly Unfree
+890,Canada,2001,71.2,Mostly Free
+891,Chad,2001,46.4,Repressed
+892,Chile,2001,75.1,Mostly Free
+893,China,2001,52.6,Mostly Unfree
+894,Colombia,2001,65.6,Moderately Free
+895,Costa Rica ,2001,67.6,Moderately Free
+896,Côte d'Ivoire ,2001,54.8,Mostly Unfree
+897,Croatia,2001,50.7,Mostly Unfree
+898,Cuba,2001,31.6,Repressed
+899,Cyprus,2001,71.0,Mostly Free
+900,Czech Republic,2001,70.2,Mostly Free
+901,Denmark,2001,68.3,Moderately Free
+902,Djibouti,2001,58.3,Mostly Unfree
+903,Dominican Republic,2001,59.1,Mostly Unfree
+904,Ecuador,2001,55.1,Mostly Unfree
+905,Egypt,2001,51.5,Mostly Unfree
+906,El Salvador ,2001,73.0,Mostly Free
+907,Equatorial Guinea,2001,47.9,Repressed
+908,Estonia,2001,76.1,Mostly Free
+909,Eswatini,2001,63.6,Moderately Unfree
+910,Ethiopia,2001,48.9,Repressed
+911,Fiji,2001,53.7,Mostly Unfree
+912,Finland,2001,69.7,Moderately Free
+913,France,2001,58.0,Mostly Unfree
+914,Gabon,2001,55.0,Mostly Unfree
+915,Georgia,2001,58.3,Mostly Unfree
+916,Germany,2001,69.5,Moderately Free
+917,Ghana,2001,58.0,Mostly Unfree
+918,Greece,2001,63.4,Moderately Unfree
+919,Guatemala ,2001,65.1,Moderately Free
+920,Guinea,2001,58.4,Mostly Unfree
+921,Guinea-Bissau,2001,42.5,Repressed
+922,Guyana,2001,53.3,Mostly Unfree
+923,Haiti,2001,47.1,Repressed
+924,Honduras ,2001,57.0,Mostly Unfree
+925,Hong Kong,2001,89.9,Free
+926,Hungary ,2001,65.6,Moderately Free
+927,Iceland,2001,73.4,Mostly Free
+928,India,2001,49.0,Repressed
+929,Indonesia,2001,52.5,Mostly Unfree
+930,Iran,2001,35.9,Repressed
+931,Iraq,2001,17.2,Repressed
+932,Ireland,2001,81.2,Free
+933,Israel,2001,66.1,Moderately Free
+934,Italy,2001,63.0,Moderately Unfree
+935,Jamaica ,2001,63.7,Moderately Unfree
+936,Japan,2001,70.9,Mostly Free
+937,Jordan,2001,68.3,Moderately Free
+938,Kazakhstan,2001,51.8,Mostly Unfree
+939,Kenya,2001,57.6,Mostly Unfree
+940,Kuwait,2001,68.2,Moderately Free
+941,Kyrgyz Republic ,2001,53.7,Mostly Unfree
+942,Laos,2001,33.5,Repressed
+943,Latvia,2001,66.4,Moderately Free
+944,Lebanon,2001,61.0,Moderately Unfree
+945,Lesotho,2001,50.6,Mostly Unfree
+946,Libya,2001,34.0,Repressed
+947,Lithuania,2001,65.5,Moderately Free
+948,Luxembourg,2001,80.1,Free
+949,Madagascar,2001,53.9,Mostly Unfree
+950,Malawi,2001,56.2,Mostly Unfree
+951,Malaysia ,2001,60.2,Moderately Unfree
+952,Mali,2001,60.1,Moderately Unfree
+953,Malta,2001,62.9,Moderately Unfree
+954,Mauritania,2001,48.5,Repressed
+955,Mauritius,2001,66.4,Moderately Free
+956,Mexico,2001,60.6,Moderately Unfree
+957,Moldova,2001,54.9,Mostly Unfree
+958,Mongolia,2001,56.0,Mostly Unfree
+959,Morocco,2001,63.9,Moderately Unfree
+960,Mozambique ,2001,59.2,Mostly Unfree
+961,Namibia,2001,64.8,Moderately Unfree
+962,Nepal,2001,51.6,Mostly Unfree
+963,Netherlands,2001,73.0,Mostly Free
+964,New Zealand,2001,81.1,Free
+965,Nicaragua ,2001,58.0,Mostly Unfree
+966,Niger,2001,48.9,Repressed
+967,Nigeria,2001,49.6,Repressed
+968,North Korea,2001,8.9,Repressed
+969,Norway,2001,67.1,Moderately Free
+970,Oman,2001,67.7,Moderately Free
+971,Pakistan ,2001,56.0,Mostly Unfree
+972,Panama ,2001,70.6,Mostly Free
+973,Papua New Guinea,2001,57.2,Mostly Unfree
+974,Paraguay ,2001,60.3,Moderately Unfree
+975,Peru,2001,69.6,Moderately Free
+976,Philippines,2001,60.9,Moderately Unfree
+977,Poland,2001,61.8,Moderately Unfree
+978,Portugal,2001,66.0,Moderately Free
+979,Qatar,2001,60.0,Moderately Unfree
+980,Republic of Congo ,2001,44.3,Repressed
+981,Romania,2001,50.0,Mostly Unfree
+982,Russia,2001,49.8,Repressed
+983,Rwanda,2001,45.4,Repressed
+984,Samoa,2001,63.1,Moderately Unfree
+985,Saudi Arabia,2001,62.2,Moderately Unfree
+986,Senegal,2001,58.7,Mostly Unfree
+987,Singapore,2001,87.8,Free
+988,Slovakia,2001,58.5,Mostly Unfree
+989,Slovenia,2001,61.8,Moderately Unfree
+990,South Africa,2001,63.8,Moderately Unfree
+991,South Korea,2001,69.1,Moderately Free
+992,Spain,2001,68.1,Moderately Free
+993,Sri Lanka,2001,66.0,Moderately Free
+994,Suriname,2001,44.3,Repressed
+995,Sweden,2001,66.6,Moderately Free
+996,Switzerland,2001,76.0,Mostly Free
+997,Syria,2001,36.6,Repressed
+998,Taiwan,2001,72.8,Mostly Free
+999,Tajikistan,2001,46.8,Repressed
+1000,Tanzania,2001,54.9,Mostly Unfree
+1001,Thailand ,2001,68.9,Moderately Free
+1002,The Bahamas,2001,74.8,Mostly Free
+1003,The Gambia,2001,56.6,Mostly Unfree
+1004,Togo,2001,45.3,Repressed
+1005,Trinidad and Tobago,2001,71.8,Mostly Free
+1006,Tunisia,2001,60.8,Moderately Unfree
+1007,Turkey,2001,60.6,Moderately Unfree
+1008,Turkmenistan,2001,41.8,Repressed
+1009,Uganda,2001,60.4,Moderately Unfree
+1010,Ukraine,2001,48.5,Repressed
+1011,United Arab Emirates,2001,74.9,Mostly Free
+1012,United Kingdom,2001,77.6,Mostly Free
+1013,United States,2001,79.1,Mostly Free
+1014,Uruguay ,2001,70.7,Mostly Free
+1015,Uzbekistan,2001,38.2,Repressed
+1016,Venezuela ,2001,54.6,Mostly Unfree
+1017,Vietnam,2001,44.3,Repressed
+1018,Yemen,2001,44.3,Repressed
+1019,Zambia,2001,59.5,Mostly Unfree
+1020,Zimbabwe,2001,38.8,Repressed
+1021,Albania,2002,56.8,Mostly Unfree
+1022,Algeria,2002,61.0,Moderately Unfree
+1023,Argentina,2002,65.7,Moderately Free
+1024,Armenia,2002,68.0,Moderately Free
+1025,Australia,2002,77.3,Mostly Free
+1026,Austria,2002,67.4,Moderately Free
+1027,Azerbaijan,2002,53.3,Mostly Unfree
+1028,Bahrain,2002,75.6,Mostly Free
+1029,Bangladesh ,2002,51.9,Mostly Unfree
+1030,Barbados,2002,73.6,Mostly Free
+1031,Belarus,2002,39.0,Repressed
+1032,Belgium,2002,67.6,Moderately Free
+1033,Belize,2002,65.6,Moderately Free
+1034,Benin,2002,57.3,Mostly Unfree
+1035,Bolivia,2002,65.1,Moderately Free
+1036,Bosnia and Herzegovina,2002,37.4,Repressed
+1037,Botswana,2002,66.2,Moderately Free
+1038,Brazil,2002,61.5,Moderately Unfree
+1039,Bulgaria,2002,57.1,Mostly Unfree
+1040,Burkina Faso,2002,58.8,Mostly Unfree
+1041,Burma,2002,45.5,Repressed
+1042,Cabo Verde,2002,57.6,Mostly Unfree
+1043,Cambodia,2002,60.7,Moderately Unfree
+1044,Cameroon,2002,52.8,Mostly Unfree
+1045,Canada,2002,74.6,Mostly Free
+1046,Central African Republic,2002,59.8,Mostly Unfree
+1047,Chad,2002,49.2,Repressed
+1048,Chile,2002,77.8,Mostly Free
+1049,China,2002,52.8,Mostly Unfree
+1050,Colombia,2002,64.2,Moderately Unfree
+1051,Costa Rica ,2002,67.5,Moderately Free
+1052,Côte d'Ivoire ,2002,57.3,Mostly Unfree
+1053,Croatia,2002,51.1,Mostly Unfree
+1054,Cuba,2002,32.4,Repressed
+1055,Cyprus,2002,73.0,Mostly Free
+1056,Czech Republic,2002,66.5,Moderately Free
+1057,Denmark,2002,71.1,Mostly Free
+1058,Djibouti,2002,57.8,Mostly Unfree
+1059,Dominican Republic,2002,58.6,Mostly Unfree
+1060,Ecuador,2002,53.1,Mostly Unfree
+1061,Egypt,2002,54.1,Mostly Unfree
+1062,El Salvador ,2002,73.0,Mostly Free
+1063,Equatorial Guinea,2002,46.4,Repressed
+1064,Estonia,2002,77.6,Mostly Free
+1065,Eswatini,2002,60.9,Moderately Unfree
+1066,Ethiopia,2002,49.8,Repressed
+1067,Fiji,2002,53.9,Mostly Unfree
+1068,Finland,2002,73.6,Mostly Free
+1069,France,2002,58.0,Mostly Unfree
+1070,Gabon,2002,58.0,Mostly Unfree
+1071,Georgia,2002,56.7,Mostly Unfree
+1072,Germany,2002,70.4,Mostly Free
+1073,Ghana,2002,57.2,Mostly Unfree
+1074,Greece,2002,59.1,Mostly Unfree
+1075,Guatemala ,2002,62.3,Moderately Unfree
+1076,Guinea,2002,52.9,Mostly Unfree
+1077,Guinea-Bissau,2002,42.3,Repressed
+1078,Guyana,2002,54.3,Mostly Unfree
+1079,Haiti,2002,47.9,Repressed
+1080,Honduras ,2002,58.7,Mostly Unfree
+1081,Hong Kong,2002,89.4,Free
+1082,Hungary ,2002,64.5,Moderately Unfree
+1083,Iceland,2002,73.1,Mostly Free
+1084,India,2002,51.2,Mostly Unfree
+1085,Indonesia,2002,54.8,Mostly Unfree
+1086,Iran,2002,36.4,Repressed
+1087,Iraq,2002,15.6,Repressed
+1088,Ireland,2002,80.5,Free
+1089,Israel,2002,66.9,Moderately Free
+1090,Italy,2002,63.6,Moderately Unfree
+1091,Jamaica ,2002,61.7,Moderately Unfree
+1092,Japan,2002,66.7,Moderately Free
+1093,Jordan,2002,66.2,Moderately Free
+1094,Kazakhstan,2002,52.4,Mostly Unfree
+1095,Kenya,2002,58.2,Mostly Unfree
+1096,Kuwait,2002,65.4,Moderately Free
+1097,Kyrgyz Republic ,2002,51.7,Mostly Unfree
+1098,Laos,2002,36.8,Repressed
+1099,Latvia,2002,65.0,Moderately Free
+1100,Lebanon,2002,57.1,Mostly Unfree
+1101,Lesotho,2002,48.9,Repressed
+1102,Libya,2002,35.4,Repressed
+1103,Lithuania,2002,66.1,Moderately Free
+1104,Luxembourg,2002,79.4,Mostly Free
+1105,Madagascar,2002,56.8,Mostly Unfree
+1106,Malawi,2002,56.9,Mostly Unfree
+1107,Malaysia ,2002,60.1,Moderately Unfree
+1108,Mali,2002,61.1,Moderately Unfree
+1109,Malta,2002,62.2,Moderately Unfree
+1110,Mauritania,2002,52.5,Mostly Unfree
+1111,Mauritius,2002,67.7,Moderately Free
+1112,Mexico,2002,63.0,Moderately Unfree
+1113,Moldova,2002,57.4,Mostly Unfree
+1114,Mongolia,2002,56.7,Mostly Unfree
+1115,Montenegro,2002,46.6,Repressed
+1116,Morocco,2002,59.0,Mostly Unfree
+1117,Mozambique ,2002,57.7,Mostly Unfree
+1118,Namibia,2002,65.1,Moderately Free
+1119,Nepal,2002,52.3,Mostly Unfree
+1120,Netherlands,2002,75.1,Mostly Free
+1121,New Zealand,2002,80.7,Free
+1122,Nicaragua ,2002,61.1,Moderately Unfree
+1123,Niger,2002,48.2,Repressed
+1124,Nigeria,2002,50.9,Mostly Unfree
+1125,North Korea,2002,8.9,Repressed
+1126,North Macedonia,2002,58.0,Mostly Unfree
+1127,Norway,2002,67.4,Moderately Free
+1128,Oman,2002,64.0,Moderately Unfree
+1129,Pakistan ,2002,55.8,Mostly Unfree
+1130,Panama ,2002,68.5,Moderately Free
+1131,Paraguay ,2002,59.6,Mostly Unfree
+1132,Peru,2002,64.8,Moderately Unfree
+1133,Philippines,2002,60.7,Moderately Unfree
+1134,Poland,2002,65.0,Moderately Free
+1135,Portugal,2002,65.4,Moderately Free
+1136,Qatar,2002,61.9,Moderately Unfree
+1137,Republic of Congo ,2002,45.3,Repressed
+1138,Romania,2002,48.7,Repressed
+1139,Russia,2002,48.7,Repressed
+1140,Rwanda,2002,50.4,Mostly Unfree
+1141,Saudi Arabia,2002,65.3,Moderately Free
+1142,Senegal,2002,58.6,Mostly Unfree
+1143,Serbia ,2002,46.6,Repressed
+1144,Singapore,2002,87.4,Free
+1145,Slovakia,2002,59.8,Mostly Unfree
+1146,Slovenia,2002,57.8,Mostly Unfree
+1147,South Africa,2002,64.0,Moderately Unfree
+1148,South Korea,2002,69.5,Moderately Free
+1149,Spain,2002,68.8,Moderately Free
+1150,Sri Lanka,2002,64.0,Moderately Unfree
+1151,Suriname,2002,48.0,Repressed
+1152,Sweden,2002,70.8,Mostly Free
+1153,Switzerland,2002,79.3,Mostly Free
+1154,Syria,2002,36.3,Repressed
+1155,Taiwan,2002,71.3,Mostly Free
+1156,Tajikistan,2002,47.3,Repressed
+1157,Tanzania,2002,58.3,Mostly Unfree
+1158,Thailand ,2002,69.1,Moderately Free
+1159,The Bahamas,2002,74.4,Mostly Free
+1160,The Gambia,2002,57.7,Mostly Unfree
+1161,Togo,2002,45.2,Repressed
+1162,Trinidad and Tobago,2002,70.1,Mostly Free
+1163,Tunisia,2002,60.2,Moderately Unfree
+1164,Turkey,2002,54.2,Mostly Unfree
+1165,Turkmenistan,2002,43.2,Repressed
+1166,Uganda,2002,61.0,Moderately Unfree
+1167,Ukraine,2002,48.2,Repressed
+1168,United Arab Emirates,2002,73.6,Mostly Free
+1169,United Kingdom,2002,78.5,Mostly Free
+1170,United States,2002,78.4,Mostly Free
+1171,Uruguay ,2002,68.7,Moderately Free
+1172,Uzbekistan,2002,38.5,Repressed
+1173,Venezuela ,2002,54.7,Mostly Unfree
+1174,Vietnam,2002,45.6,Repressed
+1175,Yemen,2002,48.6,Repressed
+1176,Zambia,2002,59.6,Mostly Unfree
+1177,Zimbabwe,2002,36.7,Repressed
+1178,Albania,2003,56.8,Mostly Unfree
+1179,Algeria,2003,57.7,Mostly Unfree
+1180,Argentina,2003,56.3,Mostly Unfree
+1181,Armenia,2003,67.3,Moderately Free
+1182,Australia,2003,77.4,Mostly Free
+1183,Austria,2003,67.6,Moderately Free
+1184,Azerbaijan,2003,54.1,Mostly Unfree
+1185,Bahrain,2003,76.3,Mostly Free
+1186,Bangladesh ,2003,49.3,Repressed
+1187,Barbados,2003,71.3,Mostly Free
+1188,Belarus,2003,39.7,Repressed
+1189,Belgium,2003,68.1,Moderately Free
+1190,Belize,2003,63.5,Moderately Unfree
+1191,Benin,2003,54.9,Mostly Unfree
+1192,Bolivia,2003,64.3,Moderately Unfree
+1193,Bosnia and Herzegovina,2003,40.6,Repressed
+1194,Botswana,2003,68.6,Moderately Free
+1195,Brazil,2003,63.4,Moderately Unfree
+1196,Bulgaria,2003,57.0,Mostly Unfree
+1197,Burkina Faso,2003,58.9,Mostly Unfree
+1198,Burma,2003,44.9,Repressed
+1199,Cabo Verde,2003,56.1,Mostly Unfree
+1200,Cambodia,2003,63.7,Moderately Unfree
+1201,Cameroon,2003,52.7,Mostly Unfree
+1202,Canada,2003,74.8,Mostly Free
+1203,Central African Republic,2003,60.0,Moderately Unfree
+1204,Chad,2003,52.6,Mostly Unfree
+1205,Chile,2003,76.0,Mostly Free
+1206,China,2003,52.6,Mostly Unfree
+1207,Colombia,2003,64.2,Moderately Unfree
+1208,Costa Rica ,2003,67.0,Moderately Free
+1209,Côte d'Ivoire ,2003,56.7,Mostly Unfree
+1210,Croatia,2003,53.3,Mostly Unfree
+1211,Cuba,2003,35.1,Repressed
+1212,Cyprus,2003,73.3,Mostly Free
+1213,Czech Republic,2003,67.5,Moderately Free
+1214,Denmark,2003,73.2,Mostly Free
+1215,Djibouti,2003,55.7,Mostly Unfree
+1216,Dominican Republic,2003,57.8,Mostly Unfree
+1217,Ecuador,2003,54.1,Mostly Unfree
+1218,Egypt,2003,55.3,Mostly Unfree
+1219,El Salvador ,2003,71.5,Mostly Free
+1220,Equatorial Guinea,2003,53.1,Mostly Unfree
+1221,Estonia,2003,77.7,Mostly Free
+1222,Eswatini,2003,59.6,Mostly Unfree
+1223,Ethiopia,2003,48.8,Repressed
+1224,Fiji,2003,54.7,Mostly Unfree
+1225,Finland,2003,73.7,Mostly Free
+1226,France,2003,59.2,Mostly Unfree
+1227,Gabon,2003,58.7,Mostly Unfree
+1228,Georgia,2003,58.6,Mostly Unfree
+1229,Germany,2003,69.7,Moderately Free
+1230,Ghana,2003,58.2,Mostly Unfree
+1231,Greece,2003,58.8,Mostly Unfree
+1232,Guatemala ,2003,62.3,Moderately Unfree
+1233,Guinea,2003,54.6,Mostly Unfree
+1234,Guinea-Bissau,2003,43.1,Repressed
+1235,Guyana,2003,50.3,Mostly Unfree
+1236,Haiti,2003,50.6,Mostly Unfree
+1237,Honduras ,2003,60.4,Moderately Unfree
+1238,Hong Kong,2003,89.8,Free
+1239,Hungary ,2003,63.0,Moderately Unfree
+1240,Iceland,2003,73.5,Mostly Free
+1241,India,2003,51.2,Mostly Unfree
+1242,Indonesia,2003,55.8,Mostly Unfree
+1243,Iran,2003,43.2,Repressed
+1244,Ireland,2003,80.9,Free
+1245,Israel,2003,62.7,Moderately Unfree
+1246,Italy,2003,64.3,Moderately Unfree
+1247,Jamaica ,2003,67.0,Moderately Free
+1248,Japan,2003,67.6,Moderately Free
+1249,Jordan,2003,65.3,Moderately Free
+1250,Kazakhstan,2003,52.3,Mostly Unfree
+1251,Kenya,2003,58.6,Mostly Unfree
+1252,Kuwait,2003,66.7,Moderately Free
+1253,Kyrgyz Republic ,2003,56.8,Mostly Unfree
+1254,Laos,2003,41.0,Repressed
+1255,Latvia,2003,66.0,Moderately Free
+1256,Lebanon,2003,56.7,Mostly Unfree
+1257,Lesotho,2003,52.0,Mostly Unfree
+1258,Libya,2003,34.6,Repressed
+1259,Lithuania,2003,69.7,Moderately Free
+1260,Luxembourg,2003,79.9,Mostly Free
+1261,Madagascar,2003,62.8,Moderately Unfree
+1262,Malawi,2003,53.2,Mostly Unfree
+1263,Malaysia ,2003,61.1,Moderately Unfree
+1264,Mali,2003,58.6,Mostly Unfree
+1265,Malta,2003,61.1,Moderately Unfree
+1266,Mauritania,2003,59.0,Mostly Unfree
+1267,Mauritius,2003,64.4,Moderately Unfree
+1268,Mexico,2003,65.3,Moderately Free
+1269,Moldova,2003,60.0,Moderately Unfree
+1270,Mongolia,2003,57.7,Mostly Unfree
+1271,Montenegro,2003,43.5,Repressed
+1272,Morocco,2003,57.8,Mostly Unfree
+1273,Mozambique ,2003,58.6,Mostly Unfree
+1274,Namibia,2003,67.3,Moderately Free
+1275,Nepal,2003,51.5,Mostly Unfree
+1276,Netherlands,2003,74.6,Mostly Free
+1277,New Zealand,2003,81.1,Free
+1278,Nicaragua ,2003,62.6,Moderately Unfree
+1279,Niger,2003,54.2,Mostly Unfree
+1280,Nigeria,2003,49.5,Repressed
+1281,North Korea,2003,8.9,Repressed
+1282,North Macedonia,2003,60.1,Moderately Unfree
+1283,Norway,2003,67.2,Moderately Free
+1284,Oman,2003,64.6,Moderately Unfree
+1285,Pakistan ,2003,55.0,Mostly Unfree
+1286,Panama ,2003,68.4,Moderately Free
+1287,Paraguay ,2003,58.2,Mostly Unfree
+1288,Peru,2003,64.6,Moderately Unfree
+1289,Philippines,2003,61.3,Moderately Unfree
+1290,Poland,2003,61.8,Moderately Unfree
+1291,Portugal,2003,64.9,Moderately Unfree
+1292,Qatar,2003,65.9,Moderately Free
+1293,Republic of Congo ,2003,47.7,Repressed
+1294,Romania,2003,50.6,Mostly Unfree
+1295,Russia,2003,50.8,Mostly Unfree
+1296,Rwanda,2003,47.8,Repressed
+1297,Saudi Arabia,2003,63.2,Moderately Unfree
+1298,Senegal,2003,58.1,Mostly Unfree
+1299,Serbia ,2003,43.5,Repressed
+1300,Sierra Leone,2003,42.2,Repressed
+1301,Singapore,2003,88.2,Free
+1302,Slovakia,2003,59.0,Mostly Unfree
+1303,Slovenia,2003,57.7,Mostly Unfree
+1304,South Africa,2003,67.1,Moderately Free
+1305,South Korea,2003,68.3,Moderately Free
+1306,Spain,2003,68.8,Moderately Free
+1307,Sri Lanka,2003,62.5,Moderately Unfree
+1308,Suriname,2003,46.9,Repressed
+1309,Sweden,2003,70.0,Mostly Free
+1310,Switzerland,2003,79.0,Mostly Free
+1311,Syria,2003,41.3,Repressed
+1312,Taiwan,2003,71.7,Mostly Free
+1313,Tajikistan,2003,46.5,Repressed
+1314,Tanzania,2003,56.9,Mostly Unfree
+1315,Thailand ,2003,65.8,Moderately Free
+1316,The Bahamas,2003,73.5,Mostly Free
+1317,The Gambia,2003,56.3,Mostly Unfree
+1318,Togo,2003,46.8,Repressed
+1319,Trinidad and Tobago,2003,68.8,Moderately Free
+1320,Tunisia,2003,58.1,Mostly Unfree
+1321,Turkey,2003,51.9,Mostly Unfree
+1322,Turkmenistan,2003,51.3,Mostly Unfree
+1323,Uganda,2003,60.1,Moderately Unfree
+1324,Ukraine,2003,51.1,Mostly Unfree
+1325,United Arab Emirates,2003,73.4,Mostly Free
+1326,United Kingdom,2003,77.5,Mostly Free
+1327,United States,2003,78.2,Mostly Free
+1328,Uruguay ,2003,69.8,Moderately Free
+1329,Uzbekistan,2003,38.3,Repressed
+1330,Venezuela ,2003,54.8,Mostly Unfree
+1331,Vietnam,2003,46.2,Repressed
+1332,Yemen,2003,50.3,Mostly Unfree
+1333,Zambia,2003,55.3,Mostly Unfree
+1334,Zimbabwe,2003,36.7,Repressed
+1335,Albania,2004,58.5,Mostly Unfree
+1336,Algeria,2004,58.1,Mostly Unfree
+1337,Argentina,2004,53.9,Mostly Unfree
+1338,Armenia,2004,70.3,Mostly Free
+1339,Australia,2004,77.9,Mostly Free
+1340,Austria,2004,67.6,Moderately Free
+1341,Azerbaijan,2004,53.4,Mostly Unfree
+1342,Bahrain,2004,75.1,Mostly Free
+1343,Bangladesh ,2004,50.0,Mostly Unfree
+1344,Barbados,2004,69.4,Moderately Free
+1345,Belarus,2004,43.1,Repressed
+1346,Belgium,2004,68.7,Moderately Free
+1347,Belize,2004,62.8,Moderately Unfree
+1348,Benin,2004,54.6,Mostly Unfree
+1349,Bolivia,2004,64.5,Moderately Unfree
+1350,Bosnia and Herzegovina,2004,44.7,Repressed
+1351,Botswana,2004,69.9,Moderately Free
+1352,Brazil,2004,62.0,Moderately Unfree
+1353,Bulgaria,2004,59.2,Mostly Unfree
+1354,Burkina Faso,2004,58.0,Mostly Unfree
+1355,Burma,2004,43.6,Repressed
+1356,Cabo Verde,2004,58.1,Mostly Unfree
+1357,Cambodia,2004,61.1,Moderately Unfree
+1358,Cameroon,2004,52.3,Mostly Unfree
+1359,Canada,2004,75.3,Mostly Free
+1360,Central African Republic,2004,57.5,Mostly Unfree
+1361,Chad,2004,53.1,Mostly Unfree
+1362,Chile,2004,76.9,Mostly Free
+1363,China,2004,52.5,Mostly Unfree
+1364,Colombia,2004,61.2,Moderately Unfree
+1365,Costa Rica ,2004,66.4,Moderately Free
+1366,Côte d'Ivoire ,2004,57.8,Mostly Unfree
+1367,Croatia,2004,53.1,Mostly Unfree
+1368,Cuba,2004,34.4,Repressed
+1369,Cyprus,2004,74.1,Mostly Free
+1370,Czech Republic,2004,67.0,Moderately Free
+1371,Denmark,2004,72.4,Mostly Free
+1372,Djibouti,2004,55.6,Mostly Unfree
+1373,Dominican Republic,2004,54.6,Mostly Unfree
+1374,Ecuador,2004,54.4,Mostly Unfree
+1375,Egypt,2004,55.5,Mostly Unfree
+1376,El Salvador ,2004,71.2,Mostly Free
+1377,Equatorial Guinea,2004,53.3,Mostly Unfree
+1378,Estonia,2004,77.4,Mostly Free
+1379,Eswatini,2004,58.6,Mostly Unfree
+1380,Ethiopia,2004,54.5,Mostly Unfree
+1381,Fiji,2004,58.0,Mostly Unfree
+1382,Finland,2004,73.4,Mostly Free
+1383,France,2004,60.9,Moderately Unfree
+1384,Gabon,2004,57.1,Mostly Unfree
+1385,Georgia,2004,58.9,Mostly Unfree
+1386,Germany,2004,69.5,Moderately Free
+1387,Ghana,2004,59.1,Mostly Unfree
+1388,Greece,2004,59.1,Mostly Unfree
+1389,Guatemala ,2004,59.6,Mostly Unfree
+1390,Guinea,2004,56.1,Mostly Unfree
+1391,Guinea-Bissau,2004,42.6,Repressed
+1392,Guyana,2004,53.0,Mostly Unfree
+1393,Haiti,2004,51.2,Mostly Unfree
+1394,Honduras ,2004,55.3,Mostly Unfree
+1395,Hong Kong,2004,90.0,Free
+1396,Hungary ,2004,62.7,Moderately Unfree
+1397,Iceland,2004,72.1,Mostly Free
+1398,India,2004,51.5,Mostly Unfree
+1399,Indonesia,2004,52.1,Mostly Unfree
+1400,Iran,2004,42.8,Repressed
+1401,Ireland,2004,80.3,Free
+1402,Israel,2004,61.4,Moderately Unfree
+1403,Italy,2004,64.2,Moderately Unfree
+1404,Jamaica ,2004,66.7,Moderately Free
+1405,Japan,2004,64.3,Moderately Unfree
+1406,Jordan,2004,66.1,Moderately Free
+1407,Kazakhstan,2004,49.7,Repressed
+1408,Kenya,2004,57.7,Mostly Unfree
+1409,Kuwait,2004,63.6,Moderately Unfree
+1410,Kyrgyz Republic ,2004,58.0,Mostly Unfree
+1411,Laos,2004,42.0,Repressed
+1412,Latvia,2004,67.4,Moderately Free
+1413,Lebanon,2004,56.9,Mostly Unfree
+1414,Lesotho,2004,50.3,Mostly Unfree
+1415,Libya,2004,31.5,Repressed
+1416,Lithuania,2004,72.4,Mostly Free
+1417,Luxembourg,2004,78.9,Mostly Free
+1418,Madagascar,2004,60.9,Moderately Unfree
+1419,Malawi,2004,53.6,Mostly Unfree
+1420,Malaysia ,2004,59.9,Mostly Unfree
+1421,Mali,2004,56.6,Mostly Unfree
+1422,Malta,2004,63.3,Moderately Unfree
+1423,Mauritania,2004,61.8,Moderately Unfree
+1424,Mauritius,2004,64.3,Moderately Unfree
+1425,Mexico,2004,66.0,Moderately Free
+1426,Moldova,2004,57.1,Mostly Unfree
+1427,Mongolia,2004,56.5,Mostly Unfree
+1428,Morocco,2004,56.7,Mostly Unfree
+1429,Mozambique ,2004,57.2,Mostly Unfree
+1430,Namibia,2004,62.4,Moderately Unfree
+1431,Nepal,2004,51.2,Mostly Unfree
+1432,Netherlands,2004,74.5,Mostly Free
+1433,New Zealand,2004,81.5,Free
+1434,Nicaragua ,2004,61.4,Moderately Unfree
+1435,Niger,2004,54.6,Mostly Unfree
+1436,Nigeria,2004,49.2,Repressed
+1437,North Korea,2004,8.9,Repressed
+1438,North Macedonia,2004,56.8,Mostly Unfree
+1439,Norway,2004,66.2,Moderately Free
+1440,Oman,2004,66.9,Moderately Free
+1441,Pakistan ,2004,54.9,Mostly Unfree
+1442,Panama ,2004,65.3,Moderately Free
+1443,Paraguay ,2004,56.7,Mostly Unfree
+1444,Peru,2004,64.7,Moderately Unfree
+1445,Philippines,2004,59.1,Mostly Unfree
+1446,Poland,2004,58.7,Mostly Unfree
+1447,Portugal,2004,64.9,Moderately Unfree
+1448,Qatar,2004,66.5,Moderately Free
+1449,Republic of Congo ,2004,45.9,Repressed
+1450,Romania,2004,50.0,Mostly Unfree
+1451,Russia,2004,52.8,Mostly Unfree
+1452,Rwanda,2004,53.3,Mostly Unfree
+1453,Saudi Arabia,2004,60.4,Moderately Unfree
+1454,Senegal,2004,58.9,Mostly Unfree
+1455,Sierra Leone,2004,43.6,Repressed
+1456,Singapore,2004,88.9,Free
+1457,Slovakia,2004,64.6,Moderately Unfree
+1458,Slovenia,2004,59.2,Mostly Unfree
+1459,South Africa,2004,66.3,Moderately Free
+1460,South Korea,2004,67.8,Moderately Free
+1461,Spain,2004,68.9,Moderately Free
+1462,Sri Lanka,2004,61.6,Moderately Unfree
+1463,Suriname,2004,47.9,Repressed
+1464,Sweden,2004,70.1,Mostly Free
+1465,Switzerland,2004,79.5,Mostly Free
+1466,Syria,2004,40.6,Repressed
+1467,Taiwan,2004,69.6,Moderately Free
+1468,Tajikistan,2004,48.7,Repressed
+1469,Tanzania,2004,60.1,Moderately Unfree
+1470,Thailand ,2004,63.7,Moderately Unfree
+1471,The Bahamas,2004,72.1,Mostly Free
+1472,The Gambia,2004,55.3,Mostly Unfree
+1473,Togo,2004,47.0,Repressed
+1474,Trinidad and Tobago,2004,71.3,Mostly Free
+1475,Tunisia,2004,58.4,Mostly Unfree
+1476,Turkey,2004,52.8,Mostly Unfree
+1477,Turkmenistan,2004,50.7,Mostly Unfree
+1478,Uganda,2004,64.1,Moderately Unfree
+1479,Ukraine,2004,53.7,Mostly Unfree
+1480,United Arab Emirates,2004,67.2,Moderately Free
+1481,United Kingdom,2004,77.7,Mostly Free
+1482,United States,2004,78.7,Mostly Free
+1483,Uruguay ,2004,66.7,Moderately Free
+1484,Uzbekistan,2004,39.1,Repressed
+1485,Venezuela ,2004,46.7,Repressed
+1486,Vietnam,2004,46.1,Repressed
+1487,Yemen,2004,50.5,Mostly Unfree
+1488,Zambia,2004,54.9,Mostly Unfree
+1489,Zimbabwe,2004,34.4,Repressed
+1490,Albania,2005,57.8,Mostly Unfree
+1491,Algeria,2005,53.2,Mostly Unfree
+1492,Argentina,2005,51.7,Mostly Unfree
+1493,Armenia,2005,69.8,Moderately Free
+1494,Australia,2005,79.0,Mostly Free
+1495,Austria,2005,68.8,Moderately Free
+1496,Azerbaijan,2005,54.4,Mostly Unfree
+1497,Bahrain,2005,71.2,Mostly Free
+1498,Bangladesh ,2005,47.5,Repressed
+1499,Barbados,2005,70.1,Mostly Free
+1500,Belarus,2005,46.7,Repressed
+1501,Belgium,2005,69.0,Moderately Free
+1502,Belize,2005,64.5,Moderately Unfree
+1503,Benin,2005,52.3,Mostly Unfree
+1504,Bolivia,2005,58.4,Mostly Unfree
+1505,Bosnia and Herzegovina,2005,48.8,Repressed
+1506,Botswana,2005,69.3,Moderately Free
+1507,Brazil,2005,61.7,Moderately Unfree
+1508,Bulgaria,2005,62.3,Moderately Unfree
+1509,Burkina Faso,2005,56.6,Mostly Unfree
+1510,Burma,2005,40.5,Repressed
+1511,Cabo Verde,2005,57.8,Mostly Unfree
+1512,Cambodia,2005,60.0,Moderately Unfree
+1513,Cameroon,2005,53.0,Mostly Unfree
+1514,Canada,2005,75.8,Mostly Free
+1515,Central African Republic,2005,56.5,Mostly Unfree
+1516,Chad,2005,52.1,Mostly Unfree
+1517,Chile,2005,77.8,Mostly Free
+1518,China,2005,53.7,Mostly Unfree
+1519,Colombia,2005,59.6,Mostly Unfree
+1520,Costa Rica ,2005,66.1,Moderately Free
+1521,Côte d'Ivoire ,2005,56.6,Mostly Unfree
+1522,Croatia,2005,51.9,Mostly Unfree
+1523,Cuba,2005,35.5,Repressed
+1524,Cyprus,2005,71.9,Mostly Free
+1525,Czech Republic,2005,64.6,Moderately Unfree
+1526,Denmark,2005,75.3,Mostly Free
+1527,Djibouti,2005,55.2,Mostly Unfree
+1528,Dominican Republic,2005,55.1,Mostly Unfree
+1529,Ecuador,2005,52.9,Mostly Unfree
+1530,Egypt,2005,55.8,Mostly Unfree
+1531,El Salvador ,2005,71.5,Mostly Free
+1532,Equatorial Guinea,2005,53.3,Mostly Unfree
+1533,Estonia,2005,75.2,Mostly Free
+1534,Eswatini,2005,59.4,Mostly Unfree
+1535,Ethiopia,2005,51.1,Mostly Unfree
+1536,Fiji,2005,58.2,Mostly Unfree
+1537,Finland,2005,71.0,Mostly Free
+1538,France,2005,60.5,Moderately Unfree
+1539,Gabon,2005,54.8,Mostly Unfree
+1540,Georgia,2005,57.1,Mostly Unfree
+1541,Germany,2005,68.1,Moderately Free
+1542,Ghana,2005,56.5,Mostly Unfree
+1543,Greece,2005,59.0,Mostly Unfree
+1544,Guatemala ,2005,59.5,Mostly Unfree
+1545,Guinea,2005,57.4,Mostly Unfree
+1546,Guinea-Bissau,2005,46.0,Repressed
+1547,Guyana,2005,56.5,Mostly Unfree
+1548,Haiti,2005,48.4,Repressed
+1549,Honduras ,2005,55.3,Mostly Unfree
+1550,Hong Kong,2005,89.5,Free
+1551,Hungary ,2005,63.5,Moderately Unfree
+1552,Iceland,2005,76.6,Mostly Free
+1553,India,2005,54.2,Mostly Unfree
+1554,Indonesia,2005,52.9,Mostly Unfree
+1555,Iran,2005,50.5,Mostly Unfree
+1556,Ireland,2005,80.8,Free
+1557,Israel,2005,62.6,Moderately Unfree
+1558,Italy,2005,64.9,Moderately Unfree
+1559,Jamaica ,2005,67.0,Moderately Free
+1560,Japan,2005,67.3,Moderately Free
+1561,Jordan,2005,66.7,Moderately Free
+1562,Kazakhstan,2005,53.9,Mostly Unfree
+1563,Kenya,2005,57.9,Mostly Unfree
+1564,Kuwait,2005,64.6,Moderately Unfree
+1565,Kyrgyz Republic ,2005,56.6,Mostly Unfree
+1566,Laos,2005,44.4,Repressed
+1567,Latvia,2005,66.3,Moderately Free
+1568,Lebanon,2005,57.2,Mostly Unfree
+1569,Lesotho,2005,53.9,Mostly Unfree
+1570,Libya,2005,32.8,Repressed
+1571,Lithuania,2005,70.5,Mostly Free
+1572,Luxembourg,2005,76.3,Mostly Free
+1573,Madagascar,2005,63.1,Moderately Unfree
+1574,Malawi,2005,53.6,Mostly Unfree
+1575,Malaysia ,2005,61.9,Moderately Unfree
+1576,Mali,2005,57.3,Mostly Unfree
+1577,Malta,2005,68.9,Moderately Free
+1578,Mauritania,2005,59.4,Mostly Unfree
+1579,Mauritius,2005,67.2,Moderately Free
+1580,Mexico,2005,65.2,Moderately Free
+1581,Moldova,2005,57.4,Mostly Unfree
+1582,Mongolia,2005,59.7,Mostly Unfree
+1583,Morocco,2005,52.2,Mostly Unfree
+1584,Mozambique ,2005,54.6,Mostly Unfree
+1585,Namibia,2005,61.4,Moderately Unfree
+1586,Nepal,2005,51.4,Mostly Unfree
+1587,Netherlands,2005,72.9,Mostly Free
+1588,New Zealand,2005,82.3,Free
+1589,Nicaragua ,2005,62.5,Moderately Unfree
+1590,Niger,2005,54.1,Mostly Unfree
+1591,Nigeria,2005,48.4,Repressed
+1592,North Korea,2005,8.0,Repressed
+1593,North Macedonia,2005,56.1,Mostly Unfree
+1594,Norway,2005,64.5,Moderately Unfree
+1595,Oman,2005,66.5,Moderately Free
+1596,Pakistan ,2005,53.3,Mostly Unfree
+1597,Panama ,2005,64.3,Moderately Unfree
+1598,Paraguay ,2005,53.4,Mostly Unfree
+1599,Peru,2005,61.3,Moderately Unfree
+1600,Philippines,2005,54.7,Mostly Unfree
+1601,Poland,2005,59.6,Mostly Unfree
+1602,Portugal,2005,62.4,Moderately Unfree
+1603,Qatar,2005,63.5,Moderately Unfree
+1604,Republic of Congo ,2005,46.2,Repressed
+1605,Romania,2005,52.1,Mostly Unfree
+1606,Russia,2005,51.3,Mostly Unfree
+1607,Rwanda,2005,51.7,Mostly Unfree
+1608,Saudi Arabia,2005,63.0,Moderately Unfree
+1609,Senegal,2005,57.9,Mostly Unfree
+1610,Sierra Leone,2005,44.8,Repressed
+1611,Singapore,2005,88.6,Free
+1612,Slovakia,2005,66.8,Moderately Free
+1613,Slovenia,2005,59.6,Mostly Unfree
+1614,South Africa,2005,62.9,Moderately Unfree
+1615,South Korea,2005,66.4,Moderately Free
+1616,Spain,2005,67.0,Moderately Free
+1617,Sri Lanka,2005,61.0,Moderately Unfree
+1618,Suriname,2005,51.9,Mostly Unfree
+1619,Sweden,2005,69.8,Moderately Free
+1620,Switzerland,2005,79.3,Mostly Free
+1621,Syria,2005,46.3,Repressed
+1622,Taiwan,2005,71.3,Mostly Free
+1623,Tajikistan,2005,50.4,Mostly Unfree
+1624,Tanzania,2005,56.3,Mostly Unfree
+1625,Thailand ,2005,62.5,Moderately Unfree
+1626,The Bahamas,2005,72.6,Mostly Free
+1627,The Gambia,2005,56.5,Mostly Unfree
+1628,Togo,2005,48.2,Repressed
+1629,Trinidad and Tobago,2005,71.5,Mostly Free
+1630,Tunisia,2005,55.4,Mostly Unfree
+1631,Turkey,2005,50.6,Mostly Unfree
+1632,Turkmenistan,2005,47.6,Repressed
+1633,Uganda,2005,62.9,Moderately Unfree
+1634,Ukraine,2005,55.8,Mostly Unfree
+1635,United Arab Emirates,2005,65.2,Moderately Free
+1636,United Kingdom,2005,79.2,Mostly Free
+1637,United States,2005,79.9,Mostly Free
+1638,Uruguay ,2005,66.9,Moderately Free
+1639,Uzbekistan,2005,45.8,Repressed
+1640,Venezuela ,2005,45.2,Repressed
+1641,Vietnam,2005,48.1,Repressed
+1642,Yemen,2005,53.8,Mostly Unfree
+1643,Zambia,2005,55.0,Mostly Unfree
+1644,Zimbabwe,2005,35.2,Repressed
+1645,Albania,2006,60.3,Moderately Unfree
+1646,Algeria,2006,55.7,Mostly Unfree
+1647,Angola,2006,43.5,Repressed
+1648,Argentina,2006,53.4,Mostly Unfree
+1649,Armenia,2006,70.6,Mostly Free
+1650,Australia,2006,79.9,Mostly Free
+1651,Austria,2006,71.1,Mostly Free
+1652,Azerbaijan,2006,53.2,Mostly Unfree
+1653,Bahrain,2006,71.6,Mostly Free
+1654,Bangladesh ,2006,52.9,Mostly Unfree
+1655,Barbados,2006,71.9,Mostly Free
+1656,Belarus,2006,47.5,Repressed
+1657,Belgium,2006,71.8,Mostly Free
+1658,Belize,2006,64.7,Moderately Unfree
+1659,Benin,2006,54.0,Mostly Unfree
+1660,Bolivia,2006,57.8,Mostly Unfree
+1661,Bosnia and Herzegovina,2006,55.6,Mostly Unfree
+1662,Botswana,2006,68.8,Moderately Free
+1663,Brazil,2006,60.9,Moderately Unfree
+1664,Bulgaria,2006,64.1,Moderately Unfree
+1665,Burkina Faso,2006,55.8,Mostly Unfree
+1666,Burma,2006,40.0,Repressed
+1667,Burundi,2006,48.7,Repressed
+1668,Cabo Verde,2006,58.6,Mostly Unfree
+1669,Cambodia,2006,56.7,Mostly Unfree
+1670,Cameroon,2006,54.6,Mostly Unfree
+1671,Canada,2006,77.4,Mostly Free
+1672,Central African Republic,2006,54.2,Mostly Unfree
+1673,Chad,2006,50.0,Mostly Unfree
+1674,Chile,2006,78.0,Mostly Free
+1675,China,2006,53.6,Mostly Unfree
+1676,Colombia,2006,60.4,Moderately Unfree
+1677,Costa Rica ,2006,65.9,Moderately Free
+1678,Côte d'Ivoire ,2006,56.2,Mostly Unfree
+1679,Croatia,2006,53.6,Mostly Unfree
+1680,Cuba,2006,29.3,Repressed
+1681,Cyprus,2006,71.8,Mostly Free
+1682,Czech Republic,2006,66.4,Moderately Free
+1683,Denmark,2006,75.4,Mostly Free
+1684,Djibouti,2006,53.2,Mostly Unfree
+1685,Dominican Republic,2006,56.3,Mostly Unfree
+1686,Ecuador,2006,54.6,Mostly Unfree
+1687,Egypt,2006,53.2,Mostly Unfree
+1688,El Salvador ,2006,69.6,Moderately Free
+1689,Equatorial Guinea,2006,51.5,Mostly Unfree
+1690,Estonia,2006,74.9,Mostly Free
+1691,Eswatini,2006,61.4,Moderately Unfree
+1692,Ethiopia,2006,50.9,Mostly Unfree
+1693,Fiji,2006,58.4,Mostly Unfree
+1694,Finland,2006,72.9,Mostly Free
+1695,France,2006,61.1,Moderately Unfree
+1696,Gabon,2006,56.1,Mostly Unfree
+1697,Georgia,2006,64.5,Moderately Unfree
+1698,Germany,2006,70.8,Mostly Free
+1699,Ghana,2006,55.6,Mostly Unfree
+1700,Greece,2006,60.1,Moderately Unfree
+1701,Guatemala ,2006,59.1,Mostly Unfree
+1702,Guinea,2006,52.8,Mostly Unfree
+1703,Guinea-Bissau,2006,46.5,Repressed
+1704,Guyana,2006,56.6,Mostly Unfree
+1705,Haiti,2006,49.2,Repressed
+1706,Honduras ,2006,57.4,Mostly Unfree
+1707,Hong Kong,2006,88.6,Free
+1708,Hungary ,2006,65.0,Moderately Free
+1709,Iceland,2006,75.8,Mostly Free
+1710,India,2006,52.2,Mostly Unfree
+1711,Indonesia,2006,51.9,Mostly Unfree
+1712,Iran,2006,45.0,Repressed
+1713,Ireland,2006,82.2,Free
+1714,Israel,2006,64.4,Moderately Unfree
+1715,Italy,2006,62.0,Moderately Unfree
+1716,Jamaica ,2006,66.4,Moderately Free
+1717,Japan,2006,73.3,Mostly Free
+1718,Jordan,2006,63.7,Moderately Unfree
+1719,Kazakhstan,2006,60.2,Moderately Unfree
+1720,Kenya,2006,59.7,Mostly Unfree
+1721,Kuwait,2006,66.5,Moderately Free
+1722,Kyrgyz Republic ,2006,61.0,Moderately Unfree
+1723,Laos,2006,47.5,Repressed
+1724,Latvia,2006,66.9,Moderately Free
+1725,Lebanon,2006,57.5,Mostly Unfree
+1726,Lesotho,2006,54.7,Mostly Unfree
+1727,Libya,2006,33.2,Repressed
+1728,Lithuania,2006,71.8,Mostly Free
+1729,Luxembourg,2006,75.3,Mostly Free
+1730,Madagascar,2006,61.0,Moderately Unfree
+1731,Malawi,2006,55.4,Mostly Unfree
+1732,Malaysia ,2006,61.6,Moderately Unfree
+1733,Mali,2006,54.1,Mostly Unfree
+1734,Malta,2006,67.3,Moderately Free
+1735,Mauritania,2006,55.7,Mostly Unfree
+1736,Mauritius,2006,67.4,Moderately Free
+1737,Mexico,2006,64.7,Moderately Unfree
+1738,Moldova,2006,58.0,Mostly Unfree
+1739,Mongolia,2006,62.4,Moderately Unfree
+1740,Morocco,2006,51.5,Mostly Unfree
+1741,Mozambique ,2006,51.9,Mostly Unfree
+1742,Namibia,2006,60.7,Moderately Unfree
+1743,Nepal,2006,53.7,Mostly Unfree
+1744,Netherlands,2006,75.4,Mostly Free
+1745,New Zealand,2006,82.0,Free
+1746,Nicaragua ,2006,63.8,Moderately Unfree
+1747,Niger,2006,52.5,Mostly Unfree
+1748,Nigeria,2006,48.7,Repressed
+1749,North Korea,2006,4.0,Repressed
+1750,North Macedonia,2006,59.2,Mostly Unfree
+1751,Norway,2006,67.9,Moderately Free
+1752,Oman,2006,63.7,Moderately Unfree
+1753,Pakistan ,2006,57.9,Mostly Unfree
+1754,Panama ,2006,65.6,Moderately Free
+1755,Paraguay ,2006,55.6,Mostly Unfree
+1756,Peru,2006,60.5,Moderately Unfree
+1757,Philippines,2006,56.3,Mostly Unfree
+1758,Poland,2006,59.3,Mostly Unfree
+1759,Portugal,2006,62.9,Moderately Unfree
+1760,Qatar,2006,62.4,Moderately Unfree
+1761,Republic of Congo ,2006,43.8,Repressed
+1762,Romania,2006,58.2,Mostly Unfree
+1763,Russia,2006,52.4,Mostly Unfree
+1764,Rwanda,2006,52.8,Mostly Unfree
+1765,Saudi Arabia,2006,63.0,Moderately Unfree
+1766,Senegal,2006,56.2,Mostly Unfree
+1767,Sierra Leone,2006,45.2,Repressed
+1768,Singapore,2006,88.0,Free
+1769,Slovakia,2006,69.8,Moderately Free
+1770,Slovenia,2006,61.9,Moderately Unfree
+1771,South Africa,2006,63.7,Moderately Unfree
+1772,South Korea,2006,67.5,Moderately Free
+1773,Spain,2006,68.2,Moderately Free
+1774,Sri Lanka,2006,58.7,Mostly Unfree
+1775,Suriname,2006,55.1,Mostly Unfree
+1776,Sweden,2006,70.9,Mostly Free
+1777,Switzerland,2006,78.9,Mostly Free
+1778,Syria,2006,51.2,Mostly Unfree
+1779,Taiwan,2006,69.7,Moderately Free
+1780,Tajikistan,2006,52.6,Mostly Unfree
+1781,Tanzania,2006,58.5,Mostly Unfree
+1782,Thailand ,2006,63.3,Moderately Unfree
+1783,The Bahamas,2006,72.3,Mostly Free
+1784,The Gambia,2006,57.3,Mostly Unfree
+1785,Togo,2006,47.3,Repressed
+1786,Trinidad and Tobago,2006,70.4,Mostly Free
+1787,Tunisia,2006,57.5,Mostly Unfree
+1788,Turkey,2006,57.0,Mostly Unfree
+1789,Turkmenistan,2006,43.8,Repressed
+1790,Uganda,2006,63.9,Moderately Unfree
+1791,Ukraine,2006,54.4,Mostly Unfree
+1792,United Arab Emirates,2006,62.2,Moderately Unfree
+1793,United Kingdom,2006,80.4,Free
+1794,United States,2006,81.2,Free
+1795,Uruguay ,2006,65.3,Moderately Free
+1796,Uzbekistan,2006,48.7,Repressed
+1797,Venezuela ,2006,44.6,Repressed
+1798,Vietnam,2006,50.5,Mostly Unfree
+1799,Yemen,2006,52.6,Mostly Unfree
+1800,Zambia,2006,56.8,Mostly Unfree
+1801,Zimbabwe,2006,33.5,Repressed
+1802,Albania,2007,61.4,Moderately Unfree
+1803,Algeria,2007,55.4,Mostly Unfree
+1804,Angola,2007,44.7,Repressed
+1805,Argentina,2007,54.0,Mostly Unfree
+1806,Armenia,2007,68.6,Moderately Free
+1807,Australia,2007,81.1,Free
+1808,Austria,2007,71.6,Mostly Free
+1809,Azerbaijan,2007,54.6,Mostly Unfree
+1810,Bahrain,2007,71.2,Mostly Free
+1811,Bangladesh ,2007,46.7,Repressed
+1812,Barbados,2007,70.0,Mostly Free
+1813,Belarus,2007,47.0,Repressed
+1814,Belgium,2007,72.5,Mostly Free
+1815,Belize,2007,63.3,Moderately Unfree
+1816,Benin,2007,55.1,Mostly Unfree
+1817,Bolivia,2007,54.2,Mostly Unfree
+1818,Bosnia and Herzegovina,2007,54.4,Mostly Unfree
+1819,Botswana,2007,68.1,Moderately Free
+1820,Brazil,2007,56.2,Mostly Unfree
+1821,Bulgaria,2007,62.7,Moderately Unfree
+1822,Burkina Faso,2007,55.1,Mostly Unfree
+1823,Burma,2007,41.0,Repressed
+1824,Burundi,2007,46.9,Repressed
+1825,Cabo Verde,2007,56.5,Mostly Unfree
+1826,Cambodia,2007,55.9,Mostly Unfree
+1827,Cameroon,2007,55.6,Mostly Unfree
+1828,Canada,2007,78.0,Mostly Free
+1829,Central African Republic,2007,50.6,Mostly Unfree
+1830,Chad,2007,50.1,Mostly Unfree
+1831,Chile,2007,77.7,Mostly Free
+1832,China,2007,52.0,Mostly Unfree
+1833,Colombia,2007,59.9,Mostly Unfree
+1834,Costa Rica ,2007,64.0,Moderately Unfree
+1835,Côte d'Ivoire ,2007,54.9,Mostly Unfree
+1836,Croatia,2007,53.4,Mostly Unfree
+1837,Cuba,2007,28.6,Repressed
+1838,Cyprus,2007,71.7,Mostly Free
+1839,Czech Republic,2007,67.4,Moderately Free
+1840,Denmark,2007,77.0,Mostly Free
+1841,Djibouti,2007,52.4,Mostly Unfree
+1842,Dominican Republic,2007,56.8,Mostly Unfree
+1843,Ecuador,2007,55.3,Mostly Unfree
+1844,Egypt,2007,54.4,Mostly Unfree
+1845,El Salvador ,2007,68.9,Moderately Free
+1846,Equatorial Guinea,2007,53.2,Mostly Unfree
+1847,Estonia,2007,78.0,Mostly Free
+1848,Eswatini,2007,60.1,Moderately Unfree
+1849,Ethiopia,2007,53.6,Mostly Unfree
+1850,Fiji,2007,60.8,Moderately Unfree
+1851,Finland,2007,74.0,Mostly Free
+1852,France,2007,62.1,Moderately Unfree
+1853,Gabon,2007,54.8,Mostly Unfree
+1854,Georgia,2007,69.3,Moderately Free
+1855,Germany,2007,70.8,Mostly Free
+1856,Ghana,2007,57.6,Mostly Unfree
+1857,Greece,2007,58.7,Mostly Unfree
+1858,Guatemala ,2007,60.5,Moderately Unfree
+1859,Guinea,2007,54.5,Mostly Unfree
+1860,Guinea-Bissau,2007,46.1,Repressed
+1861,Guyana,2007,53.7,Mostly Unfree
+1862,Haiti,2007,51.4,Mostly Unfree
+1863,Honduras ,2007,59.1,Mostly Unfree
+1864,Hong Kong,2007,89.9,Free
+1865,Hungary ,2007,64.8,Moderately Unfree
+1866,Iceland,2007,76.0,Mostly Free
+1867,India,2007,53.9,Mostly Unfree
+1868,Indonesia,2007,53.2,Mostly Unfree
+1869,Iran,2007,45.0,Repressed
+1870,Ireland,2007,82.6,Free
+1871,Israel,2007,64.8,Moderately Unfree
+1872,Italy,2007,62.8,Moderately Unfree
+1873,Jamaica ,2007,65.5,Moderately Free
+1874,Japan,2007,72.7,Mostly Free
+1875,Jordan,2007,64.5,Moderately Unfree
+1876,Kazakhstan,2007,59.6,Mostly Unfree
+1877,Kenya,2007,59.6,Mostly Unfree
+1878,Kuwait,2007,66.4,Moderately Free
+1879,Kyrgyz Republic ,2007,60.2,Moderately Unfree
+1880,Laos,2007,50.3,Mostly Unfree
+1881,Latvia,2007,67.9,Moderately Free
+1882,Lebanon,2007,60.4,Moderately Unfree
+1883,Lesotho,2007,53.2,Mostly Unfree
+1884,Libya,2007,37.0,Repressed
+1885,Lithuania,2007,71.5,Mostly Free
+1886,Luxembourg,2007,74.6,Mostly Free
+1887,Madagascar,2007,61.1,Moderately Unfree
+1888,Malawi,2007,52.9,Mostly Unfree
+1889,Malaysia ,2007,63.8,Moderately Unfree
+1890,Mali,2007,54.7,Mostly Unfree
+1891,Malta,2007,66.1,Moderately Free
+1892,Mauritania,2007,53.6,Mostly Unfree
+1893,Mauritius,2007,69.4,Moderately Free
+1894,Mexico,2007,66.0,Moderately Free
+1895,Moldova,2007,58.7,Mostly Unfree
+1896,Mongolia,2007,60.3,Moderately Unfree
+1897,Morocco,2007,56.4,Mostly Unfree
+1898,Mozambique ,2007,54.7,Mostly Unfree
+1899,Namibia,2007,63.5,Moderately Unfree
+1900,Nepal,2007,54.4,Mostly Unfree
+1901,Netherlands,2007,75.5,Mostly Free
+1902,New Zealand,2007,81.4,Free
+1903,Nicaragua ,2007,62.7,Moderately Unfree
+1904,Niger,2007,53.2,Mostly Unfree
+1905,Nigeria,2007,55.6,Mostly Unfree
+1906,North Korea,2007,3.0,Repressed
+1907,North Macedonia,2007,60.6,Moderately Unfree
+1908,Norway,2007,67.9,Moderately Free
+1909,Oman,2007,65.8,Moderately Free
+1910,Pakistan ,2007,57.2,Mostly Unfree
+1911,Panama ,2007,64.6,Moderately Unfree
+1912,Paraguay ,2007,58.3,Mostly Unfree
+1913,Peru,2007,62.7,Moderately Unfree
+1914,Philippines,2007,56.0,Mostly Unfree
+1915,Poland,2007,58.1,Mostly Unfree
+1916,Portugal,2007,64.0,Moderately Unfree
+1917,Qatar,2007,62.9,Moderately Unfree
+1918,Republic of Congo ,2007,44.4,Repressed
+1919,Romania,2007,61.2,Moderately Unfree
+1920,Russia,2007,52.2,Mostly Unfree
+1921,Rwanda,2007,52.4,Mostly Unfree
+1922,Saudi Arabia,2007,60.9,Moderately Unfree
+1923,Senegal,2007,58.1,Mostly Unfree
+1924,Sierra Leone,2007,47.0,Repressed
+1925,Singapore,2007,87.1,Free
+1926,Slovakia,2007,69.6,Moderately Free
+1927,Slovenia,2007,59.6,Mostly Unfree
+1928,South Africa,2007,63.5,Moderately Unfree
+1929,South Korea,2007,67.8,Moderately Free
+1930,Spain,2007,69.2,Moderately Free
+1931,Sri Lanka,2007,59.4,Mostly Unfree
+1932,Suriname,2007,54.8,Mostly Unfree
+1933,Sweden,2007,69.3,Moderately Free
+1934,Switzerland,2007,78.0,Mostly Free
+1935,Syria,2007,48.3,Repressed
+1936,Taiwan,2007,69.4,Moderately Free
+1937,Tajikistan,2007,53.6,Mostly Unfree
+1938,Tanzania,2007,56.8,Mostly Unfree
+1939,Thailand ,2007,63.5,Moderately Unfree
+1940,The Bahamas,2007,72.0,Mostly Free
+1941,The Gambia,2007,57.7,Mostly Unfree
+1942,Togo,2007,49.7,Repressed
+1943,Trinidad and Tobago,2007,70.6,Mostly Free
+1944,Tunisia,2007,60.3,Moderately Unfree
+1945,Turkey,2007,57.4,Mostly Unfree
+1946,Turkmenistan,2007,43.0,Repressed
+1947,Uganda,2007,63.1,Moderately Unfree
+1948,Ukraine,2007,51.5,Mostly Unfree
+1949,United Arab Emirates,2007,62.6,Moderately Unfree
+1950,United Kingdom,2007,79.9,Mostly Free
+1951,United States,2007,81.2,Free
+1952,Uruguay ,2007,68.4,Moderately Free
+1953,Uzbekistan,2007,51.5,Mostly Unfree
+1954,Venezuela ,2007,47.9,Repressed
+1955,Vietnam,2007,49.8,Repressed
+1956,Yemen,2007,54.1,Mostly Unfree
+1957,Zambia,2007,56.2,Mostly Unfree
+1958,Zimbabwe,2007,32.0,Repressed
+1959,Albania,2008,62.4,Moderately Unfree
+1960,Algeria,2008,56.2,Mostly Unfree
+1961,Angola,2008,46.9,Repressed
+1962,Argentina,2008,54.2,Mostly Unfree
+1963,Armenia,2008,69.9,Moderately Free
+1964,Australia,2008,82.2,Free
+1965,Austria,2008,71.4,Mostly Free
+1966,Azerbaijan,2008,55.3,Mostly Unfree
+1967,Bahrain,2008,72.2,Mostly Free
+1968,Bangladesh ,2008,44.2,Repressed
+1969,Barbados,2008,71.3,Mostly Free
+1970,Belarus,2008,45.3,Repressed
+1971,Belgium,2008,71.7,Mostly Free
+1972,Belize,2008,63.0,Moderately Unfree
+1973,Benin,2008,55.2,Mostly Unfree
+1974,Bolivia,2008,53.1,Mostly Unfree
+1975,Bosnia and Herzegovina,2008,53.9,Mostly Unfree
+1976,Botswana,2008,68.2,Moderately Free
+1977,Brazil,2008,56.2,Mostly Unfree
+1978,Bulgaria,2008,63.7,Moderately Unfree
+1979,Burkina Faso,2008,55.7,Mostly Unfree
+1980,Burma,2008,39.5,Repressed
+1981,Burundi,2008,46.2,Repressed
+1982,Cabo Verde,2008,57.9,Mostly Unfree
+1983,Cambodia,2008,55.9,Mostly Unfree
+1984,Cameroon,2008,54.3,Mostly Unfree
+1985,Canada,2008,80.2,Free
+1986,Central African Republic,2008,48.6,Repressed
+1987,Chad,2008,47.8,Repressed
+1988,Chile,2008,78.6,Mostly Free
+1989,China,2008,53.1,Mostly Unfree
+1990,Colombia,2008,62.2,Moderately Unfree
+1991,Costa Rica ,2008,64.2,Moderately Unfree
+1992,Côte d'Ivoire ,2008,53.9,Mostly Unfree
+1993,Croatia,2008,54.1,Mostly Unfree
+1994,Cuba,2008,27.5,Repressed
+1995,Cyprus,2008,71.3,Mostly Free
+1996,Czech Republic,2008,68.1,Moderately Free
+1997,Denmark,2008,79.2,Mostly Free
+1998,Djibouti,2008,51.2,Mostly Unfree
+1999,Dominican Republic,2008,57.7,Mostly Unfree
+2000,Ecuador,2008,55.2,Mostly Unfree
+2001,Egypt,2008,58.5,Mostly Unfree
+2002,El Salvador ,2008,68.5,Moderately Free
+2003,Equatorial Guinea,2008,51.6,Mostly Unfree
+2004,Estonia,2008,77.9,Mostly Free
+2005,Eswatini,2008,58.4,Mostly Unfree
+2006,Ethiopia,2008,52.5,Mostly Unfree
+2007,Fiji,2008,61.8,Moderately Unfree
+2008,Finland,2008,74.6,Mostly Free
+2009,France,2008,64.7,Moderately Unfree
+2010,Gabon,2008,54.2,Mostly Unfree
+2011,Georgia,2008,69.2,Moderately Free
+2012,Germany,2008,70.6,Mostly Free
+2013,Ghana,2008,57.0,Mostly Unfree
+2014,Greece,2008,60.6,Moderately Unfree
+2015,Guatemala ,2008,59.8,Mostly Unfree
+2016,Guinea,2008,52.8,Mostly Unfree
+2017,Guinea-Bissau,2008,44.4,Repressed
+2018,Guyana,2008,48.8,Repressed
+2019,Haiti,2008,49.0,Repressed
+2020,Honduras ,2008,58.9,Mostly Unfree
+2021,Hong Kong,2008,89.7,Free
+2022,Hungary ,2008,67.6,Moderately Free
+2023,Iceland,2008,75.8,Mostly Free
+2024,India,2008,54.1,Mostly Unfree
+2025,Indonesia,2008,53.2,Mostly Unfree
+2026,Iran,2008,45.0,Repressed
+2027,Ireland,2008,82.5,Free
+2028,Israel,2008,66.3,Moderately Free
+2029,Italy,2008,62.6,Moderately Unfree
+2030,Jamaica ,2008,65.7,Moderately Free
+2031,Japan,2008,73.0,Mostly Free
+2032,Jordan,2008,64.1,Moderately Unfree
+2033,Kazakhstan,2008,61.1,Moderately Unfree
+2034,Kenya,2008,59.3,Mostly Unfree
+2035,Kuwait,2008,68.1,Moderately Free
+2036,Kyrgyz Republic ,2008,61.1,Moderately Unfree
+2037,Laos,2008,50.3,Mostly Unfree
+2038,Latvia,2008,68.3,Moderately Free
+2039,Lebanon,2008,60.0,Moderately Unfree
+2040,Lesotho,2008,52.1,Mostly Unfree
+2041,Libya,2008,38.7,Repressed
+2042,Lithuania,2008,70.9,Mostly Free
+2043,Luxembourg,2008,74.7,Mostly Free
+2044,Madagascar,2008,62.4,Moderately Unfree
+2045,Malawi,2008,52.7,Mostly Unfree
+2046,Malaysia ,2008,63.9,Moderately Unfree
+2047,Mali,2008,55.6,Mostly Unfree
+2048,Malta,2008,66.0,Moderately Free
+2049,Mauritania,2008,55.2,Mostly Unfree
+2050,Mauritius,2008,72.6,Mostly Free
+2051,Mexico,2008,66.2,Moderately Free
+2052,Moldova,2008,57.9,Mostly Unfree
+2053,Mongolia,2008,63.6,Moderately Unfree
+2054,Morocco,2008,55.6,Mostly Unfree
+2055,Mozambique ,2008,55.4,Mostly Unfree
+2056,Namibia,2008,61.4,Moderately Unfree
+2057,Nepal,2008,54.1,Mostly Unfree
+2058,Netherlands,2008,77.4,Mostly Free
+2059,New Zealand,2008,80.7,Free
+2060,Nicaragua ,2008,60.8,Moderately Unfree
+2061,Niger,2008,52.9,Mostly Unfree
+2062,Nigeria,2008,55.1,Mostly Unfree
+2063,North Korea,2008,3.0,Repressed
+2064,North Macedonia,2008,61.1,Moderately Unfree
+2065,Norway,2008,68.6,Moderately Free
+2066,Oman,2008,67.3,Moderately Free
+2067,Pakistan ,2008,55.6,Mostly Unfree
+2068,Panama ,2008,64.7,Moderately Unfree
+2069,Paraguay ,2008,60.0,Moderately Unfree
+2070,Peru,2008,63.8,Moderately Unfree
+2071,Philippines,2008,56.0,Mostly Unfree
+2072,Poland,2008,60.3,Moderately Unfree
+2073,Portugal,2008,63.9,Moderately Unfree
+2074,Qatar,2008,62.2,Moderately Unfree
+2075,Republic of Congo ,2008,45.3,Repressed
+2076,Romania,2008,61.7,Moderately Unfree
+2077,Russia,2008,49.8,Repressed
+2078,Rwanda,2008,54.2,Mostly Unfree
+2079,Saudi Arabia,2008,62.5,Moderately Unfree
+2080,Senegal,2008,58.3,Mostly Unfree
+2081,Sierra Leone,2008,48.3,Repressed
+2082,Singapore,2008,87.3,Free
+2083,Slovakia,2008,70.0,Mostly Free
+2084,Slovenia,2008,60.2,Moderately Unfree
+2085,South Africa,2008,63.4,Moderately Unfree
+2086,South Korea,2008,68.6,Moderately Free
+2087,Spain,2008,69.1,Moderately Free
+2088,Sri Lanka,2008,58.4,Mostly Unfree
+2089,Suriname,2008,54.3,Mostly Unfree
+2090,Sweden,2008,70.8,Mostly Free
+2091,Switzerland,2008,79.5,Mostly Free
+2092,Syria,2008,47.2,Repressed
+2093,Taiwan,2008,70.3,Mostly Free
+2094,Tajikistan,2008,54.4,Mostly Unfree
+2095,Tanzania,2008,56.5,Mostly Unfree
+2096,Thailand ,2008,62.3,Moderately Unfree
+2097,The Bahamas,2008,71.1,Mostly Free
+2098,The Gambia,2008,56.9,Mostly Unfree
+2099,Togo,2008,48.9,Repressed
+2100,Trinidad and Tobago,2008,69.5,Moderately Free
+2101,Tunisia,2008,60.1,Moderately Unfree
+2102,Turkey,2008,59.9,Mostly Unfree
+2103,Turkmenistan,2008,43.4,Repressed
+2104,Uganda,2008,63.8,Moderately Unfree
+2105,Ukraine,2008,51.0,Mostly Unfree
+2106,United Arab Emirates,2008,62.6,Moderately Unfree
+2107,United Kingdom,2008,79.4,Mostly Free
+2108,United States,2008,81.0,Free
+2109,Uruguay ,2008,67.9,Moderately Free
+2110,Uzbekistan,2008,51.9,Mostly Unfree
+2111,Venezuela ,2008,44.7,Repressed
+2112,Vietnam,2008,50.4,Mostly Unfree
+2113,Yemen,2008,53.8,Mostly Unfree
+2114,Zambia,2008,56.2,Mostly Unfree
+2115,Zimbabwe,2008,29.5,Repressed
+2116,Albania,2009,63.7,Moderately Unfree
+2117,Algeria,2009,56.6,Mostly Unfree
+2118,Angola,2009,47.0,Repressed
+2119,Argentina,2009,52.3,Mostly Unfree
+2120,Armenia,2009,69.9,Moderately Free
+2121,Australia,2009,82.6,Free
+2122,Austria,2009,71.2,Mostly Free
+2123,Azerbaijan,2009,58.0,Mostly Unfree
+2124,Bahrain,2009,74.8,Mostly Free
+2125,Bangladesh ,2009,47.5,Repressed
+2126,Barbados,2009,71.5,Mostly Free
+2127,Belarus,2009,45.0,Repressed
+2128,Belgium,2009,72.1,Mostly Free
+2129,Belize,2009,63.0,Moderately Unfree
+2130,Benin,2009,55.4,Mostly Unfree
+2131,Bhutan,2009,57.7,Mostly Unfree
+2132,Bolivia,2009,53.6,Mostly Unfree
+2133,Bosnia and Herzegovina,2009,53.1,Mostly Unfree
+2134,Botswana,2009,69.7,Moderately Free
+2135,Brazil,2009,56.7,Mostly Unfree
+2136,Bulgaria,2009,64.6,Moderately Unfree
+2137,Burkina Faso,2009,59.5,Mostly Unfree
+2138,Burma,2009,37.7,Repressed
+2139,Burundi,2009,48.8,Repressed
+2140,Cabo Verde,2009,61.3,Moderately Unfree
+2141,Cambodia,2009,56.6,Mostly Unfree
+2142,Cameroon,2009,53.0,Mostly Unfree
+2143,Canada,2009,80.5,Free
+2144,Central African Republic,2009,48.3,Repressed
+2145,Chad,2009,47.5,Repressed
+2146,Chile,2009,78.3,Mostly Free
+2147,China,2009,53.2,Mostly Unfree
+2148,Colombia,2009,62.3,Moderately Unfree
+2149,Comoros,2009,43.3,Repressed
+2150,Costa Rica ,2009,66.4,Moderately Free
+2151,Côte d'Ivoire ,2009,55.0,Mostly Unfree
+2152,Croatia,2009,55.1,Mostly Unfree
+2153,Cuba,2009,27.9,Repressed
+2154,Cyprus,2009,70.8,Mostly Free
+2155,Czech Republic,2009,69.4,Moderately Free
+2156,Democratic Republic of Congo,2009,42.8,Repressed
+2157,Denmark,2009,79.6,Mostly Free
+2158,Djibouti,2009,51.3,Mostly Unfree
+2159,Dominica,2009,62.6,Moderately Unfree
+2160,Dominican Republic,2009,59.2,Mostly Unfree
+2161,Ecuador,2009,52.5,Mostly Unfree
+2162,Egypt,2009,58.0,Mostly Unfree
+2163,El Salvador ,2009,69.8,Moderately Free
+2164,Equatorial Guinea,2009,51.3,Mostly Unfree
+2165,Eritrea,2009,38.5,Repressed
+2166,Estonia,2009,76.4,Mostly Free
+2167,Eswatini,2009,59.1,Mostly Unfree
+2168,Ethiopia,2009,53.0,Mostly Unfree
+2169,Fiji,2009,61.0,Moderately Unfree
+2170,Finland,2009,74.5,Mostly Free
+2171,France,2009,63.3,Moderately Unfree
+2172,Gabon,2009,55.0,Mostly Unfree
+2173,Georgia,2009,69.8,Moderately Free
+2174,Germany,2009,70.5,Mostly Free
+2175,Ghana,2009,58.1,Mostly Unfree
+2176,Greece,2009,60.8,Moderately Unfree
+2177,Guatemala ,2009,59.4,Mostly Unfree
+2178,Guinea,2009,51.0,Mostly Unfree
+2179,Guinea-Bissau,2009,45.4,Repressed
+2180,Guyana,2009,48.4,Repressed
+2181,Haiti,2009,50.5,Mostly Unfree
+2182,Honduras ,2009,58.7,Mostly Unfree
+2183,Hong Kong,2009,90.0,Free
+2184,Hungary ,2009,66.8,Moderately Free
+2185,Iceland,2009,75.9,Mostly Free
+2186,India,2009,54.4,Mostly Unfree
+2187,Indonesia,2009,53.4,Mostly Unfree
+2188,Iran,2009,44.6,Repressed
+2189,Ireland,2009,82.2,Free
+2190,Israel,2009,67.6,Moderately Free
+2191,Italy,2009,61.4,Moderately Unfree
+2192,Jamaica ,2009,65.2,Moderately Free
+2193,Japan,2009,72.8,Mostly Free
+2194,Jordan,2009,65.4,Moderately Free
+2195,Kazakhstan,2009,60.1,Moderately Unfree
+2196,Kenya,2009,58.7,Mostly Unfree
+2197,Kiribati,2009,45.7,Repressed
+2198,Kuwait,2009,65.6,Moderately Free
+2199,Kyrgyz Republic ,2009,61.8,Moderately Unfree
+2200,Laos,2009,50.4,Mostly Unfree
+2201,Latvia,2009,66.6,Moderately Free
+2202,Lebanon,2009,58.1,Mostly Unfree
+2203,Lesotho,2009,49.7,Repressed
+2204,Liberia,2009,48.1,Repressed
+2205,Libya,2009,43.5,Repressed
+2206,Lithuania,2009,70.0,Mostly Free
+2207,Luxembourg,2009,75.2,Mostly Free
+2208,Macau,2009,72.0,Mostly Free
+2209,Madagascar,2009,62.2,Moderately Unfree
+2210,Malawi,2009,53.7,Mostly Unfree
+2211,Malaysia ,2009,64.6,Moderately Unfree
+2212,Maldives,2009,51.3,Mostly Unfree
+2213,Mali,2009,55.6,Mostly Unfree
+2214,Malta,2009,66.1,Moderately Free
+2215,Mauritania,2009,53.9,Mostly Unfree
+2216,Mauritius,2009,74.3,Mostly Free
+2217,Mexico,2009,65.8,Moderately Free
+2218,Micronesia,2009,51.7,Mostly Unfree
+2219,Moldova,2009,54.9,Mostly Unfree
+2220,Mongolia,2009,62.8,Moderately Unfree
+2221,Montenegro,2009,58.2,Mostly Unfree
+2222,Morocco,2009,57.7,Mostly Unfree
+2223,Mozambique ,2009,55.7,Mostly Unfree
+2224,Namibia,2009,62.4,Moderately Unfree
+2225,Nepal,2009,53.2,Mostly Unfree
+2226,Netherlands,2009,77.0,Mostly Free
+2227,New Zealand,2009,82.0,Free
+2228,Nicaragua ,2009,59.8,Mostly Unfree
+2229,Niger,2009,53.8,Mostly Unfree
+2230,Nigeria,2009,55.1,Mostly Unfree
+2231,North Korea,2009,2.0,Repressed
+2232,North Macedonia,2009,61.2,Moderately Unfree
+2233,Norway,2009,70.2,Mostly Free
+2234,Oman,2009,67.0,Moderately Free
+2235,Pakistan ,2009,57.0,Mostly Unfree
+2236,Panama ,2009,64.7,Moderately Unfree
+2237,Papua New Guinea,2009,54.8,Mostly Unfree
+2238,Paraguay ,2009,61.0,Moderately Unfree
+2239,Peru,2009,64.6,Moderately Unfree
+2240,Philippines,2009,56.8,Mostly Unfree
+2241,Poland,2009,60.3,Moderately Unfree
+2242,Portugal,2009,64.9,Moderately Unfree
+2243,Qatar,2009,65.8,Moderately Free
+2244,Republic of Congo ,2009,45.4,Repressed
+2245,Romania,2009,63.2,Moderately Unfree
+2246,Russia,2009,50.8,Mostly Unfree
+2247,Rwanda,2009,54.2,Mostly Unfree
+2248,Saint Lucia,2009,68.8,Moderately Free
+2249,Saint Vincent and the Grenadines,2009,64.3,Moderately Unfree
+2250,Samoa,2009,59.5,Mostly Unfree
+2251,São Tomé and Príncipe ,2009,43.8,Repressed
+2252,Saudi Arabia,2009,64.3,Moderately Unfree
+2253,Senegal,2009,56.3,Mostly Unfree
+2254,Serbia ,2009,56.6,Mostly Unfree
+2255,Seychelles,2009,47.8,Repressed
+2256,Sierra Leone,2009,47.8,Repressed
+2257,Singapore,2009,87.1,Free
+2258,Slovakia,2009,69.4,Moderately Free
+2259,Slovenia,2009,62.9,Moderately Unfree
+2260,Solomon Islands,2009,46.0,Repressed
+2261,South Africa,2009,63.8,Moderately Unfree
+2262,South Korea,2009,68.1,Moderately Free
+2263,Spain,2009,70.1,Mostly Free
+2264,Sri Lanka,2009,56.0,Mostly Unfree
+2265,Suriname,2009,54.1,Mostly Unfree
+2266,Sweden,2009,70.5,Mostly Free
+2267,Switzerland,2009,79.4,Mostly Free
+2268,Syria,2009,51.3,Mostly Unfree
+2269,Taiwan,2009,69.5,Moderately Free
+2270,Tajikistan,2009,54.6,Mostly Unfree
+2271,Tanzania,2009,58.3,Mostly Unfree
+2272,Thailand ,2009,63.0,Moderately Unfree
+2273,The Bahamas,2009,70.3,Mostly Free
+2274,The Gambia,2009,55.8,Mostly Unfree
+2275,Timor-Leste,2009,50.5,Mostly Unfree
+2276,Togo,2009,48.7,Repressed
+2277,Tonga,2009,54.1,Mostly Unfree
+2278,Trinidad and Tobago,2009,68.0,Moderately Free
+2279,Tunisia,2009,58.0,Mostly Unfree
+2280,Turkey,2009,61.6,Moderately Unfree
+2281,Turkmenistan,2009,44.2,Repressed
+2282,Uganda,2009,63.5,Moderately Unfree
+2283,Ukraine,2009,48.8,Repressed
+2284,United Arab Emirates,2009,64.7,Moderately Unfree
+2285,United Kingdom,2009,79.0,Mostly Free
+2286,United States,2009,80.7,Free
+2287,Uruguay ,2009,69.1,Moderately Free
+2288,Uzbekistan,2009,50.5,Mostly Unfree
+2289,Vanuatu,2009,58.4,Mostly Unfree
+2290,Venezuela ,2009,39.9,Repressed
+2291,Vietnam,2009,51.0,Mostly Unfree
+2292,Yemen,2009,56.9,Mostly Unfree
+2293,Zambia,2009,56.6,Mostly Unfree
+2294,Zimbabwe,2009,22.7,Repressed
+2295,Albania,2010,66.0,Moderately Free
+2296,Algeria,2010,56.9,Mostly Unfree
+2297,Angola,2010,48.4,Repressed
+2298,Argentina,2010,51.2,Mostly Unfree
+2299,Armenia,2010,69.2,Moderately Free
+2300,Australia,2010,82.6,Free
+2301,Austria,2010,71.6,Mostly Free
+2302,Azerbaijan,2010,58.8,Mostly Unfree
+2303,Bahrain,2010,76.3,Mostly Free
+2304,Bangladesh ,2010,51.1,Mostly Unfree
+2305,Barbados,2010,68.3,Moderately Free
+2306,Belarus,2010,48.7,Repressed
+2307,Belgium,2010,70.1,Mostly Free
+2308,Belize,2010,61.5,Moderately Unfree
+2309,Benin,2010,55.4,Mostly Unfree
+2310,Bhutan,2010,57.0,Mostly Unfree
+2311,Bolivia,2010,49.4,Repressed
+2312,Bosnia and Herzegovina,2010,56.2,Mostly Unfree
+2313,Botswana,2010,70.3,Mostly Free
+2314,Brazil,2010,55.6,Mostly Unfree
+2315,Bulgaria,2010,62.3,Moderately Unfree
+2316,Burkina Faso,2010,59.4,Mostly Unfree
+2317,Burma,2010,36.7,Repressed
+2318,Burundi,2010,47.5,Repressed
+2319,Cabo Verde,2010,61.8,Moderately Unfree
+2320,Cambodia,2010,56.6,Mostly Unfree
+2321,Cameroon,2010,52.3,Mostly Unfree
+2322,Canada,2010,80.4,Free
+2323,Central African Republic,2010,48.4,Repressed
+2324,Chad,2010,47.5,Repressed
+2325,Chile,2010,77.2,Mostly Free
+2326,China,2010,51.0,Mostly Unfree
+2327,Colombia,2010,65.5,Moderately Free
+2328,Comoros,2010,44.9,Repressed
+2329,Costa Rica ,2010,65.9,Moderately Free
+2330,Côte d'Ivoire ,2010,54.1,Mostly Unfree
+2331,Croatia,2010,59.2,Mostly Unfree
+2332,Cuba,2010,26.7,Repressed
+2333,Cyprus,2010,70.9,Mostly Free
+2334,Czech Republic,2010,69.8,Moderately Free
+2335,Democratic Republic of Congo,2010,41.4,Repressed
+2336,Denmark,2010,77.9,Mostly Free
+2337,Djibouti,2010,51.0,Mostly Unfree
+2338,Dominica,2010,63.2,Moderately Unfree
+2339,Dominican Republic,2010,60.3,Moderately Unfree
+2340,Ecuador,2010,49.3,Repressed
+2341,Egypt,2010,59.0,Mostly Unfree
+2342,El Salvador ,2010,69.9,Moderately Free
+2343,Equatorial Guinea,2010,48.6,Repressed
+2344,Eritrea,2010,35.3,Repressed
+2345,Estonia,2010,74.7,Mostly Free
+2346,Eswatini,2010,57.4,Mostly Unfree
+2347,Ethiopia,2010,51.2,Mostly Unfree
+2348,Fiji,2010,60.3,Moderately Unfree
+2349,Finland,2010,73.8,Mostly Free
+2350,France,2010,64.2,Moderately Unfree
+2351,Gabon,2010,55.4,Mostly Unfree
+2352,Georgia,2010,70.4,Mostly Free
+2353,Germany,2010,71.1,Mostly Free
+2354,Ghana,2010,60.2,Moderately Unfree
+2355,Greece,2010,62.7,Moderately Unfree
+2356,Guatemala ,2010,61.0,Moderately Unfree
+2357,Guinea,2010,51.8,Mostly Unfree
+2358,Guinea-Bissau,2010,43.6,Repressed
+2359,Guyana,2010,48.4,Repressed
+2360,Haiti,2010,50.8,Mostly Unfree
+2361,Honduras ,2010,58.3,Mostly Unfree
+2362,Hong Kong,2010,89.7,Free
+2363,Hungary ,2010,66.1,Moderately Free
+2364,Iceland,2010,73.7,Mostly Free
+2365,India,2010,53.8,Mostly Unfree
+2366,Indonesia,2010,55.5,Mostly Unfree
+2367,Iran,2010,43.4,Repressed
+2368,Ireland,2010,81.3,Free
+2369,Israel,2010,67.7,Moderately Free
+2370,Italy,2010,62.7,Moderately Unfree
+2371,Jamaica ,2010,65.5,Moderately Free
+2372,Japan,2010,72.9,Mostly Free
+2373,Jordan,2010,66.1,Moderately Free
+2374,Kazakhstan,2010,61.0,Moderately Unfree
+2375,Kenya,2010,57.5,Mostly Unfree
+2376,Kiribati,2010,43.7,Repressed
+2377,Kuwait,2010,67.7,Moderately Free
+2378,Kyrgyz Republic ,2010,61.3,Moderately Unfree
+2379,Laos,2010,51.1,Mostly Unfree
+2380,Latvia,2010,66.2,Moderately Free
+2381,Lebanon,2010,59.5,Mostly Unfree
+2382,Lesotho,2010,48.1,Repressed
+2383,Liberia,2010,46.2,Repressed
+2384,Libya,2010,40.2,Repressed
+2385,Lithuania,2010,70.3,Mostly Free
+2386,Luxembourg,2010,75.4,Mostly Free
+2387,Macau,2010,72.5,Mostly Free
+2388,Madagascar,2010,63.2,Moderately Unfree
+2389,Malawi,2010,54.1,Mostly Unfree
+2390,Malaysia ,2010,64.8,Moderately Unfree
+2391,Maldives,2010,49.0,Repressed
+2392,Mali,2010,55.6,Mostly Unfree
+2393,Malta,2010,67.2,Moderately Free
+2394,Mauritania,2010,52.0,Mostly Unfree
+2395,Mauritius,2010,76.3,Mostly Free
+2396,Mexico,2010,68.3,Moderately Free
+2397,Micronesia,2010,50.6,Mostly Unfree
+2398,Moldova,2010,53.7,Mostly Unfree
+2399,Mongolia,2010,60.0,Moderately Unfree
+2400,Montenegro,2010,63.6,Moderately Unfree
+2401,Morocco,2010,59.2,Mostly Unfree
+2402,Mozambique ,2010,56.0,Mostly Unfree
+2403,Namibia,2010,62.2,Moderately Unfree
+2404,Nepal,2010,52.7,Mostly Unfree
+2405,Netherlands,2010,75.0,Mostly Free
+2406,New Zealand,2010,82.1,Free
+2407,Nicaragua ,2010,58.3,Mostly Unfree
+2408,Niger,2010,52.9,Mostly Unfree
+2409,Nigeria,2010,56.8,Mostly Unfree
+2410,North Korea,2010,1.0,Repressed
+2411,North Macedonia,2010,65.7,Moderately Free
+2412,Norway,2010,69.4,Moderately Free
+2413,Oman,2010,67.7,Moderately Free
+2414,Pakistan ,2010,55.2,Mostly Unfree
+2415,Panama ,2010,64.8,Moderately Unfree
+2416,Papua New Guinea,2010,53.5,Mostly Unfree
+2417,Paraguay ,2010,61.3,Moderately Unfree
+2418,Peru,2010,67.6,Moderately Free
+2419,Philippines,2010,56.3,Mostly Unfree
+2420,Poland,2010,63.2,Moderately Unfree
+2421,Portugal,2010,64.4,Moderately Unfree
+2422,Qatar,2010,69.0,Moderately Free
+2423,Republic of Congo ,2010,43.2,Repressed
+2424,Romania,2010,64.2,Moderately Unfree
+2425,Russia,2010,50.3,Mostly Unfree
+2426,Rwanda,2010,59.1,Mostly Unfree
+2427,Saint Lucia,2010,70.5,Mostly Free
+2428,Saint Vincent and the Grenadines,2010,66.9,Moderately Free
+2429,Samoa,2010,60.4,Moderately Unfree
+2430,São Tomé and Príncipe ,2010,48.8,Repressed
+2431,Saudi Arabia,2010,64.1,Moderately Unfree
+2432,Senegal,2010,54.6,Mostly Unfree
+2433,Serbia ,2010,56.9,Mostly Unfree
+2434,Seychelles,2010,47.9,Repressed
+2435,Sierra Leone,2010,47.9,Repressed
+2436,Singapore,2010,86.1,Free
+2437,Slovakia,2010,69.7,Moderately Free
+2438,Slovenia,2010,64.7,Moderately Unfree
+2439,Solomon Islands,2010,42.9,Repressed
+2440,South Africa,2010,62.8,Moderately Unfree
+2441,South Korea,2010,69.9,Moderately Free
+2442,Spain,2010,69.6,Moderately Free
+2443,Sri Lanka,2010,54.6,Mostly Unfree
+2444,Suriname,2010,52.5,Mostly Unfree
+2445,Sweden,2010,72.4,Mostly Free
+2446,Switzerland,2010,81.1,Free
+2447,Syria,2010,49.4,Repressed
+2448,Taiwan,2010,70.4,Mostly Free
+2449,Tajikistan,2010,53.0,Mostly Unfree
+2450,Tanzania,2010,58.3,Mostly Unfree
+2451,Thailand ,2010,64.1,Moderately Unfree
+2452,The Bahamas,2010,67.3,Moderately Free
+2453,The Gambia,2010,55.1,Mostly Unfree
+2454,Timor-Leste,2010,45.8,Repressed
+2455,Togo,2010,47.1,Repressed
+2456,Tonga,2010,53.4,Mostly Unfree
+2457,Trinidad and Tobago,2010,65.7,Moderately Free
+2458,Tunisia,2010,58.9,Mostly Unfree
+2459,Turkey,2010,63.8,Moderately Unfree
+2460,Turkmenistan,2010,42.5,Repressed
+2461,Uganda,2010,62.2,Moderately Unfree
+2462,Ukraine,2010,46.4,Repressed
+2463,United Arab Emirates,2010,67.3,Moderately Free
+2464,United Kingdom,2010,76.5,Mostly Free
+2465,United States,2010,78.0,Mostly Free
+2466,Uruguay ,2010,69.8,Moderately Free
+2467,Uzbekistan,2010,47.5,Repressed
+2468,Vanuatu,2010,56.4,Mostly Unfree
+2469,Venezuela ,2010,37.1,Repressed
+2470,Vietnam,2010,49.8,Repressed
+2471,Yemen,2010,54.4,Mostly Unfree
+2472,Zambia,2010,58.0,Mostly Unfree
+2473,Zimbabwe,2010,21.4,Repressed
+2474,Albania,2011,64.0,Moderately Unfree
+2475,Algeria,2011,52.4,Mostly Unfree
+2476,Angola,2011,46.2,Repressed
+2477,Argentina,2011,51.7,Mostly Unfree
+2478,Armenia,2011,69.7,Moderately Free
+2479,Australia,2011,82.5,Free
+2480,Austria,2011,71.9,Mostly Free
+2481,Azerbaijan,2011,59.7,Mostly Unfree
+2482,Bahrain,2011,77.7,Mostly Free
+2483,Bangladesh ,2011,53.0,Mostly Unfree
+2484,Barbados,2011,68.5,Moderately Free
+2485,Belarus,2011,47.9,Repressed
+2486,Belgium,2011,70.2,Mostly Free
+2487,Belize,2011,63.8,Moderately Unfree
+2488,Benin,2011,56.0,Mostly Unfree
+2489,Bhutan,2011,57.6,Mostly Unfree
+2490,Bolivia,2011,50.0,Mostly Unfree
+2491,Bosnia and Herzegovina,2011,57.5,Mostly Unfree
+2492,Botswana,2011,68.8,Moderately Free
+2493,Brazil,2011,56.3,Mostly Unfree
+2494,Bulgaria,2011,64.9,Moderately Unfree
+2495,Burkina Faso,2011,60.6,Moderately Unfree
+2496,Burma,2011,37.8,Repressed
+2497,Burundi,2011,49.6,Repressed
+2498,Cabo Verde,2011,64.6,Moderately Unfree
+2499,Cambodia,2011,57.9,Mostly Unfree
+2500,Cameroon,2011,51.8,Mostly Unfree
+2501,Canada,2011,80.8,Free
+2502,Central African Republic,2011,49.3,Repressed
+2503,Chad,2011,45.3,Repressed
+2504,Chile,2011,77.4,Mostly Free
+2505,China,2011,52.0,Mostly Unfree
+2506,Colombia,2011,68.0,Moderately Free
+2507,Comoros,2011,43.8,Repressed
+2508,Costa Rica ,2011,67.3,Moderately Free
+2509,Côte d'Ivoire ,2011,55.4,Mostly Unfree
+2510,Croatia,2011,61.1,Moderately Unfree
+2511,Cuba,2011,27.7,Repressed
+2512,Cyprus,2011,73.3,Mostly Free
+2513,Czech Republic,2011,70.4,Mostly Free
+2514,Democratic Republic of Congo,2011,40.7,Repressed
+2515,Denmark,2011,78.6,Mostly Free
+2516,Djibouti,2011,54.5,Mostly Unfree
+2517,Dominica,2011,63.3,Moderately Unfree
+2518,Dominican Republic,2011,60.0,Moderately Unfree
+2519,Ecuador,2011,47.1,Repressed
+2520,Egypt,2011,59.1,Mostly Unfree
+2521,El Salvador ,2011,68.8,Moderately Free
+2522,Equatorial Guinea,2011,47.5,Repressed
+2523,Eritrea,2011,36.7,Repressed
+2524,Estonia,2011,75.2,Mostly Free
+2525,Eswatini,2011,59.1,Mostly Unfree
+2526,Ethiopia,2011,50.5,Mostly Unfree
+2527,Fiji,2011,60.4,Moderately Unfree
+2528,Finland,2011,74.0,Mostly Free
+2529,France,2011,64.6,Moderately Unfree
+2530,Gabon,2011,56.7,Mostly Unfree
+2531,Georgia,2011,70.4,Mostly Free
+2532,Germany,2011,71.8,Mostly Free
+2533,Ghana,2011,59.4,Mostly Unfree
+2534,Greece,2011,60.3,Moderately Unfree
+2535,Guatemala ,2011,61.9,Moderately Unfree
+2536,Guinea,2011,51.7,Mostly Unfree
+2537,Guinea-Bissau,2011,46.5,Repressed
+2538,Guyana,2011,49.4,Repressed
+2539,Haiti,2011,52.1,Mostly Unfree
+2540,Honduras ,2011,58.6,Mostly Unfree
+2541,Hong Kong,2011,89.7,Free
+2542,Hungary ,2011,66.6,Moderately Free
+2543,Iceland,2011,68.2,Moderately Free
+2544,India,2011,54.6,Mostly Unfree
+2545,Indonesia,2011,56.0,Mostly Unfree
+2546,Iran,2011,42.1,Repressed
+2547,Ireland,2011,78.7,Mostly Free
+2548,Israel,2011,68.5,Moderately Free
+2549,Italy,2011,60.3,Moderately Unfree
+2550,Jamaica ,2011,65.7,Moderately Free
+2551,Japan,2011,72.8,Mostly Free
+2552,Jordan,2011,68.9,Moderately Free
+2553,Kazakhstan,2011,62.1,Moderately Unfree
+2554,Kenya,2011,57.4,Mostly Unfree
+2555,Kiribati,2011,44.8,Repressed
+2556,Kuwait,2011,64.9,Moderately Unfree
+2557,Kyrgyz Republic ,2011,61.1,Moderately Unfree
+2558,Laos,2011,51.3,Mostly Unfree
+2559,Latvia,2011,65.8,Moderately Free
+2560,Lebanon,2011,60.1,Moderately Unfree
+2561,Lesotho,2011,47.5,Repressed
+2562,Liberia,2011,46.5,Repressed
+2563,Libya,2011,38.6,Repressed
+2564,Lithuania,2011,71.3,Mostly Free
+2565,Luxembourg,2011,76.2,Mostly Free
+2566,Macau,2011,73.1,Mostly Free
+2567,Madagascar,2011,61.2,Moderately Unfree
+2568,Malawi,2011,55.8,Mostly Unfree
+2569,Malaysia ,2011,66.3,Moderately Free
+2570,Maldives,2011,48.3,Repressed
+2571,Mali,2011,56.3,Mostly Unfree
+2572,Malta,2011,65.7,Moderately Free
+2573,Mauritania,2011,52.1,Mostly Unfree
+2574,Mauritius,2011,76.2,Mostly Free
+2575,Mexico,2011,67.8,Moderately Free
+2576,Micronesia,2011,50.3,Mostly Unfree
+2577,Moldova,2011,55.7,Mostly Unfree
+2578,Mongolia,2011,59.5,Mostly Unfree
+2579,Montenegro,2011,62.5,Moderately Unfree
+2580,Morocco,2011,59.6,Mostly Unfree
+2581,Mozambique ,2011,56.8,Mostly Unfree
+2582,Namibia,2011,62.7,Moderately Unfree
+2583,Nepal,2011,50.1,Mostly Unfree
+2584,Netherlands,2011,74.7,Mostly Free
+2585,New Zealand,2011,82.3,Free
+2586,Nicaragua ,2011,58.8,Mostly Unfree
+2587,Niger,2011,54.3,Mostly Unfree
+2588,Nigeria,2011,56.7,Mostly Unfree
+2589,North Korea,2011,1.0,Repressed
+2590,North Macedonia,2011,66.0,Moderately Free
+2591,Norway,2011,70.3,Mostly Free
+2592,Oman,2011,69.8,Moderately Free
+2593,Pakistan ,2011,55.1,Mostly Unfree
+2594,Panama ,2011,64.9,Moderately Unfree
+2595,Papua New Guinea,2011,52.6,Mostly Unfree
+2596,Paraguay ,2011,62.3,Moderately Unfree
+2597,Peru,2011,68.6,Moderately Free
+2598,Philippines,2011,56.2,Mostly Unfree
+2599,Poland,2011,64.1,Moderately Unfree
+2600,Portugal,2011,64.0,Moderately Unfree
+2601,Qatar,2011,70.5,Mostly Free
+2602,Republic of Congo ,2011,43.6,Repressed
+2603,Romania,2011,64.7,Moderately Unfree
+2604,Russia,2011,50.5,Mostly Unfree
+2605,Rwanda,2011,62.7,Moderately Unfree
+2606,Saint Lucia,2011,70.8,Mostly Free
+2607,Saint Vincent and the Grenadines,2011,66.9,Moderately Free
+2608,Samoa,2011,60.6,Moderately Unfree
+2609,São Tomé and Príncipe ,2011,49.5,Repressed
+2610,Saudi Arabia,2011,66.2,Moderately Free
+2611,Senegal,2011,55.7,Mostly Unfree
+2612,Serbia ,2011,58.0,Mostly Unfree
+2613,Seychelles,2011,51.2,Mostly Unfree
+2614,Sierra Leone,2011,49.6,Repressed
+2615,Singapore,2011,87.2,Free
+2616,Slovakia,2011,69.5,Moderately Free
+2617,Slovenia,2011,64.6,Moderately Unfree
+2618,Solomon Islands,2011,45.9,Repressed
+2619,South Africa,2011,62.7,Moderately Unfree
+2620,South Korea,2011,69.8,Moderately Free
+2621,Spain,2011,70.2,Mostly Free
+2622,Sri Lanka,2011,57.1,Mostly Unfree
+2623,Suriname,2011,53.1,Mostly Unfree
+2624,Sweden,2011,71.9,Mostly Free
+2625,Switzerland,2011,81.9,Free
+2626,Syria,2011,51.3,Mostly Unfree
+2627,Taiwan,2011,70.8,Mostly Free
+2628,Tajikistan,2011,53.5,Mostly Unfree
+2629,Tanzania,2011,57.0,Mostly Unfree
+2630,Thailand ,2011,64.7,Moderately Unfree
+2631,The Bahamas,2011,68.0,Moderately Free
+2632,The Gambia,2011,57.4,Mostly Unfree
+2633,Timor-Leste,2011,42.8,Repressed
+2634,Togo,2011,49.1,Repressed
+2635,Tonga,2011,55.8,Mostly Unfree
+2636,Trinidad and Tobago,2011,66.5,Moderately Free
+2637,Tunisia,2011,58.5,Mostly Unfree
+2638,Turkey,2011,64.2,Moderately Unfree
+2639,Turkmenistan,2011,43.6,Repressed
+2640,Uganda,2011,61.7,Moderately Unfree
+2641,Ukraine,2011,45.8,Repressed
+2642,United Arab Emirates,2011,67.8,Moderately Free
+2643,United Kingdom,2011,74.5,Mostly Free
+2644,United States,2011,77.8,Mostly Free
+2645,Uruguay ,2011,70.0,Mostly Free
+2646,Uzbekistan,2011,45.8,Repressed
+2647,Vanuatu,2011,56.7,Mostly Unfree
+2648,Venezuela ,2011,37.6,Repressed
+2649,Vietnam,2011,51.6,Mostly Unfree
+2650,Yemen,2011,54.2,Mostly Unfree
+2651,Zambia,2011,59.7,Mostly Unfree
+2652,Zimbabwe,2011,22.1,Repressed
+2653,Albania,2012,65.1,Moderately Free
+2654,Algeria,2012,51.0,Mostly Unfree
+2655,Angola,2012,46.7,Repressed
+2656,Argentina,2012,48.0,Repressed
+2657,Armenia,2012,68.8,Moderately Free
+2658,Australia,2012,83.1,Free
+2659,Austria,2012,70.3,Mostly Free
+2660,Azerbaijan,2012,58.9,Mostly Unfree
+2661,Bahrain,2012,75.2,Mostly Free
+2662,Bangladesh ,2012,53.2,Mostly Unfree
+2663,Barbados,2012,69.0,Moderately Free
+2664,Belarus,2012,49.0,Repressed
+2665,Belgium,2012,69.0,Moderately Free
+2666,Belize,2012,61.9,Moderately Unfree
+2667,Benin,2012,55.7,Mostly Unfree
+2668,Bhutan,2012,56.6,Mostly Unfree
+2669,Bolivia,2012,50.2,Mostly Unfree
+2670,Bosnia and Herzegovina,2012,57.3,Mostly Unfree
+2671,Botswana,2012,69.6,Moderately Free
+2672,Brazil,2012,57.9,Mostly Unfree
+2673,Bulgaria,2012,64.7,Moderately Unfree
+2674,Burkina Faso,2012,60.6,Moderately Unfree
+2675,Burma,2012,38.7,Repressed
+2676,Burundi,2012,48.1,Repressed
+2677,Cabo Verde,2012,63.5,Moderately Unfree
+2678,Cambodia,2012,57.6,Mostly Unfree
+2679,Cameroon,2012,51.8,Mostly Unfree
+2680,Canada,2012,79.9,Mostly Free
+2681,Central African Republic,2012,50.3,Mostly Unfree
+2682,Chad,2012,44.8,Repressed
+2683,Chile,2012,78.3,Mostly Free
+2684,China,2012,51.2,Mostly Unfree
+2685,Colombia,2012,68.0,Moderately Free
+2686,Comoros,2012,45.7,Repressed
+2687,Costa Rica ,2012,68.0,Moderately Free
+2688,Côte d'Ivoire ,2012,54.3,Mostly Unfree
+2689,Croatia,2012,60.9,Moderately Unfree
+2690,Cuba,2012,28.3,Repressed
+2691,Cyprus,2012,71.8,Mostly Free
+2692,Czech Republic,2012,69.9,Moderately Free
+2693,Democratic Republic of Congo,2012,41.1,Repressed
+2694,Denmark,2012,76.2,Mostly Free
+2695,Djibouti,2012,53.9,Mostly Unfree
+2696,Dominica,2012,61.6,Moderately Unfree
+2697,Dominican Republic,2012,60.2,Moderately Unfree
+2698,Ecuador,2012,48.3,Repressed
+2699,Egypt,2012,57.9,Mostly Unfree
+2700,El Salvador ,2012,68.7,Moderately Free
+2701,Equatorial Guinea,2012,42.8,Repressed
+2702,Eritrea,2012,36.2,Repressed
+2703,Estonia,2012,73.2,Mostly Free
+2704,Eswatini,2012,57.2,Mostly Unfree
+2705,Ethiopia,2012,52.0,Mostly Unfree
+2706,Fiji,2012,57.3,Mostly Unfree
+2707,Finland,2012,72.3,Mostly Free
+2708,France,2012,63.2,Moderately Unfree
+2709,Gabon,2012,56.4,Mostly Unfree
+2710,Georgia,2012,69.4,Moderately Free
+2711,Germany,2012,71.0,Mostly Free
+2712,Ghana,2012,60.7,Moderately Unfree
+2713,Greece,2012,55.4,Mostly Unfree
+2714,Guatemala ,2012,60.9,Moderately Unfree
+2715,Guinea,2012,50.8,Mostly Unfree
+2716,Guinea-Bissau,2012,50.1,Mostly Unfree
+2717,Guyana,2012,51.3,Mostly Unfree
+2718,Haiti,2012,50.7,Mostly Unfree
+2719,Honduras ,2012,58.8,Mostly Unfree
+2720,Hong Kong,2012,89.9,Free
+2721,Hungary ,2012,67.1,Moderately Free
+2722,Iceland,2012,70.9,Mostly Free
+2723,India,2012,54.6,Mostly Unfree
+2724,Indonesia,2012,56.4,Mostly Unfree
+2725,Iran,2012,42.3,Repressed
+2726,Ireland,2012,76.9,Mostly Free
+2727,Israel,2012,67.8,Moderately Free
+2728,Italy,2012,58.8,Mostly Unfree
+2729,Jamaica ,2012,65.1,Moderately Free
+2730,Japan,2012,71.6,Mostly Free
+2731,Jordan,2012,69.9,Moderately Free
+2732,Kazakhstan,2012,63.6,Moderately Unfree
+2733,Kenya,2012,57.5,Mostly Unfree
+2734,Kiribati,2012,46.9,Repressed
+2735,Kuwait,2012,62.5,Moderately Unfree
+2736,Kyrgyz Republic ,2012,60.2,Moderately Unfree
+2737,Laos,2012,50.0,Mostly Unfree
+2738,Latvia,2012,65.2,Moderately Free
+2739,Lebanon,2012,60.1,Moderately Unfree
+2740,Lesotho,2012,46.6,Repressed
+2741,Liberia,2012,48.6,Repressed
+2742,Libya,2012,35.9,Repressed
+2743,Lithuania,2012,71.5,Mostly Free
+2744,Luxembourg,2012,74.5,Mostly Free
+2745,Macau,2012,71.8,Mostly Free
+2746,Madagascar,2012,62.4,Moderately Unfree
+2747,Malawi,2012,56.4,Mostly Unfree
+2748,Malaysia ,2012,66.4,Moderately Free
+2749,Maldives,2012,49.2,Repressed
+2750,Mali,2012,55.8,Mostly Unfree
+2751,Malta,2012,67.0,Moderately Free
+2752,Mauritania,2012,53.0,Mostly Unfree
+2753,Mauritius,2012,77.0,Mostly Free
+2754,Mexico,2012,65.3,Moderately Free
+2755,Micronesia,2012,50.7,Mostly Unfree
+2756,Moldova,2012,54.4,Mostly Unfree
+2757,Mongolia,2012,61.5,Moderately Unfree
+2758,Montenegro,2012,62.5,Moderately Unfree
+2759,Morocco,2012,60.2,Moderately Unfree
+2760,Mozambique ,2012,57.1,Mostly Unfree
+2761,Namibia,2012,61.9,Moderately Unfree
+2762,Nepal,2012,50.2,Mostly Unfree
+2763,Netherlands,2012,73.3,Mostly Free
+2764,New Zealand,2012,82.1,Free
+2765,Nicaragua ,2012,57.9,Mostly Unfree
+2766,Niger,2012,54.3,Mostly Unfree
+2767,Nigeria,2012,56.3,Mostly Unfree
+2768,North Korea,2012,1.0,Repressed
+2769,North Macedonia,2012,68.5,Moderately Free
+2770,Norway,2012,68.8,Moderately Free
+2771,Oman,2012,67.9,Moderately Free
+2772,Pakistan ,2012,54.7,Mostly Unfree
+2773,Panama ,2012,65.2,Moderately Free
+2774,Papua New Guinea,2012,53.8,Mostly Unfree
+2775,Paraguay ,2012,61.8,Moderately Unfree
+2776,Peru,2012,68.7,Moderately Free
+2777,Philippines,2012,57.1,Mostly Unfree
+2778,Poland,2012,64.2,Moderately Unfree
+2779,Portugal,2012,63.0,Moderately Unfree
+2780,Qatar,2012,71.3,Mostly Free
+2781,Republic of Congo ,2012,43.8,Repressed
+2782,Romania,2012,64.4,Moderately Unfree
+2783,Russia,2012,50.5,Mostly Unfree
+2784,Rwanda,2012,64.9,Moderately Unfree
+2785,Saint Lucia,2012,71.3,Mostly Free
+2786,Saint Vincent and the Grenadines,2012,66.5,Moderately Free
+2787,Samoa,2012,60.5,Moderately Unfree
+2788,São Tomé and Príncipe ,2012,50.2,Mostly Unfree
+2789,Saudi Arabia,2012,62.5,Moderately Unfree
+2790,Senegal,2012,55.4,Mostly Unfree
+2791,Serbia ,2012,58.0,Mostly Unfree
+2792,Seychelles,2012,53.0,Mostly Unfree
+2793,Sierra Leone,2012,49.1,Repressed
+2794,Singapore,2012,87.5,Free
+2795,Slovakia,2012,67.0,Moderately Free
+2796,Slovenia,2012,62.9,Moderately Unfree
+2797,Solomon Islands,2012,46.2,Repressed
+2798,South Africa,2012,62.7,Moderately Unfree
+2799,South Korea,2012,69.9,Moderately Free
+2800,Spain,2012,69.1,Moderately Free
+2801,Sri Lanka,2012,58.3,Mostly Unfree
+2802,Suriname,2012,52.6,Mostly Unfree
+2803,Sweden,2012,71.7,Mostly Free
+2804,Switzerland,2012,81.1,Free
+2805,Syria,2012,51.2,Mostly Unfree
+2806,Taiwan,2012,71.9,Mostly Free
+2807,Tajikistan,2012,53.4,Mostly Unfree
+2808,Tanzania,2012,57.0,Mostly Unfree
+2809,Thailand ,2012,64.9,Moderately Unfree
+2810,The Bahamas,2012,68.0,Moderately Free
+2811,The Gambia,2012,58.8,Mostly Unfree
+2812,Timor-Leste,2012,43.3,Repressed
+2813,Togo,2012,48.3,Repressed
+2814,Tonga,2012,57.0,Mostly Unfree
+2815,Trinidad and Tobago,2012,64.4,Moderately Unfree
+2816,Tunisia,2012,58.6,Mostly Unfree
+2817,Turkey,2012,62.5,Moderately Unfree
+2818,Turkmenistan,2012,43.8,Repressed
+2819,Uganda,2012,61.9,Moderately Unfree
+2820,Ukraine,2012,46.1,Repressed
+2821,United Arab Emirates,2012,69.3,Moderately Free
+2822,United Kingdom,2012,74.1,Mostly Free
+2823,United States,2012,76.3,Mostly Free
+2824,Uruguay ,2012,69.9,Moderately Free
+2825,Uzbekistan,2012,45.8,Repressed
+2826,Vanuatu,2012,56.6,Mostly Unfree
+2827,Venezuela ,2012,38.1,Repressed
+2828,Vietnam,2012,51.3,Mostly Unfree
+2829,Yemen,2012,55.3,Mostly Unfree
+2830,Zambia,2012,58.3,Mostly Unfree
+2831,Zimbabwe,2012,26.3,Repressed
+2832,Albania,2013,65.2,Moderately Free
+2833,Algeria,2013,49.6,Repressed
+2834,Angola,2013,47.3,Repressed
+2835,Argentina,2013,46.7,Repressed
+2836,Armenia,2013,69.4,Moderately Free
+2837,Australia,2013,82.6,Free
+2838,Austria,2013,71.8,Mostly Free
+2839,Azerbaijan,2013,59.7,Mostly Unfree
+2840,Bahrain,2013,75.5,Mostly Free
+2841,Bangladesh ,2013,52.6,Mostly Unfree
+2842,Barbados,2013,69.3,Moderately Free
+2843,Belarus,2013,48.0,Repressed
+2844,Belgium,2013,69.2,Moderately Free
+2845,Belize,2013,57.3,Mostly Unfree
+2846,Benin,2013,57.6,Mostly Unfree
+2847,Bhutan,2013,55.0,Mostly Unfree
+2848,Bolivia,2013,47.9,Repressed
+2849,Bosnia and Herzegovina,2013,57.3,Mostly Unfree
+2850,Botswana,2013,70.6,Mostly Free
+2851,Brazil,2013,57.7,Mostly Unfree
+2852,Bulgaria,2013,65.0,Moderately Free
+2853,Burkina Faso,2013,59.9,Mostly Unfree
+2854,Burma,2013,39.2,Repressed
+2855,Burundi,2013,49.0,Repressed
+2856,Cabo Verde,2013,63.7,Moderately Unfree
+2857,Cambodia,2013,58.5,Mostly Unfree
+2858,Cameroon,2013,52.3,Mostly Unfree
+2859,Canada,2013,79.4,Mostly Free
+2860,Central African Republic,2013,50.4,Mostly Unfree
+2861,Chad,2013,45.2,Repressed
+2862,Chile,2013,79.0,Mostly Free
+2863,China,2013,51.9,Mostly Unfree
+2864,Colombia,2013,69.6,Moderately Free
+2865,Comoros,2013,47.5,Repressed
+2866,Costa Rica ,2013,67.0,Moderately Free
+2867,Côte d'Ivoire ,2013,54.1,Mostly Unfree
+2868,Croatia,2013,61.3,Moderately Unfree
+2869,Cuba,2013,28.5,Repressed
+2870,Cyprus,2013,69.0,Moderately Free
+2871,Czech Republic,2013,70.9,Mostly Free
+2872,Democratic Republic of Congo,2013,39.6,Repressed
+2873,Denmark,2013,76.1,Mostly Free
+2874,Djibouti,2013,53.9,Mostly Unfree
+2875,Dominica,2013,63.9,Moderately Unfree
+2876,Dominican Republic,2013,59.7,Mostly Unfree
+2877,Ecuador,2013,46.9,Repressed
+2878,Egypt,2013,54.8,Mostly Unfree
+2879,El Salvador ,2013,66.7,Moderately Free
+2880,Equatorial Guinea,2013,42.3,Repressed
+2881,Eritrea,2013,36.3,Repressed
+2882,Estonia,2013,75.3,Mostly Free
+2883,Eswatini,2013,57.2,Mostly Unfree
+2884,Ethiopia,2013,49.4,Repressed
+2885,Fiji,2013,57.2,Mostly Unfree
+2886,Finland,2013,74.0,Mostly Free
+2887,France,2013,64.1,Moderately Unfree
+2888,Gabon,2013,57.8,Mostly Unfree
+2889,Georgia,2013,72.2,Mostly Free
+2890,Germany,2013,72.8,Mostly Free
+2891,Ghana,2013,61.3,Moderately Unfree
+2892,Greece,2013,55.4,Mostly Unfree
+2893,Guatemala ,2013,60.0,Moderately Unfree
+2894,Guinea,2013,51.2,Mostly Unfree
+2895,Guinea-Bissau,2013,51.1,Mostly Unfree
+2896,Guyana,2013,53.8,Mostly Unfree
+2897,Haiti,2013,48.1,Repressed
+2898,Honduras ,2013,58.4,Mostly Unfree
+2899,Hong Kong,2013,89.3,Free
+2900,Hungary ,2013,67.3,Moderately Free
+2901,Iceland,2013,72.1,Mostly Free
+2902,India,2013,55.2,Mostly Unfree
+2903,Indonesia,2013,56.9,Mostly Unfree
+2904,Iran,2013,43.2,Repressed
+2905,Ireland,2013,75.7,Mostly Free
+2906,Israel,2013,66.9,Moderately Free
+2907,Italy,2013,60.6,Moderately Unfree
+2908,Jamaica ,2013,66.8,Moderately Free
+2909,Japan,2013,71.8,Mostly Free
+2910,Jordan,2013,70.4,Mostly Free
+2911,Kazakhstan,2013,63.0,Moderately Unfree
+2912,Kenya,2013,55.9,Mostly Unfree
+2913,Kiribati,2013,45.9,Repressed
+2914,Kuwait,2013,63.1,Moderately Unfree
+2915,Kyrgyz Republic ,2013,59.6,Mostly Unfree
+2916,Laos,2013,50.1,Mostly Unfree
+2917,Latvia,2013,66.5,Moderately Free
+2918,Lebanon,2013,59.5,Mostly Unfree
+2919,Lesotho,2013,47.9,Repressed
+2920,Liberia,2013,49.3,Repressed
+2921,Lithuania,2013,72.1,Mostly Free
+2922,Luxembourg,2013,74.2,Mostly Free
+2923,Macau,2013,71.7,Mostly Free
+2924,Madagascar,2013,62.0,Moderately Unfree
+2925,Malawi,2013,55.3,Mostly Unfree
+2926,Malaysia ,2013,66.1,Moderately Free
+2927,Maldives,2013,49.0,Repressed
+2928,Mali,2013,56.4,Mostly Unfree
+2929,Malta,2013,67.5,Moderately Free
+2930,Mauritania,2013,52.3,Mostly Unfree
+2931,Mauritius,2013,76.9,Mostly Free
+2932,Mexico,2013,67.0,Moderately Free
+2933,Micronesia,2013,50.1,Mostly Unfree
+2934,Moldova,2013,55.5,Mostly Unfree
+2935,Mongolia,2013,61.7,Moderately Unfree
+2936,Montenegro,2013,62.6,Moderately Unfree
+2937,Morocco,2013,59.6,Mostly Unfree
+2938,Mozambique ,2013,55.0,Mostly Unfree
+2939,Namibia,2013,60.3,Moderately Unfree
+2940,Nepal,2013,50.4,Mostly Unfree
+2941,Netherlands,2013,73.5,Mostly Free
+2942,New Zealand,2013,81.4,Free
+2943,Nicaragua ,2013,56.6,Mostly Unfree
+2944,Niger,2013,53.9,Mostly Unfree
+2945,Nigeria,2013,55.1,Mostly Unfree
+2946,North Korea,2013,1.5,Repressed
+2947,North Macedonia,2013,68.2,Moderately Free
+2948,Norway,2013,70.5,Mostly Free
+2949,Oman,2013,68.1,Moderately Free
+2950,Pakistan ,2013,55.1,Mostly Unfree
+2951,Panama ,2013,62.5,Moderately Unfree
+2952,Papua New Guinea,2013,53.6,Mostly Unfree
+2953,Paraguay ,2013,61.1,Moderately Unfree
+2954,Peru,2013,68.2,Moderately Free
+2955,Philippines,2013,58.2,Mostly Unfree
+2956,Poland,2013,66.0,Moderately Free
+2957,Portugal,2013,63.1,Moderately Unfree
+2958,Qatar,2013,71.3,Mostly Free
+2959,Republic of Congo ,2013,43.5,Repressed
+2960,Romania,2013,65.1,Moderately Free
+2961,Russia,2013,51.1,Mostly Unfree
+2962,Rwanda,2013,64.1,Moderately Unfree
+2963,Saint Lucia,2013,70.4,Mostly Free
+2964,Saint Vincent and the Grenadines,2013,66.7,Moderately Free
+2965,Samoa,2013,57.1,Mostly Unfree
+2966,São Tomé and Príncipe ,2013,48.0,Repressed
+2967,Saudi Arabia,2013,60.6,Moderately Unfree
+2968,Senegal,2013,55.5,Mostly Unfree
+2969,Serbia ,2013,58.6,Mostly Unfree
+2970,Seychelles,2013,54.9,Mostly Unfree
+2971,Sierra Leone,2013,48.3,Repressed
+2972,Singapore,2013,88.0,Free
+2973,Slovakia,2013,68.7,Moderately Free
+2974,Slovenia,2013,61.7,Moderately Unfree
+2975,Solomon Islands,2013,45.0,Repressed
+2976,South Africa,2013,61.8,Moderately Unfree
+2977,South Korea,2013,70.3,Mostly Free
+2978,Spain,2013,68.0,Moderately Free
+2979,Sri Lanka,2013,60.7,Moderately Unfree
+2980,Suriname,2013,52.0,Mostly Unfree
+2981,Sweden,2013,72.9,Mostly Free
+2982,Switzerland,2013,81.0,Free
+2983,Taiwan,2013,72.7,Mostly Free
+2984,Tajikistan,2013,53.4,Mostly Unfree
+2985,Tanzania,2013,57.9,Mostly Unfree
+2986,Thailand ,2013,64.1,Moderately Unfree
+2987,The Bahamas,2013,70.1,Mostly Free
+2988,The Gambia,2013,58.8,Mostly Unfree
+2989,Timor-Leste,2013,43.7,Repressed
+2990,Togo,2013,48.8,Repressed
+2991,Tonga,2013,56.0,Mostly Unfree
+2992,Trinidad and Tobago,2013,62.3,Moderately Unfree
+2993,Tunisia,2013,57.0,Mostly Unfree
+2994,Turkey,2013,62.9,Moderately Unfree
+2995,Turkmenistan,2013,42.6,Repressed
+2996,Uganda,2013,61.1,Moderately Unfree
+2997,Ukraine,2013,46.3,Repressed
+2998,United Arab Emirates,2013,71.1,Mostly Free
+2999,United Kingdom,2013,74.8,Mostly Free
+3000,United States,2013,76.0,Mostly Free
+3001,Uruguay ,2013,69.7,Moderately Free
+3002,Uzbekistan,2013,46.0,Repressed
+3003,Vanuatu,2013,56.6,Mostly Unfree
+3004,Venezuela ,2013,36.1,Repressed
+3005,Vietnam,2013,51.0,Mostly Unfree
+3006,Yemen,2013,55.9,Mostly Unfree
+3007,Zambia,2013,58.7,Mostly Unfree
+3008,Zimbabwe,2013,28.6,Repressed
+3009,Albania,2014,66.9,Moderately Free
+3010,Algeria,2014,50.8,Mostly Unfree
+3011,Angola,2014,47.7,Repressed
+3012,Argentina,2014,44.6,Repressed
+3013,Armenia,2014,68.9,Moderately Free
+3014,Australia,2014,82.0,Free
+3015,Austria,2014,72.4,Mostly Free
+3016,Azerbaijan,2014,61.3,Moderately Unfree
+3017,Bahrain,2014,75.1,Mostly Free
+3018,Bangladesh ,2014,54.1,Mostly Unfree
+3019,Barbados,2014,68.3,Moderately Free
+3020,Belarus,2014,50.1,Mostly Unfree
+3021,Belgium,2014,69.9,Moderately Free
+3022,Belize,2014,56.7,Mostly Unfree
+3023,Benin,2014,57.1,Mostly Unfree
+3024,Bhutan,2014,56.7,Mostly Unfree
+3025,Bolivia,2014,48.4,Repressed
+3026,Bosnia and Herzegovina,2014,58.4,Mostly Unfree
+3027,Botswana,2014,72.0,Mostly Free
+3028,Brazil,2014,56.9,Mostly Unfree
+3029,Brunei Darussalam,2014,69.0,Moderately Free
+3030,Bulgaria,2014,65.7,Moderately Free
+3031,Burkina Faso,2014,58.9,Mostly Unfree
+3032,Burma,2014,46.5,Repressed
+3033,Burundi,2014,51.4,Mostly Unfree
+3034,Cabo Verde,2014,66.1,Moderately Free
+3035,Cambodia,2014,57.4,Mostly Unfree
+3036,Cameroon,2014,52.6,Mostly Unfree
+3037,Canada,2014,80.2,Free
+3038,Central African Republic,2014,46.7,Repressed
+3039,Chad,2014,44.5,Repressed
+3040,Chile,2014,78.7,Mostly Free
+3041,China,2014,52.5,Mostly Unfree
+3042,Colombia,2014,70.7,Mostly Free
+3043,Comoros,2014,51.4,Mostly Unfree
+3044,Costa Rica ,2014,66.9,Moderately Free
+3045,Côte d'Ivoire ,2014,57.7,Mostly Unfree
+3046,Croatia,2014,60.4,Moderately Unfree
+3047,Cuba,2014,28.7,Repressed
+3048,Cyprus,2014,67.6,Moderately Free
+3049,Czech Republic,2014,72.2,Mostly Free
+3050,Democratic Republic of Congo,2014,40.6,Repressed
+3051,Denmark,2014,76.1,Mostly Free
+3052,Djibouti,2014,55.9,Mostly Unfree
+3053,Dominica,2014,65.2,Moderately Free
+3054,Dominican Republic,2014,61.3,Moderately Unfree
+3055,Ecuador,2014,48.0,Repressed
+3056,Egypt,2014,52.9,Mostly Unfree
+3057,El Salvador ,2014,66.2,Moderately Free
+3058,Equatorial Guinea,2014,44.4,Repressed
+3059,Eritrea,2014,38.5,Repressed
+3060,Estonia,2014,75.9,Mostly Free
+3061,Eswatini,2014,61.2,Moderately Unfree
+3062,Ethiopia,2014,50.0,Mostly Unfree
+3063,Fiji,2014,58.7,Mostly Unfree
+3064,Finland,2014,73.4,Mostly Free
+3065,France,2014,63.5,Moderately Unfree
+3066,Gabon,2014,57.8,Mostly Unfree
+3067,Georgia,2014,72.6,Mostly Free
+3068,Germany,2014,73.4,Mostly Free
+3069,Ghana,2014,64.2,Moderately Unfree
+3070,Greece,2014,55.7,Mostly Unfree
+3071,Guatemala ,2014,61.2,Moderately Unfree
+3072,Guinea,2014,53.5,Mostly Unfree
+3073,Guinea-Bissau,2014,51.3,Mostly Unfree
+3074,Guyana,2014,55.7,Mostly Unfree
+3075,Haiti,2014,48.9,Repressed
+3076,Honduras ,2014,57.1,Mostly Unfree
+3077,Hong Kong,2014,90.1,Free
+3078,Hungary ,2014,67.0,Moderately Free
+3079,Iceland,2014,72.4,Mostly Free
+3080,India,2014,55.7,Mostly Unfree
+3081,Indonesia,2014,58.5,Mostly Unfree
+3082,Iran,2014,40.3,Repressed
+3083,Ireland,2014,76.2,Mostly Free
+3084,Israel,2014,68.4,Moderately Free
+3085,Italy,2014,60.9,Moderately Unfree
+3086,Jamaica ,2014,66.7,Moderately Free
+3087,Japan,2014,72.4,Mostly Free
+3088,Jordan,2014,69.2,Moderately Free
+3089,Kazakhstan,2014,63.7,Moderately Unfree
+3090,Kenya,2014,57.1,Mostly Unfree
+3091,Kiribati,2014,46.3,Repressed
+3092,Kuwait,2014,62.3,Moderately Unfree
+3093,Kyrgyz Republic ,2014,61.1,Moderately Unfree
+3094,Laos,2014,51.2,Mostly Unfree
+3095,Latvia,2014,68.7,Moderately Free
+3096,Lebanon,2014,59.4,Mostly Unfree
+3097,Lesotho,2014,49.5,Repressed
+3098,Liberia,2014,52.4,Mostly Unfree
+3099,Lithuania,2014,73.0,Mostly Free
+3100,Luxembourg,2014,74.2,Mostly Free
+3101,Macau,2014,71.3,Mostly Free
+3102,Madagascar,2014,61.7,Moderately Unfree
+3103,Malawi,2014,55.4,Mostly Unfree
+3104,Malaysia ,2014,69.6,Moderately Free
+3105,Maldives,2014,51.0,Mostly Unfree
+3106,Mali,2014,55.5,Mostly Unfree
+3107,Malta,2014,66.4,Moderately Free
+3108,Mauritania,2014,53.2,Mostly Unfree
+3109,Mauritius,2014,76.5,Mostly Free
+3110,Mexico,2014,66.8,Moderately Free
+3111,Micronesia,2014,49.8,Repressed
+3112,Moldova,2014,57.3,Mostly Unfree
+3113,Mongolia,2014,58.9,Mostly Unfree
+3114,Montenegro,2014,63.6,Moderately Unfree
+3115,Morocco,2014,58.3,Mostly Unfree
+3116,Mozambique ,2014,55.0,Mostly Unfree
+3117,Namibia,2014,59.4,Mostly Unfree
+3118,Nepal,2014,50.1,Mostly Unfree
+3119,Netherlands,2014,74.2,Mostly Free
+3120,New Zealand,2014,81.2,Free
+3121,Nicaragua ,2014,58.4,Mostly Unfree
+3122,Niger,2014,55.1,Mostly Unfree
+3123,Nigeria,2014,54.3,Mostly Unfree
+3124,North Korea,2014,1.0,Repressed
+3125,North Macedonia,2014,68.6,Moderately Free
+3126,Norway,2014,70.9,Mostly Free
+3127,Oman,2014,67.4,Moderately Free
+3128,Pakistan ,2014,55.2,Mostly Unfree
+3129,Panama ,2014,63.4,Moderately Unfree
+3130,Papua New Guinea,2014,53.9,Mostly Unfree
+3131,Paraguay ,2014,62.0,Moderately Unfree
+3132,Peru,2014,67.4,Moderately Free
+3133,Philippines,2014,60.1,Moderately Unfree
+3134,Poland,2014,67.0,Moderately Free
+3135,Portugal,2014,63.5,Moderately Unfree
+3136,Qatar,2014,71.2,Mostly Free
+3137,Republic of Congo ,2014,43.7,Repressed
+3138,Romania,2014,65.5,Moderately Free
+3139,Russia,2014,51.9,Mostly Unfree
+3140,Rwanda,2014,64.7,Moderately Unfree
+3141,Saint Lucia,2014,70.7,Mostly Free
+3142,Saint Vincent and the Grenadines,2014,67.0,Moderately Free
+3143,Samoa,2014,61.1,Moderately Unfree
+3144,São Tomé and Príncipe ,2014,48.8,Repressed
+3145,Saudi Arabia,2014,62.2,Moderately Unfree
+3146,Senegal,2014,55.4,Mostly Unfree
+3147,Serbia ,2014,59.4,Mostly Unfree
+3148,Seychelles,2014,56.2,Mostly Unfree
+3149,Sierra Leone,2014,50.5,Mostly Unfree
+3150,Singapore,2014,89.4,Free
+3151,Slovakia,2014,66.4,Moderately Free
+3152,Slovenia,2014,62.7,Moderately Unfree
+3153,Solomon Islands,2014,46.2,Repressed
+3154,South Africa,2014,62.5,Moderately Unfree
+3155,South Korea,2014,71.2,Mostly Free
+3156,Spain,2014,67.2,Moderately Free
+3157,Sri Lanka,2014,60.0,Moderately Unfree
+3158,Suriname,2014,54.2,Mostly Unfree
+3159,Sweden,2014,73.1,Mostly Free
+3160,Switzerland,2014,81.6,Free
+3161,Taiwan,2014,73.9,Mostly Free
+3162,Tajikistan,2014,52.0,Mostly Unfree
+3163,Tanzania,2014,57.8,Mostly Unfree
+3164,Thailand ,2014,63.3,Moderately Unfree
+3165,The Bahamas,2014,69.8,Moderately Free
+3166,The Gambia,2014,59.5,Mostly Unfree
+3167,Timor-Leste,2014,43.2,Repressed
+3168,Togo,2014,49.9,Repressed
+3169,Tonga,2014,58.2,Mostly Unfree
+3170,Trinidad and Tobago,2014,62.7,Moderately Unfree
+3171,Tunisia,2014,57.3,Mostly Unfree
+3172,Turkey,2014,64.9,Moderately Unfree
+3173,Turkmenistan,2014,42.2,Repressed
+3174,Uganda,2014,59.9,Mostly Unfree
+3175,Ukraine,2014,49.3,Repressed
+3176,United Arab Emirates,2014,71.4,Mostly Free
+3177,United Kingdom,2014,74.9,Mostly Free
+3178,United States,2014,75.5,Mostly Free
+3179,Uruguay ,2014,69.3,Moderately Free
+3180,Uzbekistan,2014,46.5,Repressed
+3181,Vanuatu,2014,59.5,Mostly Unfree
+3182,Venezuela ,2014,36.3,Repressed
+3183,Vietnam,2014,50.8,Mostly Unfree
+3184,Yemen,2014,55.5,Mostly Unfree
+3185,Zambia,2014,60.4,Moderately Unfree
+3186,Zimbabwe,2014,35.5,Repressed
+3187,Albania,2015,65.7,Moderately Free
+3188,Algeria,2015,48.9,Repressed
+3189,Angola,2015,47.9,Repressed
+3190,Argentina,2015,44.1,Repressed
+3191,Armenia,2015,67.1,Moderately Free
+3192,Australia,2015,81.4,Free
+3193,Austria,2015,71.2,Mostly Free
+3194,Azerbaijan,2015,61.0,Moderately Unfree
+3195,Bahrain,2015,73.4,Mostly Free
+3196,Bangladesh ,2015,53.9,Mostly Unfree
+3197,Barbados,2015,67.9,Moderately Free
+3198,Belarus,2015,49.8,Repressed
+3199,Belgium,2015,68.8,Moderately Free
+3200,Belize,2015,56.8,Mostly Unfree
+3201,Benin,2015,58.8,Mostly Unfree
+3202,Bhutan,2015,57.4,Mostly Unfree
+3203,Bolivia,2015,46.8,Repressed
+3204,Bosnia and Herzegovina,2015,59.0,Mostly Unfree
+3205,Botswana,2015,69.8,Moderately Free
+3206,Brazil,2015,56.6,Mostly Unfree
+3207,Brunei Darussalam,2015,68.9,Moderately Free
+3208,Bulgaria,2015,66.8,Moderately Free
+3209,Burkina Faso,2015,58.6,Mostly Unfree
+3210,Burma,2015,46.9,Repressed
+3211,Burundi,2015,53.7,Mostly Unfree
+3212,Cabo Verde,2015,66.4,Moderately Free
+3213,Cambodia,2015,57.5,Mostly Unfree
+3214,Cameroon,2015,51.9,Mostly Unfree
+3215,Canada,2015,79.1,Mostly Free
+3216,Central African Republic,2015,45.9,Repressed
+3217,Chad,2015,45.9,Repressed
+3218,Chile,2015,78.5,Mostly Free
+3219,China,2015,52.7,Mostly Unfree
+3220,Colombia,2015,71.7,Mostly Free
+3221,Comoros,2015,52.1,Mostly Unfree
+3222,Costa Rica ,2015,67.2,Moderately Free
+3223,Côte d'Ivoire ,2015,58.5,Mostly Unfree
+3224,Croatia,2015,61.5,Moderately Unfree
+3225,Cuba,2015,29.6,Repressed
+3226,Cyprus,2015,67.9,Moderately Free
+3227,Czech Republic,2015,72.5,Mostly Free
+3228,Democratic Republic of Congo,2015,45.0,Repressed
+3229,Denmark,2015,76.3,Mostly Free
+3230,Djibouti,2015,57.5,Mostly Unfree
+3231,Dominica,2015,66.1,Moderately Free
+3232,Dominican Republic,2015,61.0,Moderately Unfree
+3233,Ecuador,2015,49.2,Repressed
+3234,Egypt,2015,55.2,Mostly Unfree
+3235,El Salvador ,2015,65.7,Moderately Free
+3236,Equatorial Guinea,2015,40.4,Repressed
+3237,Eritrea,2015,38.9,Repressed
+3238,Estonia,2015,76.8,Mostly Free
+3239,Eswatini,2015,59.9,Mostly Unfree
+3240,Ethiopia,2015,51.5,Mostly Unfree
+3241,Fiji,2015,59.0,Mostly Unfree
+3242,Finland,2015,73.4,Mostly Free
+3243,France,2015,62.5,Moderately Unfree
+3244,Gabon,2015,58.3,Mostly Unfree
+3245,Georgia,2015,73.0,Mostly Free
+3246,Germany,2015,73.8,Mostly Free
+3247,Ghana,2015,63.0,Moderately Unfree
+3248,Greece,2015,54.0,Mostly Unfree
+3249,Guatemala ,2015,60.4,Moderately Unfree
+3250,Guinea,2015,52.1,Mostly Unfree
+3251,Guinea-Bissau,2015,52.0,Mostly Unfree
+3252,Guyana,2015,55.5,Mostly Unfree
+3253,Haiti,2015,51.3,Mostly Unfree
+3254,Honduras ,2015,57.4,Mostly Unfree
+3255,Hong Kong,2015,89.6,Free
+3256,Hungary ,2015,66.8,Moderately Free
+3257,Iceland,2015,72.0,Mostly Free
+3258,India,2015,54.6,Mostly Unfree
+3259,Indonesia,2015,58.1,Mostly Unfree
+3260,Iran,2015,41.8,Repressed
+3261,Ireland,2015,76.6,Mostly Free
+3262,Israel,2015,70.5,Mostly Free
+3263,Italy,2015,61.7,Moderately Unfree
+3264,Jamaica ,2015,67.7,Moderately Free
+3265,Japan,2015,73.3,Mostly Free
+3266,Jordan,2015,69.3,Moderately Free
+3267,Kazakhstan,2015,63.3,Moderately Unfree
+3268,Kenya,2015,55.6,Mostly Unfree
+3269,Kiribati,2015,46.4,Repressed
+3270,Kuwait,2015,62.5,Moderately Unfree
+3271,Kyrgyz Republic ,2015,61.3,Moderately Unfree
+3272,Laos,2015,51.4,Mostly Unfree
+3273,Latvia,2015,69.7,Moderately Free
+3274,Lebanon,2015,59.3,Mostly Unfree
+3275,Lesotho,2015,49.6,Repressed
+3276,Liberia,2015,52.7,Mostly Unfree
+3277,Lithuania,2015,74.7,Mostly Free
+3278,Luxembourg,2015,73.2,Mostly Free
+3279,Macau,2015,70.3,Mostly Free
+3280,Madagascar,2015,61.7,Moderately Unfree
+3281,Malawi,2015,54.8,Mostly Unfree
+3282,Malaysia ,2015,70.8,Mostly Free
+3283,Maldives,2015,53.4,Mostly Unfree
+3284,Mali,2015,56.4,Mostly Unfree
+3285,Malta,2015,66.5,Moderately Free
+3286,Mauritania,2015,53.3,Mostly Unfree
+3287,Mauritius,2015,76.4,Mostly Free
+3288,Mexico,2015,66.4,Moderately Free
+3289,Micronesia,2015,49.6,Repressed
+3290,Moldova,2015,57.5,Mostly Unfree
+3291,Mongolia,2015,59.2,Mostly Unfree
+3292,Montenegro,2015,64.7,Moderately Unfree
+3293,Morocco,2015,60.1,Moderately Unfree
+3294,Mozambique ,2015,54.8,Mostly Unfree
+3295,Namibia,2015,59.6,Mostly Unfree
+3296,Nepal,2015,51.3,Mostly Unfree
+3297,Netherlands,2015,73.7,Mostly Free
+3298,New Zealand,2015,82.1,Free
+3299,Nicaragua ,2015,57.6,Mostly Unfree
+3300,Niger,2015,54.6,Mostly Unfree
+3301,Nigeria,2015,55.6,Mostly Unfree
+3302,North Korea,2015,1.3,Repressed
+3303,North Macedonia,2015,67.1,Moderately Free
+3304,Norway,2015,71.8,Mostly Free
+3305,Oman,2015,66.7,Moderately Free
+3306,Pakistan ,2015,55.6,Mostly Unfree
+3307,Panama ,2015,64.1,Moderately Unfree
+3308,Papua New Guinea,2015,53.1,Mostly Unfree
+3309,Paraguay ,2015,61.1,Moderately Unfree
+3310,Peru,2015,67.7,Moderately Free
+3311,Philippines,2015,62.2,Moderately Unfree
+3312,Poland,2015,68.6,Moderately Free
+3313,Portugal,2015,65.3,Moderately Free
+3314,Qatar,2015,70.8,Mostly Free
+3315,Republic of Congo ,2015,42.7,Repressed
+3316,Romania,2015,66.6,Moderately Free
+3317,Russia,2015,52.1,Mostly Unfree
+3318,Rwanda,2015,64.8,Moderately Unfree
+3319,Saint Lucia,2015,70.2,Mostly Free
+3320,Saint Vincent and the Grenadines,2015,68.0,Moderately Free
+3321,Samoa,2015,61.9,Moderately Unfree
+3322,São Tomé and Príncipe ,2015,53.3,Mostly Unfree
+3323,Saudi Arabia,2015,62.1,Moderately Unfree
+3324,Senegal,2015,57.8,Mostly Unfree
+3325,Serbia ,2015,60.0,Moderately Unfree
+3326,Seychelles,2015,57.5,Mostly Unfree
+3327,Sierra Leone,2015,51.7,Mostly Unfree
+3328,Singapore,2015,89.4,Free
+3329,Slovakia,2015,67.2,Moderately Free
+3330,Slovenia,2015,60.3,Moderately Unfree
+3331,Solomon Islands,2015,47.0,Repressed
+3332,South Africa,2015,62.6,Moderately Unfree
+3333,South Korea,2015,71.5,Mostly Free
+3334,Spain,2015,67.6,Moderately Free
+3335,Sri Lanka,2015,58.6,Mostly Unfree
+3336,Suriname,2015,54.2,Mostly Unfree
+3337,Sweden,2015,72.7,Mostly Free
+3338,Switzerland,2015,80.5,Free
+3339,Taiwan,2015,75.1,Mostly Free
+3340,Tajikistan,2015,52.7,Mostly Unfree
+3341,Tanzania,2015,57.5,Mostly Unfree
+3342,Thailand ,2015,62.4,Moderately Unfree
+3343,The Bahamas,2015,68.7,Moderately Free
+3344,The Gambia,2015,57.5,Mostly Unfree
+3345,Timor-Leste,2015,45.5,Repressed
+3346,Togo,2015,53.0,Mostly Unfree
+3347,Tonga,2015,59.3,Mostly Unfree
+3348,Trinidad and Tobago,2015,64.1,Moderately Unfree
+3349,Tunisia,2015,57.7,Mostly Unfree
+3350,Turkey,2015,63.2,Moderately Unfree
+3351,Turkmenistan,2015,41.4,Repressed
+3352,Uganda,2015,59.7,Mostly Unfree
+3353,Ukraine,2015,46.9,Repressed
+3354,United Arab Emirates,2015,72.4,Mostly Free
+3355,United Kingdom,2015,75.8,Mostly Free
+3356,United States,2015,76.2,Mostly Free
+3357,Uruguay ,2015,68.6,Moderately Free
+3358,Uzbekistan,2015,47.0,Repressed
+3359,Vanuatu,2015,61.1,Moderately Unfree
+3360,Venezuela ,2015,34.3,Repressed
+3361,Vietnam,2015,51.7,Mostly Unfree
+3362,Yemen,2015,53.7,Mostly Unfree
+3363,Zambia,2015,58.7,Mostly Unfree
+3364,Zimbabwe,2015,37.6,Repressed
+3365,Albania,2016,65.9,Moderately Free
+3366,Algeria,2016,50.1,Mostly Unfree
+3367,Angola,2016,48.9,Repressed
+3368,Argentina,2016,43.8,Repressed
+3369,Armenia,2016,67.0,Moderately Free
+3370,Australia,2016,80.3,Free
+3371,Austria,2016,71.7,Mostly Free
+3372,Azerbaijan,2016,60.2,Moderately Unfree
+3373,Bahrain,2016,74.3,Mostly Free
+3374,Bangladesh ,2016,53.3,Mostly Unfree
+3375,Barbados,2016,68.3,Moderately Free
+3376,Belarus,2016,48.8,Repressed
+3377,Belgium,2016,68.4,Moderately Free
+3378,Belize,2016,57.4,Mostly Unfree
+3379,Benin,2016,59.3,Mostly Unfree
+3380,Bhutan,2016,59.5,Mostly Unfree
+3381,Bolivia,2016,47.4,Repressed
+3382,Bosnia and Herzegovina,2016,58.6,Mostly Unfree
+3383,Botswana,2016,71.1,Mostly Free
+3384,Brazil,2016,56.5,Mostly Unfree
+3385,Brunei Darussalam,2016,67.3,Moderately Free
+3386,Bulgaria,2016,65.9,Moderately Free
+3387,Burkina Faso,2016,59.1,Mostly Unfree
+3388,Burma,2016,48.7,Repressed
+3389,Burundi,2016,53.9,Mostly Unfree
+3390,Cabo Verde,2016,66.5,Moderately Free
+3391,Cambodia,2016,57.9,Mostly Unfree
+3392,Cameroon,2016,54.2,Mostly Unfree
+3393,Canada,2016,78.0,Mostly Free
+3394,Central African Republic,2016,45.2,Repressed
+3395,Chad,2016,46.3,Repressed
+3396,Chile,2016,77.7,Mostly Free
+3397,China,2016,52.0,Mostly Unfree
+3398,Colombia,2016,70.8,Mostly Free
+3399,Comoros,2016,52.4,Mostly Unfree
+3400,Costa Rica ,2016,67.4,Moderately Free
+3401,Côte d'Ivoire ,2016,60.0,Moderately Unfree
+3402,Croatia,2016,59.1,Mostly Unfree
+3403,Cuba,2016,29.8,Repressed
+3404,Cyprus,2016,68.7,Moderately Free
+3405,Czech Republic,2016,73.2,Mostly Free
+3406,Democratic Republic of Congo,2016,46.4,Repressed
+3407,Denmark,2016,75.3,Mostly Free
+3408,Djibouti,2016,56.0,Mostly Unfree
+3409,Dominica,2016,67.0,Moderately Free
+3410,Dominican Republic,2016,61.0,Moderately Unfree
+3411,Ecuador,2016,48.6,Repressed
+3412,Egypt,2016,56.0,Mostly Unfree
+3413,El Salvador ,2016,65.1,Moderately Free
+3414,Equatorial Guinea,2016,43.7,Repressed
+3415,Eritrea,2016,42.7,Repressed
+3416,Estonia,2016,77.2,Mostly Free
+3417,Eswatini,2016,59.7,Mostly Unfree
+3418,Ethiopia,2016,51.5,Mostly Unfree
+3419,Fiji,2016,58.8,Mostly Unfree
+3420,Finland,2016,72.6,Mostly Free
+3421,France,2016,62.3,Moderately Unfree
+3422,Gabon,2016,59.0,Mostly Unfree
+3423,Georgia,2016,72.6,Mostly Free
+3424,Germany,2016,74.4,Mostly Free
+3425,Ghana,2016,63.0,Moderately Unfree
+3426,Greece,2016,53.2,Mostly Unfree
+3427,Guatemala ,2016,61.8,Moderately Unfree
+3428,Guinea,2016,53.3,Mostly Unfree
+3429,Guinea-Bissau,2016,51.8,Mostly Unfree
+3430,Guyana,2016,55.4,Mostly Unfree
+3431,Haiti,2016,51.3,Mostly Unfree
+3432,Honduras ,2016,57.7,Mostly Unfree
+3433,Hong Kong,2016,88.6,Free
+3434,Hungary ,2016,66.0,Moderately Free
+3435,Iceland,2016,73.3,Mostly Free
+3436,India,2016,56.2,Mostly Unfree
+3437,Indonesia,2016,59.4,Mostly Unfree
+3438,Iran,2016,43.5,Repressed
+3439,Ireland,2016,77.3,Mostly Free
+3440,Israel,2016,70.7,Mostly Free
+3441,Italy,2016,61.2,Moderately Unfree
+3442,Jamaica ,2016,67.5,Moderately Free
+3443,Japan,2016,73.1,Mostly Free
+3444,Jordan,2016,68.3,Moderately Free
+3445,Kazakhstan,2016,63.6,Moderately Unfree
+3446,Kenya,2016,57.5,Mostly Unfree
+3447,Kiribati,2016,46.2,Repressed
+3448,Kosovo,2016,61.4,Moderately Unfree
+3449,Kuwait,2016,62.7,Moderately Unfree
+3450,Kyrgyz Republic ,2016,59.6,Mostly Unfree
+3451,Laos,2016,49.8,Repressed
+3452,Latvia,2016,70.4,Mostly Free
+3453,Lebanon,2016,59.5,Mostly Unfree
+3454,Lesotho,2016,50.6,Mostly Unfree
+3455,Liberia,2016,52.2,Mostly Unfree
+3456,Lithuania,2016,75.2,Mostly Free
+3457,Luxembourg,2016,73.9,Mostly Free
+3458,Macau,2016,70.1,Mostly Free
+3459,Madagascar,2016,61.1,Moderately Unfree
+3460,Malawi,2016,51.8,Mostly Unfree
+3461,Malaysia ,2016,71.5,Mostly Free
+3462,Maldives,2016,53.9,Mostly Unfree
+3463,Mali,2016,56.5,Mostly Unfree
+3464,Malta,2016,66.7,Moderately Free
+3465,Mauritania,2016,54.8,Mostly Unfree
+3466,Mauritius,2016,74.7,Mostly Free
+3467,Mexico,2016,65.2,Moderately Free
+3468,Micronesia,2016,51.8,Mostly Unfree
+3469,Moldova,2016,57.4,Mostly Unfree
+3470,Mongolia,2016,59.4,Mostly Unfree
+3471,Montenegro,2016,64.9,Moderately Unfree
+3472,Morocco,2016,61.3,Moderately Unfree
+3473,Mozambique ,2016,53.2,Mostly Unfree
+3474,Namibia,2016,61.9,Moderately Unfree
+3475,Nepal,2016,50.9,Mostly Unfree
+3476,Netherlands,2016,74.6,Mostly Free
+3477,New Zealand,2016,81.6,Free
+3478,Nicaragua ,2016,58.6,Mostly Unfree
+3479,Niger,2016,54.3,Mostly Unfree
+3480,Nigeria,2016,57.5,Mostly Unfree
+3481,North Korea,2016,2.3,Repressed
+3482,North Macedonia,2016,67.5,Moderately Free
+3483,Norway,2016,70.8,Mostly Free
+3484,Oman,2016,67.1,Moderately Free
+3485,Pakistan ,2016,55.9,Mostly Unfree
+3486,Panama ,2016,64.8,Moderately Unfree
+3487,Papua New Guinea,2016,53.2,Mostly Unfree
+3488,Paraguay ,2016,61.5,Moderately Unfree
+3489,Peru,2016,67.4,Moderately Free
+3490,Philippines,2016,63.1,Moderately Unfree
+3491,Poland,2016,69.3,Moderately Free
+3492,Portugal,2016,65.1,Moderately Free
+3493,Qatar,2016,70.7,Mostly Free
+3494,Republic of Congo ,2016,42.8,Repressed
+3495,Romania,2016,65.6,Moderately Free
+3496,Russia,2016,50.6,Mostly Unfree
+3497,Rwanda,2016,63.1,Moderately Unfree
+3498,Saint Lucia,2016,70.0,Mostly Free
+3499,Saint Vincent and the Grenadines,2016,68.8,Moderately Free
+3500,Samoa,2016,63.5,Moderately Unfree
+3501,São Tomé and Príncipe ,2016,56.7,Mostly Unfree
+3502,Saudi Arabia,2016,62.1,Moderately Unfree
+3503,Senegal,2016,58.1,Mostly Unfree
+3504,Serbia ,2016,62.1,Moderately Unfree
+3505,Seychelles,2016,62.2,Moderately Unfree
+3506,Sierra Leone,2016,52.3,Mostly Unfree
+3507,Singapore,2016,87.8,Free
+3508,Slovakia,2016,66.6,Moderately Free
+3509,Slovenia,2016,60.6,Moderately Unfree
+3510,Solomon Islands,2016,47.0,Repressed
+3511,South Africa,2016,61.9,Moderately Unfree
+3512,South Korea,2016,71.7,Mostly Free
+3513,Spain,2016,68.5,Moderately Free
+3514,Sri Lanka,2016,59.9,Mostly Unfree
+3515,Suriname,2016,53.8,Mostly Unfree
+3516,Sweden,2016,72.0,Mostly Free
+3517,Switzerland,2016,81.0,Free
+3518,Taiwan,2016,74.7,Mostly Free
+3519,Tajikistan,2016,51.3,Mostly Unfree
+3520,Tanzania,2016,58.5,Mostly Unfree
+3521,Thailand ,2016,63.9,Moderately Unfree
+3522,The Bahamas,2016,70.9,Mostly Free
+3523,The Gambia,2016,57.1,Mostly Unfree
+3524,Timor-Leste,2016,45.8,Repressed
+3525,Togo,2016,53.6,Mostly Unfree
+3526,Tonga,2016,59.6,Mostly Unfree
+3527,Trinidad and Tobago,2016,62.9,Moderately Unfree
+3528,Tunisia,2016,57.6,Mostly Unfree
+3529,Turkey,2016,62.1,Moderately Unfree
+3530,Turkmenistan,2016,41.9,Repressed
+3531,Uganda,2016,59.3,Mostly Unfree
+3532,Ukraine,2016,46.8,Repressed
+3533,United Arab Emirates,2016,72.6,Mostly Free
+3534,United Kingdom,2016,76.4,Mostly Free
+3535,United States,2016,75.4,Mostly Free
+3536,Uruguay ,2016,68.8,Moderately Free
+3537,Uzbekistan,2016,46.0,Repressed
+3538,Vanuatu,2016,60.8,Moderately Unfree
+3539,Venezuela ,2016,33.7,Repressed
+3540,Vietnam,2016,54.0,Mostly Unfree
+3541,Zambia,2016,58.8,Mostly Unfree
+3542,Zimbabwe,2016,38.2,Repressed
+3543,Afghanistan,2017,48.9,Repressed
+3544,Albania,2017,64.4,Moderately Unfree
+3545,Algeria,2017,46.5,Repressed
+3546,Angola,2017,48.5,Repressed
+3547,Argentina,2017,50.4,Mostly Unfree
+3548,Armenia,2017,70.3,Mostly Free
+3549,Australia,2017,81.0,Free
+3550,Austria,2017,72.3,Mostly Free
+3551,Azerbaijan,2017,63.6,Moderately Unfree
+3552,Bahrain,2017,68.5,Moderately Free
+3553,Bangladesh ,2017,55.0,Mostly Unfree
+3554,Barbados,2017,54.5,Mostly Unfree
+3555,Belarus,2017,58.6,Mostly Unfree
+3556,Belgium,2017,67.8,Moderately Free
+3557,Belize,2017,58.6,Mostly Unfree
+3558,Benin,2017,59.2,Mostly Unfree
+3559,Bhutan,2017,58.4,Mostly Unfree
+3560,Bolivia,2017,47.7,Repressed
+3561,Bosnia and Herzegovina,2017,60.2,Moderately Unfree
+3562,Botswana,2017,70.1,Mostly Free
+3563,Brazil,2017,52.9,Mostly Unfree
+3564,Brunei Darussalam,2017,69.8,Moderately Free
+3565,Bulgaria,2017,67.9,Moderately Free
+3566,Burkina Faso,2017,59.6,Mostly Unfree
+3567,Burma,2017,52.5,Mostly Unfree
+3568,Burundi,2017,53.2,Mostly Unfree
+3569,Cabo Verde,2017,56.9,Mostly Unfree
+3570,Cambodia,2017,59.5,Mostly Unfree
+3571,Cameroon,2017,51.8,Mostly Unfree
+3572,Canada,2017,78.5,Mostly Free
+3573,Central African Republic,2017,51.8,Mostly Unfree
+3574,Chad,2017,49.0,Repressed
+3575,Chile,2017,76.5,Mostly Free
+3576,China,2017,57.4,Mostly Unfree
+3577,Colombia,2017,69.7,Moderately Free
+3578,Comoros,2017,55.8,Mostly Unfree
+3579,Costa Rica ,2017,65.0,Moderately Free
+3580,Côte d'Ivoire ,2017,63.0,Moderately Unfree
+3581,Croatia,2017,59.4,Mostly Unfree
+3582,Cuba,2017,33.9,Repressed
+3583,Cyprus,2017,67.9,Moderately Free
+3584,Czech Republic,2017,73.3,Mostly Free
+3585,Democratic Republic of Congo,2017,56.4,Mostly Unfree
+3586,Denmark,2017,75.1,Mostly Free
+3587,Djibouti,2017,46.7,Repressed
+3588,Dominica,2017,63.7,Moderately Unfree
+3589,Dominican Republic,2017,62.9,Moderately Unfree
+3590,Ecuador,2017,49.3,Repressed
+3591,Egypt,2017,52.6,Mostly Unfree
+3592,El Salvador ,2017,64.1,Moderately Unfree
+3593,Equatorial Guinea,2017,45.0,Repressed
+3594,Eritrea,2017,42.2,Repressed
+3595,Estonia,2017,79.1,Mostly Free
+3596,Eswatini,2017,61.1,Moderately Unfree
+3597,Ethiopia,2017,52.7,Mostly Unfree
+3598,Fiji,2017,63.4,Moderately Unfree
+3599,Finland,2017,74.0,Mostly Free
+3600,France,2017,63.3,Moderately Unfree
+3601,Gabon,2017,58.6,Mostly Unfree
+3602,Georgia,2017,76.0,Mostly Free
+3603,Germany,2017,73.8,Mostly Free
+3604,Ghana,2017,56.2,Mostly Unfree
+3605,Greece,2017,55.0,Mostly Unfree
+3606,Guatemala ,2017,63.0,Moderately Unfree
+3607,Guinea,2017,47.6,Repressed
+3608,Guinea-Bissau,2017,56.1,Mostly Unfree
+3609,Guyana,2017,58.5,Mostly Unfree
+3610,Haiti,2017,49.6,Repressed
+3611,Honduras ,2017,58.8,Mostly Unfree
+3612,Hong Kong,2017,89.8,Free
+3613,Hungary ,2017,65.8,Moderately Free
+3614,Iceland,2017,74.4,Mostly Free
+3615,India,2017,52.6,Mostly Unfree
+3616,Indonesia,2017,61.9,Moderately Unfree
+3617,Iran,2017,50.5,Mostly Unfree
+3618,Ireland,2017,76.7,Mostly Free
+3619,Israel,2017,69.7,Moderately Free
+3620,Italy,2017,62.5,Moderately Unfree
+3621,Jamaica ,2017,69.5,Moderately Free
+3622,Japan,2017,69.6,Moderately Free
+3623,Jordan,2017,66.7,Moderately Free
+3624,Kazakhstan,2017,69.0,Moderately Free
+3625,Kenya,2017,53.5,Mostly Unfree
+3626,Kiribati,2017,50.9,Mostly Unfree
+3627,Kosovo,2017,67.9,Moderately Free
+3628,Kuwait,2017,65.1,Moderately Free
+3629,Kyrgyz Republic ,2017,61.1,Moderately Unfree
+3630,Laos,2017,54.0,Mostly Unfree
+3631,Latvia,2017,74.8,Mostly Free
+3632,Lebanon,2017,53.3,Mostly Unfree
+3633,Lesotho,2017,53.9,Mostly Unfree
+3634,Liberia,2017,49.1,Repressed
+3635,Lithuania,2017,75.8,Mostly Free
+3636,Luxembourg,2017,75.9,Mostly Free
+3637,Macau,2017,70.7,Mostly Free
+3638,Madagascar,2017,57.4,Mostly Unfree
+3639,Malawi,2017,52.2,Mostly Unfree
+3640,Malaysia ,2017,73.8,Mostly Free
+3641,Maldives,2017,50.3,Mostly Unfree
+3642,Mali,2017,58.6,Mostly Unfree
+3643,Malta,2017,67.7,Moderately Free
+3644,Mauritania,2017,54.4,Mostly Unfree
+3645,Mauritius,2017,74.7,Mostly Free
+3646,Mexico,2017,63.6,Moderately Unfree
+3647,Micronesia,2017,54.1,Mostly Unfree
+3648,Moldova,2017,58.0,Mostly Unfree
+3649,Mongolia,2017,54.8,Mostly Unfree
+3650,Montenegro,2017,62.0,Moderately Unfree
+3651,Morocco,2017,61.5,Moderately Unfree
+3652,Mozambique ,2017,49.9,Repressed
+3653,Namibia,2017,62.5,Moderately Unfree
+3654,Nepal,2017,55.1,Mostly Unfree
+3655,Netherlands,2017,75.8,Mostly Free
+3656,New Zealand,2017,83.7,Free
+3657,Nicaragua ,2017,59.2,Mostly Unfree
+3658,Niger,2017,50.8,Mostly Unfree
+3659,Nigeria,2017,57.1,Mostly Unfree
+3660,North Korea,2017,4.9,Repressed
+3661,North Macedonia,2017,70.7,Mostly Free
+3662,Norway,2017,74.0,Mostly Free
+3663,Oman,2017,62.1,Moderately Unfree
+3664,Pakistan ,2017,52.8,Mostly Unfree
+3665,Panama ,2017,66.3,Moderately Free
+3666,Papua New Guinea,2017,50.9,Mostly Unfree
+3667,Paraguay ,2017,62.4,Moderately Unfree
+3668,Peru,2017,68.9,Moderately Free
+3669,Philippines,2017,65.6,Moderately Free
+3670,Poland,2017,68.3,Moderately Free
+3671,Portugal,2017,62.6,Moderately Unfree
+3672,Qatar,2017,73.1,Mostly Free
+3673,Republic of Congo ,2017,40.0,Repressed
+3674,Romania,2017,69.7,Moderately Free
+3675,Russia,2017,57.1,Mostly Unfree
+3676,Rwanda,2017,67.6,Moderately Free
+3677,Saint Lucia,2017,65.0,Moderately Free
+3678,Saint Vincent and the Grenadines,2017,65.2,Moderately Free
+3679,Samoa,2017,58.4,Mostly Unfree
+3680,São Tomé and Príncipe ,2017,55.4,Mostly Unfree
+3681,Saudi Arabia,2017,64.4,Moderately Unfree
+3682,Senegal,2017,55.9,Mostly Unfree
+3683,Serbia ,2017,58.9,Mostly Unfree
+3684,Seychelles,2017,61.8,Moderately Unfree
+3685,Sierra Leone,2017,52.6,Mostly Unfree
+3686,Singapore,2017,88.6,Free
+3687,Slovakia,2017,65.7,Moderately Free
+3688,Slovenia,2017,59.2,Mostly Unfree
+3689,Solomon Islands,2017,55.0,Mostly Unfree
+3690,South Africa,2017,62.3,Moderately Unfree
+3691,South Korea,2017,74.3,Mostly Free
+3692,Spain,2017,63.6,Moderately Unfree
+3693,Sri Lanka,2017,57.4,Mostly Unfree
+3694,Sudan,2017,48.8,Repressed
+3695,Suriname,2017,48.0,Repressed
+3696,Sweden,2017,74.9,Mostly Free
+3697,Switzerland,2017,81.5,Free
+3698,Taiwan,2017,76.5,Mostly Free
+3699,Tajikistan,2017,58.2,Mostly Unfree
+3700,Tanzania,2017,58.6,Mostly Unfree
+3701,Thailand ,2017,66.2,Moderately Free
+3702,The Bahamas,2017,61.1,Moderately Unfree
+3703,The Gambia,2017,53.4,Mostly Unfree
+3704,Timor-Leste,2017,46.3,Repressed
+3705,Togo,2017,53.2,Mostly Unfree
+3706,Tonga,2017,63.0,Moderately Unfree
+3707,Trinidad and Tobago,2017,61.2,Moderately Unfree
+3708,Tunisia,2017,55.7,Mostly Unfree
+3709,Turkey,2017,65.2,Moderately Free
+3710,Turkmenistan,2017,47.4,Repressed
+3711,Uganda,2017,60.9,Moderately Unfree
+3712,Ukraine,2017,48.1,Repressed
+3713,United Arab Emirates,2017,76.9,Mostly Free
+3714,United Kingdom,2017,76.4,Mostly Free
+3715,United States,2017,75.1,Mostly Free
+3716,Uruguay ,2017,69.7,Moderately Free
+3717,Uzbekistan,2017,52.3,Mostly Unfree
+3718,Vanuatu,2017,67.4,Moderately Free
+3719,Venezuela ,2017,27.0,Repressed
+3720,Vietnam,2017,52.4,Mostly Unfree
+3721,Zambia,2017,55.8,Mostly Unfree
+3722,Zimbabwe,2017,44.0,Repressed
+3723,Afghanistan,2018,51.3,Mostly Unfree
+3724,Albania,2018,64.5,Moderately Unfree
+3725,Algeria,2018,44.7,Repressed
+3726,Angola,2018,48.6,Repressed
+3727,Argentina,2018,52.3,Mostly Unfree
+3728,Armenia,2018,68.7,Moderately Free
+3729,Australia,2018,80.9,Free
+3730,Austria,2018,71.8,Mostly Free
+3731,Azerbaijan,2018,64.3,Moderately Unfree
+3732,Bahrain,2018,67.7,Moderately Free
+3733,Bangladesh ,2018,55.1,Mostly Unfree
+3734,Barbados,2018,57.0,Mostly Unfree
+3735,Belarus,2018,58.1,Mostly Unfree
+3736,Belgium,2018,67.5,Moderately Free
+3737,Belize,2018,57.1,Mostly Unfree
+3738,Benin,2018,56.7,Mostly Unfree
+3739,Bhutan,2018,61.8,Moderately Unfree
+3740,Bolivia,2018,44.1,Repressed
+3741,Bosnia and Herzegovina,2018,61.4,Moderately Unfree
+3742,Botswana,2018,69.9,Moderately Free
+3743,Brazil,2018,51.4,Mostly Unfree
+3744,Brunei Darussalam,2018,64.2,Moderately Unfree
+3745,Bulgaria,2018,68.3,Moderately Free
+3746,Burkina Faso,2018,60.0,Moderately Unfree
+3747,Burma,2018,53.9,Mostly Unfree
+3748,Burundi,2018,50.9,Mostly Unfree
+3749,Cabo Verde,2018,60.0,Moderately Unfree
+3750,Cambodia,2018,58.7,Mostly Unfree
+3751,Cameroon,2018,51.9,Mostly Unfree
+3752,Canada,2018,77.7,Mostly Free
+3753,Central African Republic,2018,49.2,Repressed
+3754,Chad,2018,49.3,Repressed
+3755,Chile,2018,75.2,Mostly Free
+3756,China,2018,57.8,Mostly Unfree
+3757,Colombia,2018,68.9,Moderately Free
+3758,Comoros,2018,56.2,Mostly Unfree
+3759,Costa Rica ,2018,65.6,Moderately Free
+3760,Côte d'Ivoire ,2018,62.0,Moderately Unfree
+3761,Croatia,2018,61.0,Moderately Unfree
+3762,Cuba,2018,31.9,Repressed
+3763,Cyprus,2018,67.8,Moderately Free
+3764,Czech Republic,2018,74.2,Mostly Free
+3765,Democratic Republic of Congo,2018,52.1,Mostly Unfree
+3766,Denmark,2018,76.6,Mostly Free
+3767,Djibouti,2018,45.1,Repressed
+3768,Dominica,2018,64.5,Moderately Unfree
+3769,Dominican Republic,2018,61.6,Moderately Unfree
+3770,Ecuador,2018,48.5,Repressed
+3771,Egypt,2018,53.4,Mostly Unfree
+3772,El Salvador ,2018,63.2,Moderately Unfree
+3773,Equatorial Guinea,2018,42.0,Repressed
+3774,Eritrea,2018,41.7,Repressed
+3775,Estonia,2018,78.8,Mostly Free
+3776,Eswatini,2018,55.9,Mostly Unfree
+3777,Ethiopia,2018,52.8,Mostly Unfree
+3778,Fiji,2018,62.0,Moderately Unfree
+3779,Finland,2018,74.1,Mostly Free
+3780,France,2018,63.9,Moderately Unfree
+3781,Gabon,2018,58.0,Mostly Unfree
+3782,Georgia,2018,76.2,Mostly Free
+3783,Germany,2018,74.2,Mostly Free
+3784,Ghana,2018,56.0,Mostly Unfree
+3785,Greece,2018,57.3,Mostly Unfree
+3786,Guatemala ,2018,63.4,Moderately Unfree
+3787,Guinea,2018,52.2,Mostly Unfree
+3788,Guinea-Bissau,2018,56.9,Mostly Unfree
+3789,Guyana,2018,58.7,Mostly Unfree
+3790,Haiti,2018,55.8,Mostly Unfree
+3791,Honduras ,2018,60.6,Moderately Unfree
+3792,Hong Kong,2018,90.2,Free
+3793,Hungary ,2018,66.7,Moderately Free
+3794,Iceland,2018,77.0,Mostly Free
+3795,India,2018,54.5,Mostly Unfree
+3796,Indonesia,2018,64.2,Moderately Unfree
+3797,Iran,2018,50.9,Mostly Unfree
+3798,Ireland,2018,80.4,Free
+3799,Israel,2018,72.2,Mostly Free
+3800,Italy,2018,62.5,Moderately Unfree
+3801,Jamaica ,2018,69.1,Moderately Free
+3802,Japan,2018,72.3,Mostly Free
+3803,Jordan,2018,64.9,Moderately Unfree
+3804,Kazakhstan,2018,69.1,Moderately Free
+3805,Kenya,2018,54.7,Mostly Unfree
+3806,Kiribati,2018,50.8,Mostly Unfree
+3807,Kosovo,2018,66.6,Moderately Free
+3808,Kuwait,2018,62.2,Moderately Unfree
+3809,Kyrgyz Republic ,2018,62.8,Moderately Unfree
+3810,Laos,2018,53.6,Mostly Unfree
+3811,Latvia,2018,73.6,Mostly Free
+3812,Lebanon,2018,53.2,Mostly Unfree
+3813,Lesotho,2018,53.9,Mostly Unfree
+3814,Liberia,2018,50.9,Mostly Unfree
+3815,Lithuania,2018,75.3,Mostly Free
+3816,Luxembourg,2018,76.4,Mostly Free
+3817,Macau,2018,70.9,Mostly Free
+3818,Madagascar,2018,56.8,Mostly Unfree
+3819,Malawi,2018,52.0,Mostly Unfree
+3820,Malaysia ,2018,74.5,Mostly Free
+3821,Maldives,2018,51.1,Mostly Unfree
+3822,Mali,2018,57.6,Mostly Unfree
+3823,Malta,2018,68.5,Moderately Free
+3824,Mauritania,2018,54.0,Mostly Unfree
+3825,Mauritius,2018,75.1,Mostly Free
+3826,Mexico,2018,64.8,Moderately Unfree
+3827,Micronesia,2018,52.3,Mostly Unfree
+3828,Moldova,2018,58.4,Mostly Unfree
+3829,Mongolia,2018,55.7,Mostly Unfree
+3830,Montenegro,2018,64.3,Moderately Unfree
+3831,Morocco,2018,61.9,Moderately Unfree
+3832,Mozambique ,2018,46.3,Repressed
+3833,Namibia,2018,58.5,Mostly Unfree
+3834,Nepal,2018,54.1,Mostly Unfree
+3835,Netherlands,2018,76.2,Mostly Free
+3836,New Zealand,2018,84.2,Free
+3837,Nicaragua ,2018,58.9,Mostly Unfree
+3838,Niger,2018,49.5,Repressed
+3839,Nigeria,2018,58.5,Mostly Unfree
+3840,North Korea,2018,5.8,Repressed
+3841,North Macedonia,2018,71.3,Mostly Free
+3842,Norway,2018,74.3,Mostly Free
+3843,Oman,2018,61.0,Moderately Unfree
+3844,Pakistan ,2018,54.4,Mostly Unfree
+3845,Panama ,2018,67.0,Moderately Free
+3846,Papua New Guinea,2018,55.7,Mostly Unfree
+3847,Paraguay ,2018,62.1,Moderately Unfree
+3848,Peru,2018,68.7,Moderately Free
+3849,Philippines,2018,65.0,Moderately Free
+3850,Poland,2018,68.5,Moderately Free
+3851,Portugal,2018,63.4,Moderately Unfree
+3852,Qatar,2018,72.6,Mostly Free
+3853,Republic of Congo ,2018,38.9,Repressed
+3854,Romania,2018,69.4,Moderately Free
+3855,Russia,2018,58.2,Mostly Unfree
+3856,Rwanda,2018,69.1,Moderately Free
+3857,Saint Lucia,2018,67.6,Moderately Free
+3858,Saint Vincent and the Grenadines,2018,67.7,Moderately Free
+3859,Samoa,2018,61.5,Moderately Unfree
+3860,São Tomé and Príncipe ,2018,53.6,Mostly Unfree
+3861,Saudi Arabia,2018,59.6,Mostly Unfree
+3862,Senegal,2018,55.7,Mostly Unfree
+3863,Serbia ,2018,62.5,Moderately Unfree
+3864,Seychelles,2018,61.6,Moderately Unfree
+3865,Sierra Leone,2018,51.8,Mostly Unfree
+3866,Singapore,2018,88.8,Free
+3867,Slovakia,2018,65.3,Moderately Free
+3868,Slovenia,2018,64.8,Moderately Unfree
+3869,Solomon Islands,2018,57.5,Mostly Unfree
+3870,South Africa,2018,63.0,Moderately Unfree
+3871,South Korea,2018,73.8,Mostly Free
+3872,Spain,2018,65.1,Moderately Free
+3873,Sri Lanka,2018,57.8,Mostly Unfree
+3874,Sudan,2018,49.4,Repressed
+3875,Suriname,2018,48.1,Repressed
+3876,Sweden,2018,76.3,Mostly Free
+3877,Switzerland,2018,81.7,Free
+3878,Taiwan,2018,76.6,Mostly Free
+3879,Tajikistan,2018,58.3,Mostly Unfree
+3880,Tanzania,2018,59.9,Mostly Unfree
+3881,Thailand ,2018,67.1,Moderately Free
+3882,The Bahamas,2018,63.3,Moderately Unfree
+3883,The Gambia,2018,52.3,Mostly Unfree
+3884,Timor-Leste,2018,48.1,Repressed
+3885,Togo,2018,47.8,Repressed
+3886,Tonga,2018,63.1,Moderately Unfree
+3887,Trinidad and Tobago,2018,57.7,Mostly Unfree
+3888,Tunisia,2018,58.9,Mostly Unfree
+3889,Turkey,2018,65.4,Moderately Free
+3890,Turkmenistan,2018,47.1,Repressed
+3891,Uganda,2018,62.0,Moderately Unfree
+3892,Ukraine,2018,51.9,Mostly Unfree
+3893,United Arab Emirates,2018,77.6,Mostly Free
+3894,United Kingdom,2018,78.0,Mostly Free
+3895,United States,2018,75.7,Mostly Free
+3896,Uruguay ,2018,69.2,Moderately Free
+3897,Uzbekistan,2018,51.5,Mostly Unfree
+3898,Vanuatu,2018,69.5,Moderately Free
+3899,Venezuela ,2018,25.2,Repressed
+3900,Vietnam,2018,53.1,Mostly Unfree
+3901,Zambia,2018,54.3,Mostly Unfree
+3902,Zimbabwe,2018,44.0,Repressed
+3903,Afghanistan,2019,51.5,Mostly Unfree
+3904,Albania,2019,66.5,Moderately Free
+3905,Algeria,2019,46.2,Repressed
+3906,Angola,2019,50.6,Mostly Unfree
+3907,Argentina,2019,52.2,Mostly Unfree
+3908,Armenia,2019,67.7,Moderately Free
+3909,Australia,2019,80.9,Free
+3910,Austria,2019,72.0,Mostly Free
+3911,Azerbaijan,2019,65.4,Moderately Free
+3912,Bahrain,2019,66.4,Moderately Free
+3913,Bangladesh ,2019,55.6,Mostly Unfree
+3914,Barbados,2019,64.7,Moderately Unfree
+3915,Belarus,2019,57.9,Mostly Unfree
+3916,Belgium,2019,67.3,Moderately Free
+3917,Belize,2019,55.4,Mostly Unfree
+3918,Benin,2019,55.3,Mostly Unfree
+3919,Bhutan,2019,62.9,Moderately Unfree
+3920,Bolivia,2019,42.3,Repressed
+3921,Bosnia and Herzegovina,2019,61.9,Moderately Unfree
+3922,Botswana,2019,69.5,Moderately Free
+3923,Brazil,2019,51.9,Mostly Unfree
+3924,Brunei Darussalam,2019,65.1,Moderately Free
+3925,Bulgaria,2019,69.0,Moderately Free
+3926,Burkina Faso,2019,59.4,Mostly Unfree
+3927,Burma,2019,53.6,Mostly Unfree
+3928,Burundi,2019,48.9,Repressed
+3929,Cabo Verde,2019,63.1,Moderately Unfree
+3930,Cambodia,2019,57.8,Mostly Unfree
+3931,Cameroon,2019,52.4,Mostly Unfree
+3932,Canada,2019,77.7,Mostly Free
+3933,Central African Republic,2019,49.1,Repressed
+3934,Chad,2019,49.9,Repressed
+3935,Chile,2019,75.4,Mostly Free
+3936,China,2019,58.4,Mostly Unfree
+3937,Colombia,2019,67.3,Moderately Free
+3938,Comoros,2019,55.4,Mostly Unfree
+3939,Costa Rica ,2019,65.3,Moderately Free
+3940,Côte d'Ivoire ,2019,62.4,Moderately Unfree
+3941,Croatia,2019,61.4,Moderately Unfree
+3942,Cuba,2019,27.8,Repressed
+3943,Cyprus,2019,68.1,Moderately Free
+3944,Czech Republic,2019,73.7,Mostly Free
+3945,Democratic Republic of Congo,2019,50.3,Mostly Unfree
+3946,Denmark,2019,76.7,Mostly Free
+3947,Djibouti,2019,47.1,Repressed
+3948,Dominica,2019,63.6,Moderately Unfree
+3949,Dominican Republic,2019,61.0,Moderately Unfree
+3950,Ecuador,2019,46.9,Repressed
+3951,Egypt,2019,52.5,Mostly Unfree
+3952,El Salvador ,2019,61.8,Moderately Unfree
+3953,Equatorial Guinea,2019,41.0,Repressed
+3954,Eritrea,2019,38.9,Repressed
+3955,Estonia,2019,76.6,Mostly Free
+3956,Eswatini,2019,54.7,Mostly Unfree
+3957,Ethiopia,2019,53.6,Mostly Unfree
+3958,Fiji,2019,62.2,Moderately Unfree
+3959,Finland,2019,74.9,Mostly Free
+3960,France,2019,63.8,Moderately Unfree
+3961,Gabon,2019,56.3,Mostly Unfree
+3962,Georgia,2019,75.9,Mostly Free
+3963,Germany,2019,73.5,Mostly Free
+3964,Ghana,2019,57.5,Mostly Unfree
+3965,Greece,2019,57.7,Mostly Unfree
+3966,Guatemala ,2019,62.6,Moderately Unfree
+3967,Guinea,2019,55.7,Mostly Unfree
+3968,Guinea-Bissau,2019,54.0,Mostly Unfree
+3969,Guyana,2019,56.8,Mostly Unfree
+3970,Haiti,2019,52.7,Mostly Unfree
+3971,Honduras ,2019,60.2,Moderately Unfree
+3972,Hong Kong,2019,90.2,Free
+3973,Hungary ,2019,65.0,Moderately Free
+3974,Iceland,2019,77.1,Mostly Free
+3975,India,2019,55.2,Mostly Unfree
+3976,Indonesia,2019,65.8,Moderately Free
+3977,Iran,2019,51.1,Mostly Unfree
+3978,Ireland,2019,80.5,Free
+3979,Israel,2019,72.8,Mostly Free
+3980,Italy,2019,62.2,Moderately Unfree
+3981,Jamaica ,2019,68.6,Moderately Free
+3982,Japan,2019,72.1,Mostly Free
+3983,Jordan,2019,66.5,Moderately Free
+3984,Kazakhstan,2019,65.4,Moderately Free
+3985,Kenya,2019,55.1,Mostly Unfree
+3986,Kiribati,2019,47.3,Repressed
+3987,Kosovo,2019,67.0,Moderately Free
+3988,Kuwait,2019,60.8,Moderately Unfree
+3989,Kyrgyz Republic ,2019,62.3,Moderately Unfree
+3990,Laos,2019,57.4,Mostly Unfree
+3991,Latvia,2019,70.4,Mostly Free
+3992,Lebanon,2019,51.1,Mostly Unfree
+3993,Lesotho,2019,53.1,Mostly Unfree
+3994,Liberia,2019,49.7,Repressed
+3995,Lithuania,2019,74.2,Mostly Free
+3996,Luxembourg,2019,75.9,Mostly Free
+3997,Macau,2019,71.0,Mostly Free
+3998,Madagascar,2019,56.6,Mostly Unfree
+3999,Malawi,2019,51.4,Mostly Unfree
+4000,Malaysia ,2019,74.0,Mostly Free
+4001,Maldives,2019,53.2,Mostly Unfree
+4002,Mali,2019,58.1,Mostly Unfree
+4003,Malta,2019,68.6,Moderately Free
+4004,Mauritania,2019,55.7,Mostly Unfree
+4005,Mauritius,2019,73.0,Mostly Free
+4006,Mexico,2019,64.7,Moderately Unfree
+4007,Micronesia,2019,51.9,Mostly Unfree
+4008,Moldova,2019,59.1,Mostly Unfree
+4009,Mongolia,2019,55.4,Mostly Unfree
+4010,Montenegro,2019,60.5,Moderately Unfree
+4011,Morocco,2019,62.9,Moderately Unfree
+4012,Mozambique ,2019,48.6,Repressed
+4013,Namibia,2019,58.7,Mostly Unfree
+4014,Nepal,2019,53.8,Mostly Unfree
+4015,Netherlands,2019,76.8,Mostly Free
+4016,New Zealand,2019,84.4,Free
+4017,Nicaragua ,2019,57.7,Mostly Unfree
+4018,Niger,2019,51.6,Mostly Unfree
+4019,Nigeria,2019,57.3,Mostly Unfree
+4020,North Korea,2019,5.9,Repressed
+4021,North Macedonia,2019,71.1,Mostly Free
+4022,Norway,2019,73.0,Mostly Free
+4023,Oman,2019,61.0,Moderately Unfree
+4024,Pakistan ,2019,55.0,Mostly Unfree
+4025,Panama ,2019,67.2,Moderately Free
+4026,Papua New Guinea,2019,58.4,Mostly Unfree
+4027,Paraguay ,2019,61.8,Moderately Unfree
+4028,Peru,2019,67.8,Moderately Free
+4029,Philippines,2019,63.8,Moderately Unfree
+4030,Poland,2019,67.8,Moderately Free
+4031,Portugal,2019,65.3,Moderately Free
+4032,Qatar,2019,72.6,Mostly Free
+4033,Republic of Congo ,2019,39.7,Repressed
+4034,Romania,2019,68.6,Moderately Free
+4035,Russia,2019,58.9,Mostly Unfree
+4036,Rwanda,2019,71.1,Mostly Free
+4037,Saint Lucia,2019,68.7,Moderately Free
+4038,Saint Vincent and the Grenadines,2019,65.8,Moderately Free
+4039,Samoa,2019,62.2,Moderately Unfree
+4040,São Tomé and Príncipe ,2019,54.0,Mostly Unfree
+4041,Saudi Arabia,2019,60.7,Moderately Unfree
+4042,Senegal,2019,56.3,Mostly Unfree
+4043,Serbia ,2019,63.9,Moderately Unfree
+4044,Seychelles,2019,61.4,Moderately Unfree
+4045,Sierra Leone,2019,47.5,Repressed
+4046,Singapore,2019,89.4,Free
+4047,Slovakia,2019,65.0,Moderately Free
+4048,Slovenia,2019,65.5,Moderately Free
+4049,Solomon Islands,2019,54.6,Mostly Unfree
+4050,South Africa,2019,58.3,Mostly Unfree
+4051,South Korea,2019,72.3,Mostly Free
+4052,Spain,2019,65.7,Moderately Free
+4053,Sri Lanka,2019,56.4,Mostly Unfree
+4054,Sudan,2019,47.7,Repressed
+4055,Suriname,2019,48.1,Repressed
+4056,Sweden,2019,75.2,Mostly Free
+4057,Switzerland,2019,81.9,Free
+4058,Taiwan,2019,77.3,Mostly Free
+4059,Tajikistan,2019,55.6,Mostly Unfree
+4060,Tanzania,2019,60.2,Moderately Unfree
+4061,Thailand ,2019,68.3,Moderately Free
+4062,The Bahamas,2019,62.9,Moderately Unfree
+4063,The Gambia,2019,52.4,Mostly Unfree
+4064,Timor-Leste,2019,44.2,Repressed
+4065,Togo,2019,50.3,Mostly Unfree
+4066,Tonga,2019,57.7,Mostly Unfree
+4067,Trinidad and Tobago,2019,57.0,Mostly Unfree
+4068,Tunisia,2019,55.4,Mostly Unfree
+4069,Turkey,2019,64.6,Moderately Unfree
+4070,Turkmenistan,2019,48.4,Repressed
+4071,Uganda,2019,59.7,Mostly Unfree
+4072,Ukraine,2019,52.3,Mostly Unfree
+4073,United Arab Emirates,2019,77.6,Mostly Free
+4074,United Kingdom,2019,78.9,Mostly Free
+4075,United States,2019,76.8,Mostly Free
+4076,Uruguay ,2019,68.6,Moderately Free
+4077,Uzbekistan,2019,53.3,Mostly Unfree
+4078,Vanuatu,2019,56.4,Mostly Unfree
+4079,Venezuela ,2019,25.9,Repressed
+4080,Vietnam,2019,55.3,Mostly Unfree
+4081,Zambia,2019,53.6,Mostly Unfree
+4082,Zimbabwe,2019,40.4,Repressed
+4083,Afghanistan,2020,54.7,Mostly Unfree
+4084,Albania,2020,66.9,Moderately Free
+4085,Algeria,2020,46.9,Repressed
+4086,Angola,2020,52.2,Mostly Unfree
+4087,Argentina,2020,53.1,Mostly Unfree
+4088,Armenia,2020,70.6,Mostly Free
+4089,Australia,2020,82.6,Free
+4090,Austria,2020,73.3,Mostly Free
+4091,Azerbaijan,2020,69.3,Moderately Free
+4092,Bahrain,2020,66.3,Moderately Free
+4093,Bangladesh ,2020,56.4,Mostly Unfree
+4094,Barbados,2020,61.4,Moderately Unfree
+4095,Belarus,2020,61.7,Moderately Unfree
+4096,Belgium,2020,68.9,Moderately Free
+4097,Belize,2020,57.4,Mostly Unfree
+4098,Benin,2020,55.2,Mostly Unfree
+4099,Bhutan,2020,62.1,Moderately Unfree
+4100,Bolivia,2020,42.8,Repressed
+4101,Bosnia and Herzegovina,2020,62.6,Moderately Unfree
+4102,Botswana,2020,69.6,Moderately Free
+4103,Brazil,2020,53.7,Mostly Unfree
+4104,Brunei Darussalam,2020,66.6,Moderately Free
+4105,Bulgaria,2020,70.2,Mostly Free
+4106,Burkina Faso,2020,56.7,Mostly Unfree
+4107,Burma,2020,54.0,Mostly Unfree
+4108,Burundi,2020,49.0,Repressed
+4109,Cabo Verde,2020,63.6,Moderately Unfree
+4110,Cambodia,2020,57.3,Mostly Unfree
+4111,Cameroon,2020,53.6,Mostly Unfree
+4112,Canada,2020,78.2,Mostly Free
+4113,Central African Republic,2020,50.7,Mostly Unfree
+4114,Chad,2020,50.2,Mostly Unfree
+4115,Chile,2020,76.8,Mostly Free
+4116,China,2020,59.5,Mostly Unfree
+4117,Colombia,2020,69.2,Moderately Free
+4118,Comoros,2020,53.7,Mostly Unfree
+4119,Costa Rica ,2020,65.8,Moderately Free
+4120,Côte d'Ivoire ,2020,59.7,Mostly Unfree
+4121,Croatia,2020,62.2,Moderately Unfree
+4122,Cuba,2020,26.9,Repressed
+4123,Cyprus,2020,70.1,Mostly Free
+4124,Czech Republic,2020,74.8,Mostly Free
+4125,Democratic Republic of Congo,2020,49.5,Repressed
+4126,Denmark,2020,78.3,Mostly Free
+4127,Djibouti,2020,52.9,Mostly Unfree
+4128,Dominica,2020,60.8,Moderately Unfree
+4129,Dominican Republic,2020,60.9,Moderately Unfree
+4130,Ecuador,2020,51.3,Mostly Unfree
+4131,Egypt,2020,54.0,Mostly Unfree
+4132,El Salvador ,2020,61.6,Moderately Unfree
+4133,Equatorial Guinea,2020,48.3,Repressed
+4134,Eritrea,2020,38.5,Repressed
+4135,Estonia,2020,77.7,Mostly Free
+4136,Eswatini,2020,55.3,Mostly Unfree
+4137,Ethiopia,2020,53.6,Mostly Unfree
+4138,Fiji,2020,63.4,Moderately Unfree
+4139,Finland,2020,75.7,Mostly Free
+4140,France,2020,66.0,Moderately Free
+4141,Gabon,2020,56.7,Mostly Unfree
+4142,Georgia,2020,77.1,Mostly Free
+4143,Germany,2020,73.5,Mostly Free
+4144,Ghana,2020,59.4,Mostly Unfree
+4145,Greece,2020,59.9,Mostly Unfree
+4146,Guatemala ,2020,64.0,Moderately Unfree
+4147,Guinea,2020,56.5,Mostly Unfree
+4148,Guinea-Bissau,2020,53.3,Mostly Unfree
+4149,Guyana,2020,56.2,Mostly Unfree
+4150,Haiti,2020,52.3,Mostly Unfree
+4151,Honduras ,2020,61.1,Moderately Unfree
+4152,Hong Kong,2020,89.1,Free
+4153,Hungary ,2020,66.4,Moderately Free
+4154,Iceland,2020,77.1,Mostly Free
+4155,India,2020,56.5,Mostly Unfree
+4156,Indonesia,2020,67.2,Moderately Free
+4157,Iran,2020,49.2,Repressed
+4158,Ireland,2020,80.9,Free
+4159,Israel,2020,74.0,Mostly Free
+4160,Italy,2020,63.8,Moderately Unfree
+4161,Jamaica ,2020,68.5,Moderately Free
+4162,Japan,2020,73.3,Mostly Free
+4163,Jordan,2020,66.0,Moderately Free
+4164,Kazakhstan,2020,69.6,Moderately Free
+4165,Kenya,2020,55.3,Mostly Unfree
+4166,Kiribati,2020,45.2,Repressed
+4167,Kosovo,2020,67.4,Moderately Free
+4168,Kuwait,2020,63.2,Moderately Unfree
+4169,Kyrgyz Republic ,2020,62.9,Moderately Unfree
+4170,Laos,2020,55.5,Mostly Unfree
+4171,Latvia,2020,71.9,Mostly Free
+4172,Lebanon,2020,51.7,Mostly Unfree
+4173,Lesotho,2020,54.5,Mostly Unfree
+4174,Liberia,2020,49.0,Repressed
+4175,Lithuania,2020,76.7,Mostly Free
+4176,Luxembourg,2020,75.8,Mostly Free
+4177,Macau,2020,70.3,Mostly Free
+4178,Madagascar,2020,60.5,Moderately Unfree
+4179,Malawi,2020,52.8,Mostly Unfree
+4180,Malaysia ,2020,74.7,Mostly Free
+4181,Maldives,2020,56.5,Mostly Unfree
+4182,Mali,2020,55.9,Mostly Unfree
+4183,Malta,2020,69.5,Moderately Free
+4184,Mauritania,2020,55.3,Mostly Unfree
+4185,Mauritius,2020,74.9,Mostly Free
+4186,Mexico,2020,66.0,Moderately Free
+4187,Micronesia,2020,52.0,Mostly Unfree
+4188,Moldova,2020,62.0,Moderately Unfree
+4189,Mongolia,2020,55.9,Mostly Unfree
+4190,Montenegro,2020,61.5,Moderately Unfree
+4191,Morocco,2020,63.3,Moderately Unfree
+4192,Mozambique ,2020,50.5,Mostly Unfree
+4193,Namibia,2020,60.9,Moderately Unfree
+4194,Nepal,2020,54.2,Mostly Unfree
+4195,Netherlands,2020,77.0,Mostly Free
+4196,New Zealand,2020,84.1,Free
+4197,Nicaragua ,2020,57.2,Mostly Unfree
+4198,Niger,2020,54.7,Mostly Unfree
+4199,Nigeria,2020,57.2,Mostly Unfree
+4200,North Korea,2020,4.2,Repressed
+4201,North Macedonia,2020,69.5,Moderately Free
+4202,Norway,2020,73.4,Mostly Free
+4203,Oman,2020,63.6,Moderately Unfree
+4204,Pakistan ,2020,54.8,Mostly Unfree
+4205,Panama ,2020,67.2,Moderately Free
+4206,Papua New Guinea,2020,58.4,Mostly Unfree
+4207,Paraguay ,2020,63.0,Moderately Unfree
+4208,Peru,2020,67.9,Moderately Free
+4209,Philippines,2020,64.5,Moderately Unfree
+4210,Poland,2020,69.1,Moderately Free
+4211,Portugal,2020,67.0,Moderately Free
+4212,Qatar,2020,72.3,Mostly Free
+4213,Republic of Congo ,2020,41.8,Repressed
+4214,Romania,2020,69.7,Moderately Free
+4215,Russia,2020,61.0,Moderately Unfree
+4216,Rwanda,2020,70.9,Mostly Free
+4217,Saint Lucia,2020,68.2,Moderately Free
+4218,Saint Vincent and the Grenadines,2020,66.8,Moderately Free
+4219,Samoa,2020,62.1,Moderately Unfree
+4220,São Tomé and Príncipe ,2020,56.2,Mostly Unfree
+4221,Saudi Arabia,2020,62.4,Moderately Unfree
+4222,Senegal,2020,58.0,Mostly Unfree
+4223,Serbia ,2020,66.0,Moderately Free
+4224,Seychelles,2020,64.3,Moderately Unfree
+4225,Sierra Leone,2020,48.0,Repressed
+4226,Singapore,2020,89.4,Free
+4227,Slovakia,2020,66.8,Moderately Free
+4228,Slovenia,2020,67.8,Moderately Free
+4229,Solomon Islands,2020,52.9,Mostly Unfree
+4230,South Africa,2020,58.8,Mostly Unfree
+4231,South Korea,2020,74.0,Mostly Free
+4232,Spain,2020,66.9,Moderately Free
+4233,Sri Lanka,2020,57.4,Mostly Unfree
+4234,Sudan,2020,45.0,Repressed
+4235,Suriname,2020,49.5,Repressed
+4236,Sweden,2020,74.9,Mostly Free
+4237,Switzerland,2020,82.0,Free
+4238,Taiwan,2020,77.1,Mostly Free
+4239,Tajikistan,2020,52.2,Mostly Unfree
+4240,Tanzania,2020,61.7,Moderately Unfree
+4241,Thailand ,2020,69.4,Moderately Free
+4242,The Bahamas,2020,64.5,Moderately Unfree
+4243,The Gambia,2020,56.3,Mostly Unfree
+4244,Timor-Leste,2020,45.9,Repressed
+4245,Togo,2020,54.1,Mostly Unfree
+4246,Tonga,2020,58.8,Mostly Unfree
+4247,Trinidad and Tobago,2020,58.3,Mostly Unfree
+4248,Tunisia,2020,55.8,Mostly Unfree
+4249,Turkey,2020,64.4,Moderately Unfree
+4250,Turkmenistan,2020,46.5,Repressed
+4251,Uganda,2020,59.5,Mostly Unfree
+4252,Ukraine,2020,54.9,Mostly Unfree
+4253,United Arab Emirates,2020,76.2,Mostly Free
+4254,United Kingdom,2020,79.3,Mostly Free
+4255,United States,2020,76.6,Mostly Free
+4256,Uruguay ,2020,69.1,Moderately Free
+4257,Uzbekistan,2020,57.2,Mostly Unfree
+4258,Vanuatu,2020,60.7,Moderately Unfree
+4259,Venezuela ,2020,25.2,Repressed
+4260,Vietnam,2020,58.8,Mostly Unfree
+4261,Zambia,2020,53.5,Mostly Unfree
+4262,Zimbabwe,2020,43.1,Repressed
